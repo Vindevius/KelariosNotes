@@ -1,0 +1,1 @@
+The Staderia Citadel is the citadel of King Osian and Queen Leysa, the rulers of the Staderia Confederacy.

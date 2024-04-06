@@ -1,0 +1,7 @@
+- Soon after the creation of the dragons and people, three of the evil deities (Morthadius, Marcaith, and Domexius) sought more power. In the land east of Kyria, between the mountains of Veteria and Staderia, they created abominations and sowed them into the world. These creatures overtook the world in vast numbers. A mixture of magic and chromatic dragon blood created Tiamat, who was sealed away in the Nine Hells.
+- Each of the other gods brought forth a mortal champion and sent them against these vile creatures. These 18 champions defeated the creatures and banished most of them to the underdark. Others were banished to entirely different planes of existence. The demons to the Abyss. The devils to the Nine Hells. The elementals to the elemental chaos.
+- Morthadius, Marcaith, and Domexius brought forth their own champions, who were overwhelmed by the other gods’ champions. As punishment for these three gods interfering with the world, they were named the Vile Ones and banished.
+    - Morthadius was sent to the Shadowfell, the dark echo of the material plane, and the Shadowfell was sealed off from all other planes of existence.
+    - Marcaith was sealed in the Negative Plane.
+    - Domexius was sealed in the Elemental Chaos with his minions.
+- Each of the seals for the Vile Ones were attached to a location on the material plane. The Shadowfell was attached to the heart of a volcano in Wraithmoor. The Negative Plane was attached to the lifeless area between Kyria and Staderia. The Elemental Chaos was attached to an island in the Sea west of Kyria.

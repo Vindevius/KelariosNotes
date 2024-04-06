@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Kelarios Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is for the DM's eyes only!

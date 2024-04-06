@@ -1,0 +1,80 @@
+- Structure
+	- Society
+		- Powers - deities of the Planes
+		- Proxies - Those granted special status and abilities by the deities of the Planes
+		- Planars - Born on the Planes
+		- Primes - Visitors from the Prime Material Plane
+		- Petitioners - Those who died in the Prime Material Plane
+	- Plane - Layer - Realm
+	- Each plane has a portal to each of the two planes next to it.
+- Upper Planes
+	- Arcadia - LN(G)
+		- A realm of purity housing celestial dwarves who live in harmony with the four demigods who rule the planes.
+		- Layers: Abellio, Buxenus, Nemausus (formerly, now a part of Mechanus)
+		- This is the domain of Signosia
+	- Mount Celestia - LG
+		- A single glorious mountain that embodies justice and grace.
+		- Seven Layers: Lunia (Silver Heaven), Mercuria (Golden Heaven), Venya (The Pearly Heaven), Solania (Electrum Heaven), Mertion (Platinum Heaven), Jovar (Glittering Heaven), Chronias (Illuminated Heaven)
+		- This is the domain of Numeda and Aeontas.
+	- Bytopia - NG(L)
+		- A plane divided into two paradises: tamed fields of crop (Dothion) and unkept wilderness (Shurrock). Representing understanding for freedom and law.
+		- This is the domain of Sovenia
+	- Elysium - NG
+		- The perfect place. A realm of pure good and happiness.
+		- Layers: Amoria, Eronia, Belierin, Thalasia
+		- This is the domain of Medicarma and Vizoia.
+	- The Beastlands - NG(C)
+		- Pure wilderness of every environment. There are no rules besides nature. Every inhabitant is a wild talking animal.
+		- Layers: Krigala, Brux, Karasuthra.
+		- This is the domain of Nafursa and Eriseris.
+	- Arborea - CG
+		- A land governed by pure emotion. Rage and joy are ever-present in Arborean inhabitants.
+		- Layers: Olympus (Arvandor), Ossa (Aquallor), Pelion (Mithardir)
+		- This is the domain of Vecmetus.
+	- Ysgard - CN(G)
+		- Heaven of heroes and war. People rise and fall on the eternal battlefield of Ysgard.
+		- Layers: Ysgard (Valhalla), Muspelheim, Nidavellir
+		- This is the domain of Zorvia.
+- Limbo - CN
+	- The essence of chaos. Every element is interchanged at random, and only strong minds can last more than a minute without being obliterated.
+	- Layers: Gith (Slaad), Susanoo, Agni, Indra, Layer of Lost Gods. All the layers look the same.
+	- This is the domain of Topolus.
+- Lower Planes
+	- Pandemonium - CN(E)
+		- A plane of madness, existing as screaming winds tearing through tunnels to torture the poor souls there. Least inhabited.
+		- Layers: Pandesmos, Cocytus, Phlegethon, Agathion.
+		- This is the domain of Exsoria.
+	- The Abyss - CE
+		- This plane houses every nightmare imaginable and consists of endless layers with unique horrors. Occasionally, the demon kings ventures to the Underdark to rampage.
+		- Layers include: Plain of Infinite Portals (1st layer), infinite
+		- This is the domain of Marcaith.
+	- Carceri (Tartarus) - NE(C)
+		- It's a perfect prison. Six layers that are uniquely cruel to its inhabitants.
+		- Layers: Othrys, Cathrys, Minethys, Colothys, Prophets, Agathys
+		- This is the domain of Domexius.
+	- Hades (The Gray Waste) - NE
+		- Three layers of joylessness, hopelessness, and apathy. No color. Everything is gray. People sent here become larvae with sorrowful faces of their former selves slugging around in the mud.
+		- Layers: Oinos, Niflheim, and Pluton.
+		- This is the domain of Morthadius.
+	- Gehenna - NE(L)
+		- A plane of avarice. The plane of bleak eternity. Housing creatures who are merciless and selfish. If you pass through here and make it out alive, check your pockets.
+		- Layers: Khalas, Chamada, Mungoth, Krangath
+		- This is the domain of Ruichasm.
+	- The Nine Hells of Baator - LE
+		- Each level of the Nine Hells is uniquely horrible and houses devils and fiends of unimaginable power and cruelty.
+		- Avernus, Dis, Minauros, Phlegethos, Stygia, Malbolge, Maladomini, Cania, and Nessus.
+		- This is the domain of Neglamel and Efimera.
+	- Acheron - LN(E)
+		- Four iron cubes floating through space slamming into each other at random. These cubes represent pain and war. The infernal battlefield. Conformity. Mercy killers live here. (Orcs & Goblins)
+		- Layers: Avalas, Thuldanin, Tintibulus, Ocanthus
+		- This is the domain of Seravius.
+	- The Blood War: Baator vs the Abyss
+		- Those who die and come here become a larva or a mane. They can then rise up to become a devil or demon and become part of the blood war. That is why devils and demons seek to corrupt mortals. Most of the blood war takes place in the Gray Waste (Oinos).
+- Mechanus - LN
+	- A plane of perfected clockwork housing a creature called Primus and all of his mechanical children. Giant cogs in space
+	- Layers: Regulus (land of the Modrons), others that are unnamed
+	- This is the domain of Tempronus.
+- The Outlands
+	- A vast field that has towns based at its edges. Each one is a settlement that exemplifies an outer plane and is a gateway to that plane. Sigil is located at the top of its central spire.
+	- Layers: 9th Ring (1st layer, magic mostly unaffected), 8th Ring (9th level spells don’t work), 7th Ring (8th level spells don’t work), 6th Ring (7th level spells don’t work), 5th Ring (6th level spells don’t work), 4th Ring (5th level spells don’t work), 3rd Ring (4th level spells don’t work), 2nd Ring (3rd level spells don’t work), 1st Ring (2nd level spells don’t work), The Spire (no spells work), Sigil (magic works fine except planar travel).
+	- This is the domain of Valeia.

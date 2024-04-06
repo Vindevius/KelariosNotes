@@ -1,0 +1,3 @@
+- https://docs.google.com/document/d/1-x4EKvXMW-loBwMCRE58bpH_9S9lUf3Gu3yUvCcFZmc/edit
+- The Shadow Keep and Leysa's Room in Castle Staderia are protected by the forbiddance spell. The password: nightlock. Diana and the Cleric (Felix of the Woods) are the only ones to know the password. Felix is the equivalent of Diana's Uncle. Balor found it out before possessing Draynnon. This was done by torturing Felix of the Woods and the use of the spell
+- Tunnel system in Staderia (sewers) regular tunnels can be accessed using a shadow tattoo. The shadow keep can only be accessed by the shadow council, be with one of them, or have their permission. Castle Staderia can only be accessed by Diana, Derek, Luna, Leysa, and Osian, or someone with them or their permission.

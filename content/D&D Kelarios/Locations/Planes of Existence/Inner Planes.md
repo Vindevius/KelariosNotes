@@ -1,0 +1,67 @@
+- Material Plane
+    - The plane is where Kelarios exists, and where almost everything takes place.
+- Underdark:
+    - A vast, multi-layered underworld that serves as a dark mockery of our world.
+	- The Upperdark: Home to dark elf (drow) outposts and settlements, a portion of the deep gnome population, some of the less valued stone giants, and simple underground dangers.
+	- The Middledark: Classic Underdark. The most visited and inhabited area. Bigger cities, bigger monsters, Mindflayers.
+	- The Lowerdark: Eldritch Horrors
+		- It was made to kill you.
+	- Faerzress - the Underdark’s Magic Radiation.
+		- A constant magic force that protects from scrying, alters spells, limits teleportation, and feeds plants.
+		- Drow often build around strong springs of it.
+	- Creatures
+	    - Drow - slavers, worship Lolth. Women on top. Raid the surface. Everything not a drow is livestock or a threat.
+	    - Aboleths - the old “old gods” ruled the world before a war on the new gods forced them into hiding.
+	    - Cloakers, beholders, illithids (mindflayers), duergar (dark dwarves), derro (duergar who are insane), Svirfneblin (deep gnomes)
+	- Locations
+	    - Menzoberranzan - the city of spiders, 2 miles down in the Upperdark. Drow city.
+	    - Blingdenstone - the city of speaking stones, fortified home of many deep gnomes, almost entirely hidden.
+	    - Gracklstugh - the city of blades, duergar citadel, largest trade district.
+	    - Gauntlgrym - the ancient dwarven city.
+	    - Neverlight Grove - the fungal oasis, formed by hundreds of myconids working in unison as a peaceful hivemind.
+- Feywild
+    - This echo plane overlaps the Material Plane. It is a strange reflection of the Material Plane with similar geography and landmarks, but it is a place of wilderness. All sensations are heightened here. There are various portals on the Material Plane to the Feywild.
+    - Creatures include ogres, hags, fairies, satyrs, and other magical creatures. Elves, Changelings, and Harengons came from here.
+    - A creature that leaves the Feywild must make a DC 10 Wisdom saving throw. Fey creatures automatically succeed on the saving throw, as do any creatures (like elves and half-elves) that have the Fey Ancestry trait. A creature that fails the saving throw remembers nothing from its time spent in the Feywild. On a successful save, the creature’s memories remain intact but are a little hazy. Any spell that can end a curse can restore the creature’s lost memories.
+- Shadowfell
+    - This echo plane is a dark echo of the Material Plane. It is a place of darkness, a bleak, desolate place full of decay and death. There are consistent storm clouds above. There are very few cracks that allow medium or smaller creatures through. There are a few cracks large enough for death giants to exit through, but they are not well known.
+    - Creatures include: Shadow dragons, shades, darkmantles, death giants, balhannoths, displacer beasts ghosts, nightwalkers, shadow elementals, and wraiths.
+    - Morthadius is currently trapped in this realm, but his cult is actively working to free him.
+- Elemental Planes
+    - Water
+	    - An endlessly spanning Sea of Worlds. A few islands house surface dwellers who are constantly at war for territory. Civilized merfolk to nightmarish aboleths live here. At the base of the ocean lies the City of 10,000 Pearls, with a palace of coral inhabited by aquatic genies called Marids.
+    - Earth
+	    - A world made of stones and gems. Mountains touch the skies with vast caverns inhabited by mostly stone genies called Dao. Their central hub is called the City of Jewels, made entirely of priceless metals and gems. Do not steal from here.
+    - Fire
+	    - A wasteland of burning. The majority of the plane is covered by the Cinder Wastes and the Sea of Fire, dotted with azurs and salamanders. The capital is the City of Brass. A massive city filled with riches and hundreds of thousands of inhabitants. Visitors include everything from demons to dragons. It is mainly ruled by efretti. Many fire-based creatures live here.
+    - Air
+	    - A plane of howling empty space with hostile winds and great winged creatures. The stone islands drift through the sky with some clouds packed together by djinni.
+	    - Transition Areas
+		    - Plane of Ooze (Swamp of Oblivion)
+		    - Plane of Magma (Fountains of Creation)
+		    - Plane of Ash (Great Conflagration)
+		    - Plane of Ice (Frostfell)
+    - Elemental Chaos
+	    - This tempestuous sea of ever-changing terrain and clashing elements is found on the edge of the elemental planes. The Elemental Chaos was relatively easy to pass through even with this chaos.
+	    - Domexius was trapped in a sealed-off portion of the Elemental Chaos. Over the years, he has broken through this seal, but only in the Elemental Chaos. He still cannot escape to any other plane, including the other Elemental Planes.
+    - Quasi-Elemental Planes
+	    - Positive Quasi-Elemental Planes
+	    - Quasi-Elemental Plane of Lightning
+	    - Quasi-Elemental Plane of Radiance
+	    - Quasi-Elemental Plane of Minerals
+	    - Quasi-Elemental Plane of Steam
+    - Negative Quasi-Elemental Planes
+	    - Quasi-Elemental Plane of Vacuum
+	    - Quasi-Elemental Plane of Ash
+	    - Quasi-Elemental Plane of Dust
+	    - Quasi-Elemental Plane of Salt
+- Positive Plane
+    - The Positive Plane can be reached through the Ethereal Plane or an adjacent elemental plane. There are no known conduits from the Material Plane.
+    - A plane of infinite, empty, blinding firestorm of life-giving light. It proves that too much of a good thing can quickly kill you. There is no breathable air here.
+    - Upon entering the Positive Plane, a mortal would be blinded but immediately healed by the light along with any other wounds. As the mortal’s cells reached their capacity, there would be a fleeting moment of realization of what it means to be mortal before exploding in a burst of radiant energy. You gain 2d6 hit points per round healing you and then granting you temporary hitpoints. Once you reach double your hit points, you burst into energy.
+    - Those who successfully returned from the Positive Plane returned fully healed of all wounds and their supercharged bodies could withstand more damage than usual. This effect lasted anywhere from a few minutes up to about three hours, after which all things returned to normal. The energy has no effect on disease as the energy helps the disease as much as the victim.
+- Negative Plane
+    - A plane of pure darkness. It is an airless, featureless void of darkness. Don’t go here. The question is, what will kill you first, some dark creature or the environment itself? Only the undead can travel freely here.
+    - The only way to cross into the Negative Plane is through the Ethereal Plane or an adjacent elemental plane. There is only one known conduit to the Negative Plane from the Material Plane, which is located on the Thilcaith Plateau just east of Kyria at the base of the Isredi Mountains. This conduit was created in the process of sending Marcaith to the Negative Plane.
+    - The moment a mortal being crosses over into the negative plane, there is a chance that a nearby nightwalker steps from the Negative Plane into the Prime Material Plane with one thing to do: destroy all life. In order to leave, the mortal must convince the nightwalker to return to the Negative Plane. The more someone tries to break out, the harder the barrier resists.
+    - Marcaith is currently trapped in this plane. He is in a constant state of suffocation. Marcaith is only alive because of being the deity of affliction and the help of the Cult of Marcaith, which has sent various potions into the Negative Plane to heal him. He is constantly in pain.

@@ -1,0 +1,1 @@
+The Dancing Dragon is run by Jowell Revalus the Firebrand and his wife Sovia Revalus. It is the hub of activity in Staderia.

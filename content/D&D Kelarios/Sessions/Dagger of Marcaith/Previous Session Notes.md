@@ -1,0 +1,41 @@
+### Session 10 - The Gray Wastes
+- Leysa mentions to Osian about Garic infiltrating the Shadows, he tells her they should start casting zone of truth in their meetings.
+- In the Shadow Keep, Jerry, a blue tiefling, makes a binding contract between Diana and Philip the Archmage
+	- Philp:
+		- Infiltrate the cult of Marciath and retrieve the tuning forks to abyss
+		- If possible he will also infiltrate the cult of Domexius and retrieve the tuning forks to bad place
+		- He will not say or show that he is working for the shadows and will make his resurrection appear genuine with the help of the Demon Balor who was the former Champion of Morthadus who once possessed Diana.
+	- Diana:
+		- Diana will not kill, harm, or betray Philp as he is also not going to cause harm, injury, or betray Diana.
+		- Diana will talk to the deity God God about making Philp the replacement for Marcaith when the time comes.
+		- Diana will also offer help to Philp in his trials to return to the cults and provide assistance as needed.
+- Diana tells Luna to slip people truth serum in meetings.
+- Zanryn & Draynnon are gay.
+- Seer Orb Fiasco (Thornhall/Shadow Keep) - Diana through Exsoria fixed one in meeting room to show falsehoods, Luna locked onto it before Diana hit it like Pippin in LOTR
+- Leysa finds seer orb in Staderian Keep war room. Destroys it.
+	- Also finds out Thor is affected by transmutation magic (True Polymorph, see doesn't know that).
+- Diana - Luna convo, Luna saw Verithinus, Diana mentioned call of the alpha.
+- Reggie starts creating unicorn tattoo. Little Reggie (5 year), Reggie's dead sister Yelena Belova adopted son is in workshop, likes explosions, Diana taught flam alcohol
+- Reggie working on NaK vials, explosions occur.
+- Aladus walks in to get Zanryn during private time with Draynnon when no one else will.
+- Draynnon joins Diana, Derek, Aladus, & Zanryn as they teleport to Staderian Keep.
+- Gurgi, munchings & crunchings reveal - muppets to Leysa.
+- Thor, Leysa's dire wolf, is Thor. Only Diana knows
+- Battle before the tower. Draynnon fights with necrotic blade.
+- Diana's fury. No one hurts her man Derek.
+- Aladus, powdered nycaloth brain. (Aladus x2, Leysa x4)
+- infiltrate tower, Leysa Nat 20, killed two mezzos.
+- Ozzalon's lab, then illusion room, Diana nat 20 dex save to avoid. Rope dangle to find way through after failed misty step.
+- Prison with nightmare and night hag, Diana obsessed with freeing nightmare
+- Diana charges toward Yondal, ultroloth that disregards party letting the mezzos attack. Diana negotiates as the others battle. Multiple wolves die. Leysa is phoenix.
+- Yondal halts the battle, tells Diana after nat 20 persuasion that if she and her group survives the shadow serpent, she can have the nightmare and kill the night hag.
+- Leysa phoenix blinds shadow serpent.
+- Shadow serpent downs Derek and Thor, Derek safe in Raven's slumber. Both Diana & Derek swallowed. Diana used noose of the gods 1st time.
+- Drayynon kills cano, nat 1, sends eldritch blast at serpent on accident, only Leysa noticed.
+- Shadow serpent uses shadow breath twice, the second time on low health. As the shadow serpent prepared to bite Aladus, which would have been a critical hit and kill Aladus, Phoenix Leysa slays the serpent, which dissolved into shadow.
+- Diana, Derek, and the one surviving wolf (out of 6), make there way to prison after Yondal and Galla congratulate them while finishing popcorn.
+- Leysa extracts the morthadium.
+- Diana tears apart night hag, nat 20 befriends nightmare. The party leaves tower and teleports to the Shadow Keep.
+- Garic waits for them outside the entrance.
+
+### Session

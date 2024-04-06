@@ -1,0 +1,1 @@
+A copper dragonborn champion who was freed by Diana and Leysa from a cell in a deserted town in northern Exaria (the Barren Lands) after being detained by [[Garic]], the Champion of Marcaith, and other cultists. He helped the party kill Esadora, a bheur hag and then joined [[The Shadows]].

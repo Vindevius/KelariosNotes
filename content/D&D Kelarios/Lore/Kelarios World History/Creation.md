@@ -1,0 +1,6 @@
+- The fourteen great gods came together under the guidance of Verithinus to form the world of Kelarios and its moon Selara. They imbued the small planet with great magic and, for a time, were in balance with one another. 
+- The seven good gods created the noble dragons. The seven evil deities created the chromatic dragons. Verithinus created the platinum dragon, Bahamut.
+- Together, they created elves, dwarves, and then humans. Then, the other races followed after these main three.
+- Kelarios prospered, and the country of Kyria and its capital city of Kelar was formed near the western coast of the main continent.
+- The land was balanced. Seven neutral gods took their places in the pantheon.
+- Then, the seven neutral created the gem dragons.

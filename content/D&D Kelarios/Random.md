@@ -1,0 +1,2 @@
+Trolls can graft other body parts, including dragon parts, onto their bodies due to their regeneration ability.
+Have a quickling NPC (Feywild), in future campaigns, its descendents have grown numerous.

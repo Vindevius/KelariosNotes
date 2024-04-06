@@ -1,0 +1,8 @@
+- Ethereal Plane
+    - A misty and faint location that overlaps the inner planes and the Prime Material Plane. Those in the plane can observe the world around them but not interact with it. Many ghosts and spirits haunt its dark void.
+- Astral Plane
+    - A spatial void filled with floating chunks of dead gods and ancient evils. Randomly placed in this space are discs that act as portals to each plane defined by the color they hold. It connects the Prime Material Plane to the Outer Planes.
+    - The Githyanki live here. They are allies of Domexius and all red dragons.
+	- Fugue Plane
+	    - A neutral plane within the Astral Sea where the souls of mortals were drawn when they died. The vast majority of this plane was flat, gray, bland, and nondescript, with no notable topographical features. The sky overhead was also gray. The plane's only significant feature was the City of Judgment, in the middle of which stood the Crystal Spire where Kelemvor and Jergal resided, and it served as the former's dominion.
+	    - The only way to get to this plane was as a divine servant collecting a deity’s future petitioners, through non-permanent portals from the Nine Hells or the Abyss, or through death. The plane is also connected with the Shadowfell.
