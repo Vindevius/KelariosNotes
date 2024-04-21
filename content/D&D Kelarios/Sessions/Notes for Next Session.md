@@ -15,9 +15,27 @@
 
 
 - NaK Vial prototype: Roll a d6, on a 2-3 it doesn't break, on a 1 it breaks prematurely.
+- Eradas' Lair
+	- As they enter the catacombs, the main party is cut off from those they bring with them. Only player characters get past. Eradas only lets those he deems worthy to go through the trials in.
+	- Three Riddles
+		- A cluster of spikes I send to any who call me foe. In the air I stay, for those that draw my woe. (Manticore)
+		- My appetite knows no bounds, as I feast upon flesh. Beware my renewal, as I regrow afresh. There are but two ways to destroy my flesh. (Dire Troll)
+		- Alone I stay ever watchful, as I look for enemy designs. I collect my trophies near me, they are your warning signs. (Beholder)
+	- After the players pass through these trials, Eradas rewards them with a Heroes' Feast as long as they didn't run from any of the trials. If they ran from any of the trials, he shouts, "You ran!" and then roars. He then attacks them for one last trial, whether or not they ran.
+	- Eradas' Last Riddle/Puzzle together
+		- In what is your strength?
+			- Air (T,O)
+				- The letters are heard in the wind. If the player isn't secured, the player begins to rapidly be pushed away 30 feet per round. Strength check (DC 15) to pull themselves back on a rope.
+			- Earth (G,E)
+				- The letters are buried in sand, which is behind a loose wall of stone. DC 15 Investigation check to feel the letters, DC 15 Intelligence check to understand the letters. 1d10 bludgeoning damage per round in the stone & sand.
+			- Fire (T,H,)
+				- The letters are in the base of the flames. 1d10 fire damage per round in the flames and set on fire.
+			- Water (E,R)
+				- The letters are written at the bottom of the well. DC 15 Strength check to pull yourself out on a rope. DC 20 Strength check to swim back without a rope. 1d10 cold damage per round submerged.
 - Balor, after he is defeated again, becomes a Balor (demon type) in the Abyss. If he dies before the party gets to the Abyss to find Marcaith's poison, they will find him there as a Balor.
 - Carceri is difficult to get out of. You cannot plane shift or teleport out of Carceri.
-- The Shadow Keep and Leysa's Room in Castle Staderia are protected by the forbiddance spell. The password: nightlock. Diana and the Cleric (Felix of the Woods) are the only ones to know the password. Felix is the equivalent of Diana's Uncle. Balor found it out before possessing Draynnon. This was done by torturing Felix of the Woods and the use of the spell
+- The Shadow Keep and Leysa's Room in Castle Staderia are protected by the forbiddance spell. The password: nightlock. Diana and the Cleric (Felix of the Woods) are the only ones to know the password. Felix is the equivalent of Diana's Uncle. Balor found it out before possessing Draynnon. This was done by torturing Felix of the Woods and the use of the spell *Suggestion*. Balor, through Draynnon, cut the shadow tattoo of of Felix, taking away his ability to send for help.
+- Philip the archmage asked Zayn Shadowend for a Abyssal tuning fork. Zayn saw through Philip's deception and attack him. Philip was brought down to 1 hp and almost escaped after casting time stop and creating a wall of force behind him. Zayn, however, dimension doored past the wall and commanded a cultist to knock him out, which the cultist did. Philip was tortured by Zayn, and after a day of torture (2 Nat 1's) he broke, telling Zayn the party's plan to go to the Abyss and Carceri. Zayn then locked Philip away, contemplating killing him. Instead Zayn left Philip with a nasty scar across his face and cut off Philip's right foot.
 - Tunnel system in Staderia (sewers) regular tunnels can be accessed using a shadow tattoo. The shadow keep can only be accessed by the shadow council, be with one of them, or have their permission. Castle Staderia can only be accessed by Diana, Derek, Luna, Leysa, and Osian, or someone with them or their permission.
 - Tavern Keeper Jacob in Kelar with an invisible and silent vicious shotgun.
 	- Attack Type: Ranged

@@ -1,0 +1,6 @@
+- Tha Ethela
+	- King Astrolites Harlor
+		- CE m red dragonborn warlock
+		- the Champion of Domexius and ruler of Veteria. He is the dragonborn behind the war between Veteria and Kyria.
+	- Queen Ansae Harlor
+		- NE f black dragonborn ranger

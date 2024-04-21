@@ -25,8 +25,9 @@ tags:
 		- Hope tokens are similar to fear tokens for the players. Hope tokens can be spent to decrease the tension of a scene. Two hope tokens can be spent on something larger or more difficult. For example, a hope token can be spent to add a d6 to a roll or to gain one spell slot of level 3 or below. For spell slots above 4th level, an extra hope is spent for each level, up to 7th level for a total of all five hope.
 	- Flow of Combat:
 		- Combat starts with each side rolling 1d20 for initiative, using the highest modifier for each side. If any player or creature has advantage on initiative, then that side rolls with advantage. If the DM goes first, only 1 boss or 2 creatures can be activated before the players' turn. If it is an ambush or surprise on either side, initiative is not rolled, and combat continues from that point.
-		- On the players' turn, any player or friendly NPC can go in any order, including at the same time. If a player rolls with hope, that player gains a hope token, and the players continue their turns. If a player rolls with fear, after that player's turn, it will be the DM's turn, and the DM will gain a fear token.
-		- For each action that a player takes, the DM gains one action token. On the DM's turn, the DM can use as many action tokens as are available to activate one creature. The DM must always use at least one action token on their turn. The DM can spend two action tokens to create a fear token and vice versa. Lair Actions cost two fear tokens. Legendary Actions are unaffected by this system and do not require a fear token to occur after another creature's turn.
+		- On the players' turn, any player or friendly NPC can go in any order, including at the same time. If a player rolls with hope, that player gains a hope token, and the players continue their turns. If a player rolls with fear, after that player's turn, the DM can take a turn or gain one fear token.
+			- If a player casts a spell directed at an enemy, that player rolls a d20 and uses that result for their hope/fear result.
+		- For each action that a player takes, the DM gains one action token. On the DM's turn, the DM can use as many action tokens as are available to activate one creature. The DM must always use at least one action token on their turn. The DM can spend two action tokens to create a fear token and vice versa. Lair Actions cost two fear tokens. Legendary Actions are unaffected by this system and do not require a fear token to occur after another creature's turn, but cannot occur after a player's critical success.
 		- At the end of the combat, if the DM has any remaining action tokens, the DM can convert them into fear tokens for later use, or if there are more than eight, convert all of them into an inspiration die for an enemy. The DM can only have one inspiration die at a time.
 	- Critical Rolls have special effects as follows:
 		- On a critical success (Nat 20), the DM does not gain an action token. For the next turn, the DM cannot use any legendary action, lair action, or attempt any attack against the players. The players have advantage on their next action.
@@ -35,7 +36,9 @@ tags:
 			- If an enemy gets a critical failure, the DM loses a fear token, the DM's turn ends, and the players have advantage on their next action. The DM also gains a hope token for friendly NPCs.
 	- Reactions & Spell abilities.
 		- Reactions, such as opportunity attacks, remain the same. Players and creatures can only have one reaction per time they are being attacked.
-8. Death Saves and Scars
+	- Held Actions
+		- On the rare occasion that someone holds their action, that person will roll a d20. If they roll with hope or fear, the normal flow of combat continues based on the result. If the player rolls a d20 when their held action is taken, the roll is not affected by the hope and fear system unless it is a critical success or failure.
+1. Death Saves and Scars
 	- When a player fails a death save, if that roll was with fear, the player rolls on the following injuries table using 2d10s. That roll is with disadvantage if the roll was a Nat 1. If the roll was with hope, nothing happens. The player does not have to roll for another failed death save until after the player is brought back from unconsciousness.
 		- 2 = Lose an Eye
 			- You have disadvantage on Wisdom (Perception) Checks that rely on sight and on ranged attack rolls more than 30 feet away, but you gain advantage on Charisma (Intimidation) Checks. Magic such as the *regenerate* spell can restore the lost eye. If you have no eyes left after sustaining this injury, you're blinded.
@@ -56,7 +59,7 @@ tags:
 		- 17-20 = Minor Scar
 			- The scar doesn't have any adverse effect. Magical healing of 6th level or higher, such as *heal* and *regenerate*, removes the scar.
 	- If a player needs to be resurrected, if the final roll that brings them back is with fear, the player loses a hope slot. If it is with hope, the player gains a hope slot if they are missing one. The missing hope slot can also be regained by the following 9th level spells: *mass heal*, *power word: heal*, *true resurrection*, and *wish*.
-9. Resurrection Rules
+2. Resurrection Rules
 	- If a character is dead, and a resurrection is attempted by a spell or spell effect with longer than a 1 action casting time, a resurrection challenge is initiated. Up to 3 members of the adventuring party can offer to contribute to the ritual via a contribution skill check. The DM asks them each to make a skill check based on their form of contribution, with the DC of the check adjusting to how helpful/impactful the DM feels the contribution would be.
 	- After all contributions are completed, the DM then rolls a single, final resurrection success check with no modifier. The base DC for the final resurrection check is 10, increasing by 1 for each previous successful resurrection the character has undergone (signifying the slow erosion of the soul's connection to this world). For each successful contribution skill check, this DC is decreased by 3, whereas each failed contribution skill check increases the DC by 1.
 	- Upon a successful resurrection check, the player's soul (should it be willing) will be returned to the body, and the ritual succeeded. On a failed check, the soul does not return and the character is lost.

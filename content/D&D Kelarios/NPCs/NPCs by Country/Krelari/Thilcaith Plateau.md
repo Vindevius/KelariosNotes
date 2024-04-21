@@ -1,0 +1,39 @@
+- Shadows
+	- Amara Vesperine Rothwood
+		- member of the Shadows
+		- Mark of Shadow Elf
+	- Luth Helder
+		- Aasimar (50 years old)
+		- member of the Shadows
+- Wuryn Kingdom
+	- Blackbell
+		- Malic the Back Breaker
+	- Dustscar
+		- Duchess Edea the Justice
+	- Ghosthave Fort
+		- General Tathaln the Cold (Estelar)
+	- Longhowl
+		- Sheriff Gesh
+		- The Nine Lives
+		- The Cold Blooded
+		- Knights of Vengeance
+	- Starburn
+		- High Lords and Ladies
+			- High Lord Cyrus the Defender of Man
+			- High Lady Judith Nightslayer
+			- Mira Cintrust (Deceased)
+		- Thieves of Honor
+			- Alaric
+		- The Restless
+			- Chrysander "Sander" Winston (Shadows)
+				- Rieta (Deceased)
+			- Kallista "Kal" Pepperidge
+				- Nemeia (Alive?)
+				- Morthos
+			- Lerissa "Les" Ironcloud
+			- Fiez "Filiza" Barker
+				- Criella (Deceased)
+				- Lucius
+				- Lumar
+		- Shadows
+			- Alfidi "Ali" Siliva Kinsley

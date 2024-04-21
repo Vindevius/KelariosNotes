@@ -1,0 +1,17 @@
+- Gorlath
+	- a wight who was once a powerful sorcerer that ruled from the Gorlathia Plateau.
+- Arexgant Dusdius
+	- LN Fighter and leader of Gorlathia
+- Vulrog
+	- CN Berserker Barbarian
+	- member of the Shadows
+- Verigal
+	- The Creepy Liar
+		- Gorem & Jamtip
+			- gnomes
+		- Ostraxun
+			- tiefling
+		- Onxy, Allard, Berton
+			- humans
+		- Mad Megan
+			- human

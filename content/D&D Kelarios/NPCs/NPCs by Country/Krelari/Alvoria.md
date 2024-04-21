@@ -1,0 +1,26 @@
+## Republic of Alvoria
+- President Ardreth Vakas
+	- NG m elf barbarian
+- Senators
+	- Ozki Drazk
+		- CN m emerald dragonborn fighter
+	- Manel Theffain
+		- NE f human paladin (oathbreaker)
+	- Vekon Brolma
+		- CG m gold tiefling wizard
+	- Issaviel Gilzorwyn
+		- CE f half-elf warlock
+	- Jisshera Chaetris
+		- NE f half-elf fighter
+	- Caelestis Theus
+		- NE f warforged barbarian
+	- Merobaudes Proudsend
+		- CE m halfling rogue
+	- Tamas Alderman
+		- LG m human warlock
+	- Proxima Arizone
+		- CE f warforged sorcerer
+	- Besdran Bristlebelt
+		- NG m dwarf rogue
+	- Ralnor Elmaer
+		- TN m elf ranger

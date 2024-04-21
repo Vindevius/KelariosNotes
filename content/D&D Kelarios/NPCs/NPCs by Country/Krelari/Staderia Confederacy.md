@@ -1,0 +1,94 @@
+- Culia
+- Dailus
+- Dawnwind
+	- Deceased
+		- Sheriff Revalin Hadeon
+		- Tariq Williams
+- Elarexa
+- Exarus
+- Exkara
+- Koilada
+	- The Vengeful Edge
+		- One-Eyed Stantan
+			- human
+			- member of the Shadows
+		- Logan the Scar, Diby Black Eyes, Knuckles Riston, Brodie
+			- humans
+		- Galinor, Tandyr, Teodnar, Anmorn, Xannar
+			- half-elf
+- Pyora
+- Quillus
+- Sovela
+	- Milas Family (2 adults, 3 kids)
+		- 
+- Staderia
+	- Castle Staderia
+		- King Osian Doyle
+			- [[Diana Moonstone]]'s brother and husband to [[Leysa Doyle]]. He took Leysa's last name due to her royal lineage.
+		- Einar the Enforcer
+		- Katerina Petrova
+		- Exandria Ludithas
+		- Delilah Polaris
+		- Poe Hawthorn
+		- Aladus' Simulacrum
+	- South District
+		- Marcel Petrova
+		- Marcon & Ora Petrova
+	- Dancing Dragon Tavern
+		- Jowell Revalus the Firebrand
+		- Sovia Revalus
+	- General Store
+		- Zorthia
+	- Shadows
+		- Damian Sun
+		- Delilah Polaris
+		- Helah Scar
+		- Wren Riptide
+	- Townfolk
+		- Syriel Winters
+		- Koa Fern
+		- Alinda Smalls
+		- Kasey (deceased, Tariq's victim)
+		- Anton
+		- Resom
+		- Noah
+		- Verhan
+		- Paxatrius
+		- Nadaria
+		- Demetria
+		- Zeiska
+		- Vira
+		- Ava
+		- Hikma
+	- Deceased
+		- King Averus Milas
+		- Queen Erivela Milas
+		- Prince Dorian Milas
+		- Princess Adarla Milas
+- Shadow Keep
+	- Azzirth Zalren
+	- Bersin
+	- Draynnon
+	- Philip
+	- Poppy the Childish
+	- Reggie Belova
+	- Valencia Kalon
+- Thornhall
+	- Khetra Longleaf
+	- Neomi Longleaf
+	- Shiye Tribe
+	- Lunar Pack
+	- Derek Nightlock
+	- Jasper Tinker
+- Veramia
+- Veria
+- Verisa
+- Verusa
+- Vira
+- Wasamar WIlds
+	- Brom the Protector (deceased)
+- Underdark
+	- Massazi
+		- The last gynosphinx and mate of Eradas. She is located close to Pyora in the Underdark guarding some forbidden knowledge. She helped lead Diana, Leysa, Einar, and Katerina toward Mount Morthus.
+	- Jacko
+		- A dust mephit that played a game of rollies with Katerina Petrova and is now scared of Katerina after she tried to kill Jacko when he won a round of rollies.

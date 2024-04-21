@@ -1,0 +1,10 @@
+- King Thrath Mostorm
+	- NG m half-orc monk
+- Klimwir Galba
+	- LN m gnome monk
+	- member of the Shadows
+- Tyllanna Wysarel
+	- LG f half-elf artificer
+	- member of the Shadows
+- Actium Laris
+	- LG m warforged bard, commander of the Alderth Navy

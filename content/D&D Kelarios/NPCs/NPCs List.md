@@ -92,7 +92,7 @@
 
 
 ## Enemies
-### The Vile Ones
+### [[The Vile Ones]]
 - Domexius
 - Marcaith
 - Morthadius
@@ -208,7 +208,7 @@
 - Wramash
 - Xyrith
 
-### The Outcasts
+### [[The Outcasts]]
 - The Avenger
 	- Captain Zale the Charming
 	- Fluffy

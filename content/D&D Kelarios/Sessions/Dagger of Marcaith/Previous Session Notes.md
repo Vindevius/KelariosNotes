@@ -38,4 +38,10 @@
 - Diana tears apart night hag, nat 20 befriends nightmare. The party leaves tower and teleports to the Shadow Keep.
 - Garic waits for them outside the entrance.
 
-### Session
+### Session 11 - Gnolls & Champions
+- The party returns from the Gray Wastes to find Garic waiting for them outside the Shadow Keep. They are ambushed by a pack of gnolls.
+- Reggie gifts Diana a prototype NaK vial.
+- As the party begins to leave, Diana hears Draynnon whisper, "Nightlock" and immediately attacked him. Draynnon was found to be both possessed by Balor the shadow demon and the champion of Morthadius.
+- Draynnon's death released Balor, who was quickly killed. Draynnon, through Exsoria's and Aeontas' help, was released as champion of Morthadius, but died in the process. Aladus resurrected him.
+- Leysa finds out that she is pregnant with a girl via Gurgi. Osian decides to join her to protect Leysa and their unborn child.
+- Osian joins Leysa, and Diana attempts to stop him. Aladus teleported them to Kelar amid Diana and Osian's scuffle. A second Aladus simulacrum welcomes them.

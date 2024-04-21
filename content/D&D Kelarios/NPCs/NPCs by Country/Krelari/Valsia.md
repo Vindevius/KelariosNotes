@@ -1,0 +1,19 @@
+- Avia
+	- Governor Jernas Yelsalor
+- Lusrol
+	- Governor Thuncol Thah
+- Ordova
+	- Governor Trinda Gazerla
+- Terovius (Capital)
+	- King Slalkrem Hodnacot
+	- Queen Smenga Hodnacot
+	- Nogna Afarir (King's Advisor)
+		- member of [[The Shadows]]
+- Tireav
+	- Governor Valka Condor
+- Verma
+	- Governor Opurla Gage
+	- Alastor Hazes (The 10 Lost Ones)
+		- member of [[The Shadows]]
+- Volis
+	- Governor Arlo Wusro

@@ -2,14 +2,14 @@ Experience Tally Marks:
 	Diana: 
 	Leysa: 
 
-| Passive Abilities | Perception | Investigation | Insight | AC  |
-| ----------------- | ---------- | ------------- | ------- | --- |
-| Diana             | 21         | 17            | 16      | 16  |
-| Leysa             | 17         | 13            | 13      | 19  |
-| Gurgi             | 21         | 15            | 12      | 15  |
-| Zanryn            | 17         | 13            | 15      | 19  |
-| Aladus            | 18         | 14            | 18      | 18  |
-| Derek             | 21         | 11            | 13      | 20  |
+| Passive Abilities | Perception | Investigation | Insight | AC  | Walking Speed | Stealth (Don't Use Often) |
+| ----------------- | ---------- | ------------- | ------- | --- | ------------- | ------------------------- |
+| Diana             | 21         | 17            | 16      | 16  | 30            | 29                        |
+| Leysa             | 17         | 13            | 13      | 19  | 30            | 13                        |
+| Gurgi             | 21         | 15            | 12      | 15  | 40            | 19                        |
+| Zanryn            | 17         | 13            | 15      | 19  | 30            | 29                        |
+| Aladus            | 18         | 14            | 18      | 18  | 30            | 17                        |
+| Derek             | 21         | 11            | 13      | 20  | 30            | 30                        |
 --- start-multi-column: ExampleRegion1  
 ```column-settings  
 number of columns: 2
@@ -45,5 +45,5 @@ GM's Fear
 
 
 
-### Session 11 - The Suspense
+### Session 12 - Kelar
 - 

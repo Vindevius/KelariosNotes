@@ -1,0 +1,18 @@
+- Wizard Council
+	- Humbert Galbassi
+		- Leader of the Wizard Council
+		- CG m halfling
+	- Ted Swiftfoot
+		- LG m halfling
+	- Amella Iliro
+		- CG f half-elf
+	- Reeve Sefare
+		- CG f human
+	- Dravir Dug
+		- TN m half-orc
+	- Avina Emon
+		- TN f human
+	- Isata Aline
+		- CN f human
+- Benne Street
+	- Muppets

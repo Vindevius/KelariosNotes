@@ -1,0 +1,24 @@
+- Council of 7
+	- Thraka Opalhand
+		- CN f dwarf warlock
+	- Itta Galbassi
+		- LG f halfling monk
+	- Hervoark Khizran
+		- LN m half-orc warlock
+	- Jenni Anemon
+		- TN f tortle cleric
+	- Malriah Aeberos
+		- NG f half-elf wizard
+	- Pava Kislo
+		- LE f half-orc monk
+	- Karm Khizran
+		- CG m half-orc bard
+- Council of 3
+	- Effah Ramna
+		- TN f fire genasi fighter
+	- Ixhoid
+		- CG m warforged warlock
+	- Anuzzik Orzis
+		- NG m brass dragonborn bard
+- Unicorn of Aeontas
+	- A unicorn of Aeontas whom Leysa met in the Shiye Forest. The unicorn was drawn into the Violet Realm, where Leysa would meet him again, only for Diana to take his horn to attempt to contact Exsoria.

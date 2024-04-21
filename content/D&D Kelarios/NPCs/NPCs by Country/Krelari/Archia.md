@@ -1,0 +1,21 @@
+- Capital City State
+	- King Onmim Chaincoat
+		- CG m dwarf bard
+- Icenwell
+	- Atlass Daemon
+		- CE m warforged sorcerer
+- Otirdon
+	- Lorroth Advyre
+		- TN m half-elf druid
+- Etmendin
+	- Oberon Aurora
+		- TN m warforged barbarian
+- Cenael
+	- Snala Clangla
+		- CG f gnome bard
+- Olbrook
+	- Volgruk Brewgrog
+		- NG m dwarf wizard
+- Etoahill
+	- Psycho Paragon
+		- NE f warforged wizard
