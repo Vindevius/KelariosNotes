@@ -24,3 +24,24 @@ My mother Neomi (human, 5 foot 4 inches, dark hair, brown eyes) fell in love wit
 # Other Notes
 
 - Diana faced a hellhound named Hitler who attacked her and she barely survived before it vanished as if called back by a master in a portal.
+
+- Exsoria's lesser deities
+	- Hecate - goddess of magic and the moon
+		- located in Aeaea in Pluton in Hades and Aeaea in Minauros in the Nine Hells.
+		- Deal: due to Diana's help of orphans, she grants Diana access to a powerful artifact, Lerasium.
+	- Loki - god of thieves and trickery (banished)
+		- located in Winter's Hall in Pandemonium
+		- Deal: Free him from Pandemonium and he will grant Diana the use of Fenrir in battle.
+	- Thrym - god of frost giants and cold
+		- located in Jotunheim in Ysgard, where he rules alongside Surtur.
+		- Deal: he sends a frost giant to aid Diana in return for sending him one of the Shadows.
+	- Lolth - goddess of spiders (banished)
+		- the lady of shadows/chaos/mistress of lies
+		- located in the demonweb pits in the Abyss (66th layer)
+		- Deal: betray Leysa by killing her, Lolth will grant her power over spiders and the ability to spider climb.
+	- Tharizdun - the chained god/the elder elemental eye (banished)
+		- located somwhere unknown in the Abyss.
+		- Deal: Diana does not understand a word he says. He wants to be freed, in exchange, he will spare her life and those she cares for when he destroys the world.
+	- Tiamat - goddess of greed, queen of evil dragons
+		- located in Avernus in the Nine Hells guarding the portal to the 2nd layer of the Nine Hells (Dis).
+		- Deal: Bring her into the material plane and she will grant Diana high ranking in her cult.

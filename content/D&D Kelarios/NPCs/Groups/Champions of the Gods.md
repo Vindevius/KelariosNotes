@@ -170,6 +170,15 @@
 | Thrym, god of frost giants and cold       | CE, Exsoria    | War               | White double-bladed axe           |                 |                                                                                                                                                                                                                                          |
 | Tyr, god of courage and strategy          | LN, Signosia   | Knowledge, War    | Sword                             |                 |                                                                                                                                                                                                                                          |
 | Uller, god of hunting and winter          | CN, Eriseris   | Nature            | Longbow                           |                 |                                                                                                                                                                                                                                          |
+### The Banished Gods
+
+| Deity     | Alignment | Suggested Domains | Symbol                           | Champion | Champion's Class |
+| --------- | --------- | ----------------- | -------------------------------- | -------- | ---------------- |
+| Lolth     | CE        | Trickery, War     | Spider                           |          |                  |
+| Tharizdun | CE        | Trickery          | Dark spiral or inverted ziggurat |          |                  |
+| Tiamat    | CE        | Trickery          | Dragon head with five claw marks |          |                  |
+
+
 ### List of Minor Deities for Spinning Wheel
 https://spinthewheel.cc/
 Auril, goddess of winter NE Nature, Tempest Six-pointed snowflake
