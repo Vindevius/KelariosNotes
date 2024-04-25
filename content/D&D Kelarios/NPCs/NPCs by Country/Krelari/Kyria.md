@@ -1,4 +1,4 @@
-- Kyria Council of 10
+- Kyria Council of the Star
 	- Nexus Sparrow
 		- CN m warforged bard
 	- Bultrak Ingoth

@@ -1,0 +1,47 @@
+- The Weary Pirate
+	- Jacob Tavern Owner
+- The Friendly Grim Tavern
+	- Description: located in an ancient city, surrounded by vibrant culture and the bustling of daily life.
+	- Rumors: Believably a historical archivist was seen with a strange man from the inn down near the crafts guild and there was a soul gathering demon. People heard it from eighty-six pixies in a trench coat, so it is likely true.,Rumors abound of a powerful dragon that is guarding a hidden city in the mountains. It is said that anyone who enters must face the dragon in single combat.,Rumors abound of a powerful dragon that protects a hidden shrine somewhere in the mountains. It is said that anyone who enters must face the dragon in battle.
+- One Beach Tavern
+	- Description: positioned at the edge of a vast desert, with magnificent views of the sand dunes and the distant horizon.
+	- Rumors: People have heard that a group of adventurers is on a quest for a magical gem. It is said that it will grant them great power and wealth.,Word on the street is that a strange creature is living in the sewers. It is said to be able to manipulate the minds of lesser creatures and even humans.,They say that a mysterious figure has been seen in the area. It is said that he is searching for a magical artifact that will grant him total power.
+- Blue King's Stop
+	- Description: set in a serene lake town, with magnificent views of the shimmering lake and the surrounding mountains.
+	- Rumors: People have heard that a powerful wizard has opened a portal to the astral plane. It is said that anyone who enters will be cursed for eternity.,My niece told me about a fugitive found an old tomb when discovered a lake snake. And now defeated a superior foe in single combat.,The bards tell a tale of a powerful necromancer who has laid claim to a haunted tower in the forest. It is said that anyone who enters risks his/her life.
+- The Pretty King's Lodge
+	- Description: hidden away in a remote corner of the world, surrounded by untouched nature and wildlife.
+	- Rumors: People whisper that a powerful necromancer has been seen in the area. It is said that he is searching for a powerful artifact that will give him domination over death.,Word on the street is that a strange creature is living in the sewers. It is said to be able to manipulate the minds of lesser creatures and even humans.,People whisper that a powerful sorcerer has been seen in the area. It is said that he is searching for a powerful relic that will give him control over the elements.
+- Ye Ol' Fighting Selkie Stop
+	- Description: hidden away in a forgotten corner of the world, surrounded by untouched nature and mysterious creatures.
+	- Rumors: ,They say that a mysterious stranger has been seen in the area. It is said that he is searching for a magical artifact that will grant him untold power.,When they want to scare the children, the locals tell a story of a dragon-tamer in the mountains was seen with an escaped convict down near the crafts guild and nearby there was a dead noble.
+- Silver King's Tavern
+	- Description: hidden away in a secret corner of the world, surrounded by ancient ruins and magical artifacts.
+	- Rumors: A rumor is circulating that a strange creature lurks in the depths of the nearby forest. It is said that it draws its strength from the shadows and that it can only be seen with the help of a special amulet.,The bards tell a tale of a powerful warrior who has laid claim to a cursed temple in the mountains. It is said that anyone who enters risks being trapped forever.,Nailed to a tree is a small note with a warning to all about a dark park with the etchings of a dark ritual, somewhere in the catacombs. If asked further, people will tell you, people who’ve seen it are not the same. In addition a local shopkeeper hushes on the players and leads them to his/her home, when asked about the place.
+- The Friendly Reaper Inn
+	- Description: located at the foot of a grand mountain, with stunning views of the rugged peaks and snow-capped summits.
+	- Rumors: The bards tell a tale of a powerful wizard who has laid claim to a haunted castle in the forest. It is said that anyone who enters risks his/her life.,Word on the street is that a strange creature lurks in the depths of the nearby lake. It is said to be able to control the minds of lesser creatures and even humans.,Word on the street is that a strange creature is living in the sewers. It is said to be able to manipulate the minds of lesser creatures and even humans.
+- Blue Werewolf Tavern
+	- Description: located in a bustling port city, surrounded by the hustle and bustle of daily life.
+	- Rumors: The bards tell a tale of a powerful wizard who has laid claim to a haunted castle in the forest. It is said that anyone who enters risks his/her life.,Word on the street is that a strange creature is living in the sewers. It is said to be able to manipulate the minds of lesser creatures and even humans.,Rumors abound of a powerful dragon that is guarding a hidden temple in the mountains. It is said that anyone who enters must face the dragon in single combat.
+- The Quiet Bear Inn
+	- Description: situated in the heart of a dense forest, with the sound of birds singing and a canopy of trees.
+	- Rumors: The bards tell a tale of a powerful wizard who has laid claim to a haunted castle in the forest. It is said that anyone who enters risks his/her life.,People have heard that a powerful wizard has opened a portal to the astral plane. It is said that anyone who enters will be cursed for eternity.,People have heard that a group of adventurers are on a quest for a magical staff. It is said that it will grant them great power and wealth.
+- Two Cat Rest
+	- Description: tucked away in a hidden valley, with tranquil meadows and a crystal-clear lake.
+	- Rumors: Passers-by talk about the disappearance of someone. They mention a hidden fort said to house something truly abnormal, somewhere out by the waterfall. If asked further, people will tell you, it should be avoided at all cost. In addition a priest at a local temple asks the players to collect something from there.,They say that a mysterious figure has been seen in the area. It is said that he is searching for a magical item that will grant him ultimate power.,They say that a mysterious stranger has been seen in the area. It is said that he is searching for a magical artifact that will grant him untold power.
+- Ye Ol' Fighting Mermaid Tavern
+	- Description: nestled in the heart of a peaceful village, surrounded by rolling fields and lush greenery.
+	- Rumors: The locals tell a story of a powerful warlock who rules a castle in the forest. It is said that anyone who enters must face the warlock in single combat.,Word on the street is that a strange creature lurks in the sewers. It is said to be able to control the minds of lesser creatures and even humans.,People whisper that a powerful necromancer has been seen in the area. It is said that he is searching for a powerful artifact that will give him domination over death.
+- White Werewolf Lodge
+	- Description: nestled in the heart of a peaceful village, surrounded by rolling hills and lush greenery.
+	- Rumors: A rather silly rumour has been circulating that a powerful wizard has opened a portal to the underworld. People heard it from a mysterious traveller, so it is probably just idle gossip.,Rumors abound of a powerful dragon that is guarding a hidden city in the mountains. It is said that anyone who enters must face the dragon in single combat.,The locals tell a story of a powerful vampire who rules a castle in the mountains. It is said that anyone who enters must face the vampire in battle.
+- Bashur's Warrior Tavern
+	- Description: tucked away in a hidden valley, with tranquil meadows and a crystal-clear lake.
+	- Rumors: People have heard that a group of mercenaries are on a quest for a magical sword. It is said that it will grant them great power and wealth.,People whisper that a powerful warlock has been seen in the area. It is said that he is searching for a powerful relic that will give him mastery over death.,Apparently the local dragon has been cursed by a witch to ceaselessly wander through the forest, spontaneously combusting. People heard it from an old Guard, so it is probably true.
+- The Ugly Cat Lodge
+	- Description: overlooking a river, with stunning views of the cascading rapids and the lush riverbank.
+	- Rumors: People have heard that a group of mercenaries are on a quest for a magical sword. It is said that it will grant them great power and wealth.,Word on the street is that a strange creature is living in the sewers. It is said to be able to manipulate the minds of lesser creatures and even humans.,The bards tell a tale of a powerful mage who has laid claim to an ancient temple in the mountains. It is said that anyone who enters risks being trapped forever.
+- The Ugly Bunyip Inn
+	- Description: perched on the top of a hill, with magnificent views of the city and the surrounding countryside.
+	- Rumors: It is said that a lost city exists in the desert, full of treasures, guarded by a powerful being. People heard it from a strange old man at the market, so it is likely true.,The locals tell a story of a powerful vampire who rules a castle in the mountains. It is said that anyone who enters must face the vampire in battle.,Word on the street is that a strange creature lurks in the sewers. It is said to be able to control the minds of lesser creatures and even humans.
