@@ -1,6 +1,7 @@
 Experience Tally Marks:
 	Diana: 
 	Leysa: 
+	Orion: 
 
 | Passive Abilities | Perception | Investigation | Insight | AC  | Walking Speed | Stealth (Don't Use Often) |
 | ----------------- | ---------- | ------------- | ------- | --- | ------------- | ------------------------- |
@@ -10,6 +11,7 @@ Experience Tally Marks:
 | Zanryn            | 17         | 13            | 15      | 19  | 30            | 29                        |
 | Aladus            | 18         | 14            | 18      | 18  | 30            | 17                        |
 | Derek             | 21         | 11            | 13      | 20  | 30            | 30                        |
+| Orion             | 19         | 9             | 14      | 16  | 30            | 11                        |
 --- start-multi-column: ExampleRegion1  
 ```column-settings  
 number of columns: 2

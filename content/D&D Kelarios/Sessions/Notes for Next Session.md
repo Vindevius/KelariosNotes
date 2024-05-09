@@ -40,7 +40,7 @@
 		- Soul Spike Stats:
 			- This twisting, javelin-like spike of glittering platinum is covered from tip to base in intricate runes that pulse with divine energy.
 			- This soul spike can be thrown or thrust into a foe (an improvised weapon attack using Strength or Dexterity, attacker's choice) at a range of 20/40. Upon a hit, if the target has taken enough damage to leave an open wound, the soul spike may embed itself within the weakened opening.
-- Balor, after he is defeated again, becomes a Balor (demon type) in the Abyss. If he dies before the party gets to the Abyss to find Marcaith's poison, they will find him there as a Balor.
+- Balor, after he is defeated again, becomes a Balor (demon type) in the Abyss. If he dies before the party gets to the Abyss to find Marcaith's poison, they will find him there as a Balor. There is an ambush here by Garic.
 - Carceri is difficult to get out of. You cannot plane shift or teleport out of Carceri. There is also a white mass somewhere, which is the beginning of a false hydra.
 - The Shadow Keep and Leysa's Room in Castle Staderia are protected by the forbiddance spell. The password: nightlock. Diana and the Cleric (Felix of the Woods) are the only ones to know the password. Felix is the equivalent of Diana's Uncle. Balor found it out before possessing Draynnon. This was done by torturing Felix of the Woods and the use of the spell *Suggestion*. Balor, through Draynnon, cut the shadow tattoo of of Felix, taking away his ability to send for help.
 - Philip the archmage asked Zayn Shadowend for a Abyssal tuning fork. Zayn saw through Philip's deception and attack him. Philip was brought down to 1 hp and almost escaped after casting time stop and creating a wall of force behind him. Zayn, however, dimension doored past the wall and commanded a cultist to knock him out, which the cultist did. Philip was tortured by Zayn, and after a day of torture (2 Nat 1's) he broke, telling Zayn the party's plan to go to the Abyss and Carceri. Zayn then locked Philip away, contemplating killing him. Instead Zayn left Philip with a nasty scar across his face and cut off Philip's right foot.
@@ -53,3 +53,43 @@
 	- Weight: 7lb.
 	- Properties: Ammunition (Firearms), Range, Reload, Two-Handed
 	- When you roll a 20 on your attack roll with this magic weapon, the target takes an extra 7 damage of the weapon’s type.
+Leysa's questions to Verithinus. DC 15 for Verithinus to talk, DC 18 for him to appear.
+- What will your daughter be like and what will she be destined for?
+	- Why would I spoil that? Your daughters will be a joy in your life, but as with all children, they will bring you some sorrow along the way.
+- Who is going to replace the three vile ones?
+	- Why would I spoil that surprise? OR (Nat 20) The Raven Queen, daughter of Exsoria and Vecmetus will replace Morthadius. 
+- Anything to help moving forward?
+	- Be careful. Especially since you carry something so precious. Be watchful. 
+- How can I be a better ruler for my people?
+	- Be just, but loving. Never be cruel, but be firm. It is a challenge that you will learn as you go.
+- Why do you not get involved? DC 20
+	- Long ago, I put limits to my powers so I could not take away the agency and free will of anyone. I was once a man. I stumbled upon a source of endless power and created a world far away from here where people could be free to make their dreams a reality. One evil man took a portion of that power, and became a tyrant over those people for a millennia. I lost the love of my life in the aftermath. This was before I took on the full power that I have now.
+	- One day, a mere boy came into that world and brought hope with him. Once that tyrant was overthrown, I took the power of that well into myself, and with it I created my children. After that, I put limits to my power as to not become like that tyrant before. I cannot interfere because I have taken that ability away.
+- What are your plans after everything goes down? DC 18
+	- The gods will leave the material plane. I will place a barrier so none of them can directly interact with Kelarios. We will watch from afar. No longer will you have to worry about rogue deities.
+- Why did you choose to reveal yourself to Diana first, when she didn’t believe in you?
+	- That is precisely why I did. You are already faithful and believing. Diana tends to have to see things first. Each child is unique and requires a different approach. You did not need to see me to follow me. Diana did.
+- How can I be the best mother to my daughter?
+	- I believe you are too concerned about your own capabilities. The advice I will give you is to listen to your children.
+- Is Helios in Hell?
+	- Helios is locked away. A prisoner in Carceri. So, yes. He is in Hell.
+- Why did Leysa's parents love Helios more than her?
+	- Sweet child, where did you get that idea? Your parents were imperfect, but they loved you immensely. In their old age, Helios manipulated them in his desire for the throne and power. That was his undoing.
+- Was it hard to banish the vile ones because you still love them?
+	- Yes. Even now, sending you to rip their souls apart with those soul spikes, breaks my heart. Although it is necessary, does not make it easy.
+- If I could go back, is there anything I could’ve changed?
+	- Of course there is, but you do not have that luxury. Nor do I.
+- Are my loved ones at peace?
+	- Yes. Your parents are at peace in Elysium.
+- Is there anything I need to stop doing?
+	- Stop doubting yourself. There are good things to come in the future.
+- How do I help Diana?
+	- Watch her. Keep those she loves safe to the best of your ability.
+
+
+When a Vile One dies.
+	His eyes look to the distance. With his final breath you hear him say "Father." He falls to the ground as a shadowy mist rises from him. His scales turn to dust, drifting into the air, leaving behind his skeleton. The three soul spikes blink out of existence, as though someone is plucking them from his body. The shadowy mist around him, drifts over the portal as a feminine figure cloaked in dark steps from the Shadowfell. Raven hair drifts around her face, which is covered in an ivory-white porcelain mask. She is draped in a robe of raven feathers. The shadowy mist creates a momentary vortex around her and then condenses into her.
+
+- Saint Tahiti's, "It's a magical place" nursing home.
+- Tirian Adrian Ravensilence (Oath of Devotion Paladin) and his bloodhound Brutus confront Diana in the morning. He is her uncle and Orion's son.
+- Thingamabobs - store run by Varian Darwin Ravensilence & his artificer husband. They have adopted tiefling twins (Jessica & Jermey).
