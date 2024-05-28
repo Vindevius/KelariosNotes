@@ -1,18 +1,18 @@
-**Total: 714**
-Tiny: 22
-Small: 68
-Medium: 260
-Large: 54
-Huge: 22
-Gargantuan: 6
-Other: 68
-Terrain: 214
+**Total: 1355**
+Tiny: 31
+Small: 69
+Medium: 421
+Large: 79
+Huge: 32
+Gargantuan: 11
+Other: 82
+Terrain: 630
 
-#### **Tiny: 22**
+#### **Tiny: 31**
 - Aberration: 3
 	- 3 intellect devourers
-- Beast: 9
-	- rabbit, owl, hawk, bat, 2 cats, badger, spider, weasel
+- Beast: 12
+	- badger, bat, 2 cats, flying snake, frog, hawk, owl, poisonous snake, rabbit, spider, weasel
 - Celestial: 
 	- 
 - Construct: 
@@ -23,8 +23,8 @@ Terrain: 214
 	- 
 - Fey: 1
 	- pixie (Leora Moonlight)
-- Fiend: 
-	- 
+- Fiend: 6
+	- Demon: 3 quasit, 3 imp
 - Giant: 
 	- 
 - Humanoid: 2
@@ -38,11 +38,11 @@ Terrain: 214
 - Undead: 6
 	- 3 flameskulls, demilich, crawling hand, will-o'-wisp
 
-#### **Small: 68**
+#### **Small: 69**
 - Aberration: 4
 	- 4 neogi
-- Beast: 3
-	- octopus, jackal (fox/dog), giant rat
+- Beast: 4
+	- giant rat, jackal (fox/dog), octopus, sleeping dog
 - Celestial: 
 	- 
 - Construct: 1
@@ -58,11 +58,11 @@ Terrain: 214
 - Giant: 
 	- 
 - Humanoid: 33
-	- Lucky (1 small, 1 normal), Erix Rivers (harenegon paladin), halfling (Helah Scar), Anya Rawlin (halfling sorcerer), drunk halfling, 6 kobolds, 2 winged kobolds, 3 deep gnomes
+	- 2 Lucky (1 small, 1 normal), Erix Rivers (harenegon paladin), halfling (Helah Scar), Anya Rawlin (halfling sorcerer), drunk halfling, 6 kobolds, 2 winged kobolds, 3 deep gnomes
 	- 16 goblins (Goblin King, goblin boss, 2 sword goblins, 2 mace goblins, 2 bowman, 2 crossbow man, 2 worg riders, rogue, jester, bard, sorcerer).
 		- Goblin Pirate Names: Dyl (sword), Nerxa (rogue), Dragur (jester), Zoisvug (bard), Jaxa (sorcerer), Sloikird (crossbow), Vimvak (archer).
 - Monstrosity: 19
-	- 7 gremlins, 10 wretched sorrowsworn, 1 darkmantle, cockatrice
+	- cockatrice, 1 darkmantle, 7 gremlins, 10 wretched sorrowsworn, 
 - Ooze: 
 	- 
 - Plant: 
@@ -70,47 +70,124 @@ Terrain: 214
 - Undead: 
 	- 
 
-#### **Medium: 260**
-- Aberration: 4
-	- mind flayer, 3 nothics
-- Beast: 
-	- 
+#### **Medium: 421**
+- Aberration: 5
+	- death slaad, mind flayer, 3 nothics
+- Beast: 54
+	- ape, boar, 2 cangul, giant badger, giant crab, giant frog, giant poisonous snake, 3 giant wolf spider, 2 hyena, 2 mastiff, pack mule, panther, swarm of rats, 6 wolf updated, 12 wolf, 4 wolf pounce, 4 wolf run, 5 wolf snarl1, 5 wolf snarl2
 - Celestial: 
 	- 
+- Construct: 2
+	- 2 animated armor
+- Dragon: 13
+	- red dragon wyrmling (Tully), platinum dragon wyrmling, white dragon wyrmling, 2 red drake, 2 black drake, 2 blue drake, 2 green drake, 2 white drake
+- Elemental: 3
+	- 3 fire snake
+- Fey: 3
+	- bheur hag, 2 blink dog
+- Fiend: 25
+	- incubus, night hag, succubus, rakshasa
+	- Demon: shadow demon, yochlol
+	- Devil: erinyes
+	- Yugoloth: arcanaloth, 3 canoloth, 3 dhergoloth, merrenoloth, 6 mezzoloth, 3 hydroloth, ultroloth
+- Giant: 
+	- 
+- Humanoid: 278
+	- Players/Companions: 38
+		- Diana, Werewolf, Leysa, Orion, Gurgi, Derek, Orion, 2 Aladus/1 Lydia, Mackenzie's Character, 2 Katerina (tiefling/dragonborn), Einar, Luna, Kamari, Howdy & Barthlomew, Kento, Kyrus, Sir Daidelous, Zanryn, Draynnon, Exandria, Delilah, Poe, Driya Ivy, Wramash, Xyrith, Fluffy, Artemis "Drop", Uni, Xander, Cult Hand, Monk (Garic), phoenix form, copper half-dragon, Charadraak
+	- NPCs: 80
+		- acolyte f, 2 acolyte m, archmage f, archmage m, assassin f, assassin m, bandit captain f, bandit captain m, 2 bandit f, bandit m, beserker f, 2 beserker m, cult fanatic f, cult fanatic m, 3 cult acolytes, 5 cultist, druid f, druid m, 14 guard m, 7 guard f, gladiator f, gladiator m, knight m, mage f, 2 mage m, noblewoman, noble, pirate captain f, pirate captain m, 2 pirate f, 4 pirate m, 2 priest f, 2 priest m, scout f, scout m, spy, thug f, 2 thug m, tribal warrior f, tribal warrior m, veteran f, giant veteran f, 2 veteran m
+	- Volo's NPCs: 58
+		- apprentice wizard, archdruid f, archdruid m, archer f, archer m, fey warlock f, fey warlock m, abjurer f, abjurer m, bard f, bard m, blackguard f, blackguard m, champion f, champion m, conjurer f, conjurer m, diviner f, diviner m, eldritch warlock f, eldritch warlock m, enchanter f, enchanter m, evoker f, evoker m, illusionist f, illusionist m, necromancer alt f, necromancer f, necromancer m, swashbuckler f, swashbuckler m, transmuter f, transmuter m, war priest f, war priest m, warlock of the fiend f, warlock of the fiend m, warlord f, warlord m, kraken priest f, kraken priest m, martial arts adept f, martial arts adept m, master thief f, master thief m, tortle druid, tortle.
+	- Other: 89
+		- 3 deep gnome, drow, drow elite warrior, drow mage, drow priestess, 2 duergar, 2 gnoll, gnoll archer, gnoll pack lord, gnoll shaman, gnoll skirmisher, 6 half-dragons (black, blue, green, red, white, female), hobgoblin, 2 kenku, 6 kobold, lizard king/queen, 4 lizardfolk, lizardfolk shaman, 2 orc f, 2 orc m, orc eye of gruumsh, orc war chief, 2 quaggoth, wererat, 2 winged kobold
+		- owl aarakocra (Ezra Felix), red dragonborn (Astrolites/Kaladin), bartender, drunk man, dwarf chef, janitor, mysterious man, toasting man, waitress, 7 dwarves (bard m, druid f, druid m, gatherer, psion m, rogue f, rogue f), goliath m, 6 half-elf (druid m, rogue m, warlock m, warlock masked m, warlock m w/ pseudodragon, wizard), 7 half-orc (barbarian m, chef, cleric, druid, fighter f, f, m w/ axe), human forgery rogue f, human swashbuckler m, 3 rogue f, rogue m, 7 tiefling (bard m, mage f, rogue f, rogue f, warrior f, wizard f, wizard m)
+	- Retired/Broken: 13
+		- Sheriff Hadeon, noblewoman, wight, tavern bard, toasting woman, cultist executioner, cultist invoker, cultist invoker Marcaith form, Amaranth Crane, Astaroth Crow, Arlayna (assassin), Tariq (vampire lord), Vaserius
+- Monstrosity: 3
+	- basilisk, barrel mimic, chest mimic
+- Ooze: 1
+	- gray ooze
+- Plant: 
+	- 
+- Undead: 34
+	- banshee, death knight, deathlock, deathlock mastermind, deathlock wight, ghost f, ghost m, ghast, 3 ghoul, lich f, lich m, mummy lord, mummy, shadow, 2 skeleton bowman, 2 skeleton spearman, 2 skeleton swordman, skeleton knight, vampire, vampire spawn f, 2 vampire spawn m, wraith, 3 zombie f, 3 zombie m
+
+#### **Large: 79**
+- Aberration: 6
+	- aboleth, balhannoth, beholder, cloaker, eyedrake, false hydra
+- Beast: 18
+	- brown bear, crocodile, dire wolf, draft horse, elk, giant eagle, giant goat, giant hyena, giant lizard, giant octopus, 3 giant scorpion, giant spider, giant vulture, lion, lioness, warhorse
+- Celestial: 1
+	- unicorn
+- Construct: 2
+	- iron golem, shield guardian
+- Dragon: 4
+	- young red dragon (Galathia), young red dragon (fdm), young white dragon, wyvern
+- Elemental: 3
+	- 2 fire elemental, earth elemental
+- Fey: 
+	- 
+- Fiend: 12
+	- nightmare
+	- Demon: barlgura, 2 hezrou, marilith, vrock
+	- Devil: bone devil, horned devil, pit fiend
+	- Yugoloth: 2 nycaloth, yagnoloth
+- Giant: 3
+	- ettin, ogre, troll
+- Humanoid: 1
+	- steel inquisitor
+- Monstrosity: 24
+	- androsphinx, bulette, centaur m, centaur f, chimera, displacer beast, drider, gynosphinx, honkdra, hook horror, manticore, mimic hoard, 2 mimic hoard hiding, owlbear, roper, 3 roper hiding, umber hulk, worg, worg mount, winter wolf, yeti
+- Ooze: 4
+	- black pudding, 3 gelatinous cube
+- Plant: 1
+	- shambling mound
+- Undead: 
+	- 
+
+#### **Huge: 32**
+- Aberration: 
+	- 
+- Beast: 6
+	- elephant, Fenrir, giant constrictor snake, giant crocodile, mammoth, quetzalcoatlus
+- Celestial: 1
+	- empyrean
 - Construct: 
 	- 
-- Dragon: 
-	- 
+- Dragon: 8
+	- adult black dragon, adult blue dragon, adult green dragon, adult red dragon, adult chonky red dragon, adult white dragon, jabberwock, young dragon turtle
 - Elemental: 
 	- 
 - Fey: 
 	- 
-- Fiend: 
-	- 
-- Giant: 
-	- 
+- Fiend: 2
+	- Demon: goristro
+	- Devil: balor
+- Giant: 5
+	- dire troll, fire giant, frost giant, hill giant, stone giant
 - Humanoid: 
 	- 
-- Monstrosity: 
-	- 
+- Monstrosity: 3
+	- abominable yeti, behir, hydra
 - Ooze: 
 	- 
 - Plant: 
 	- 
-- Undead: 
-	- 
+- Undead: 7
+	- adult black dracolich, adult blue dracolich, adult green dracolich, adult red dracolich, adult white dracolich, nightwalker, skeletal dragon
 
-#### **Large: 54**
+#### **Gargantuan: 11**
 - Aberration: 
 	- 
 - Beast: 
 	- 
-- Celestial: 
-	- 
+- Celestial: 1
+	- andrenjinyi
 - Construct: 
 	- 
-- Dragon: 
-	- 
+- Dragon: 8
+	- ancient black dragon, ancient copper dragon, ancient red dragon, ancient white dragon, ancient gold dragon (mimiring), Morthadius, Marcaith, Domexius.
 - Elemental: 
 	- 
 - Fey: 
@@ -121,8 +198,8 @@ Terrain: 214
 	- 
 - Humanoid: 
 	- 
-- Monstrosity: 
-	- 
+- Monstrosity: 2
+	- kraken, purple worm
 - Ooze: 
 	- 
 - Plant: 
@@ -130,123 +207,78 @@ Terrain: 214
 - Undead: 
 	- 
 
-#### **Huge: 22**
-- Aberration: 
-	- 
-- Beast: 
-	- 
-- Celestial: 
-	- 
-- Construct: 
-	- 
-- Dragon: 
-	- 
-- Elemental: 
-	- 
-- Fey: 
-	- 
-- Fiend: 
-	- 
-- Giant: 
-	- 
-- Humanoid: 
-	- 
-- Monstrosity: 
-	- 
-- Ooze: 
-	- 
-- Plant: 
-	- 
-- Undead: 
-	- 
+#### **Other: 82**
+- Furniture: 
+	- long table, round table, small table, 2 benches, 8 chairs, 16 mugs, large box, medium box, small long box, small box, big barrel, small barrel, 2 ale casks, 24 cannons, 2 ballistas, bed side table.
+- 2 pseudodragons flying (1 gold), red dragon egg, 3 silk wrapped bodies, 2 piles of skulls, 3 wooden bridge w/ 2 loose planks each.
+- axe, boulder, mage hand l, mage hand r, torch l, torch r, spiritual weapon
 
-#### **Gargantuan: 6**
-- Aberration: 
-	- 
-- Beast: 
-	- 
-- Celestial: 
-	- 
-- Construct: 
-	- 
-- Dragon: 
-	- 
-- Elemental: 
-	- 
-- Fey: 
-	- 
-- Fiend: 
-	- 
-- Giant: 
-	- 
-- Humanoid: 
-	- 
-- Monstrosity: 
-	- 
-- Ooze: 
-	- 
-- Plant: 
-	- 
-- Undead: 
-	- 
-
-#### **Other: 68**
-- Aberration: 
-	- 
-- Beast: 
-	- 
-- Celestial: 
-	- 
-- Construct: 
-	- 
-- Dragon: 
-	- 
-- Elemental: 
-	- 
-- Fey: 
-	- 
-- Fiend: 
-	- 
-- Giant: 
-	- 
-- Humanoid: 
-	- 
-- Monstrosity: 
-	- 
-- Ooze: 
-	- 
-- Plant: 
-	- 
-- Undead: 
-	- 
-
-#### **Terrain: 214**
-- Aberration: 
-	- 
-- Beast: 
-	- 
-- Celestial: 
-	- 
-- Construct: 
-	- 
-- Dragon: 
-	- 
-- Elemental: 
-	- 
-- Fey: 
-	- 
-- Fiend: 
-	- 
-- Giant: 
-	- 
-- Humanoid: 
-	- 
-- Monstrosity: 
-	- 
-- Ooze: 
-	- 
-- Plant: 
-	- 
-- Undead: 
-	- 
-
+#### **Terrain: 630**
+- Other: 47
+	- Pirate Ship (9 parts), longboat
+	- 3 story inn
+	- 2 story noble house (4 parts)
+	- 1 fountain
+	- 1 altar
+	- 1 altar scene w/ 2 rocks
+	- 8 pillars
+	- 1 brazier
+	- 4 bushes
+	- 9 trees
+	- 2 docks
+	- 1 cart
+- Bases: 260
+	- Foundation: 140
+		- 4x4: 6
+		- 2x2: 37
+		- 1x4: 10
+		- 1x2: 31
+		- 1x1: 28 (1 black)
+		- 1x.5: 24 (NxNxS: 6, NxSxN: 6, SxNxS: 6, SxSxN: 6)
+		- 4x4 1/4 circle: 4
+	- Walls: 120
+		- .5x.5: 36
+		- .5x.5 4 way: 12
+		- 1x.5: 24
+		- 1x.5 angled: 12
+		- 2x.5: 48
+- Tops: 323
+	- Stone: 140
+		- 4x4: 6
+		- 2x2: 37
+		- 1x4: 10
+		- 1x2: 31
+		- 1x1: 28 (1 black)
+		- 1x.5: 24
+		- 4x4 1/4 circle: 4
+	- Wood: 4
+		- 4x4: 0
+		- 2x2: 3
+		- 1x4: 0
+		- 1x2: 1
+		- 1x1: 0
+		- 1x.5: 0
+	- Walls: 156
+		- .5x.5: 44
+		- 1x.5: 20
+		- 1x.5 angled: 12
+		- 2x.5: 34
+		- 2x.5 arrow: 4
+		- 1x.5 arrow: 2
+		- 2x.5 window: 6
+		- 2x.5 half-wall: 4
+		- 1x.5 half-wall: 2
+		- .5x.5 half-wall: 8
+		- 4x.5 double door: 1
+		- 2x.5 door: 2
+		- 2x.5 prison door: 4
+	- Stairs/Rises/Pillars: 23
+		- Stone: 23
+			- 2x2 .5 pillar: 1
+			- 2x2 .5 rise: 4
+			- 2x2 .5 stairs: 3
+			- 2x2 1 pillar: 2
+			- 2x2 1 rise: 5
+			- 2x2 1.5 pillar: 4
+			- 2x2 1-1.5 stair: 2
+			- 1x4 staircase: 2

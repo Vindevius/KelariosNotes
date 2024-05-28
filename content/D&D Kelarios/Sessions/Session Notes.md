@@ -6,12 +6,13 @@ Experience Tally Marks:
 | Passive Abilities | Perception | Investigation | Insight | AC  | Walking Speed | Stealth (Don't Use Often) |
 | ----------------- | ---------- | ------------- | ------- | --- | ------------- | ------------------------- |
 | Diana             | 21         | 17            | 16      | 16  | 30            | 29                        |
-| Leysa             | 17         | 13            | 13      | 19  | 30            | 13                        |
-| Gurgi             | 21         | 15            | 12      | 15  | 40            | 19                        |
-| Zanryn            | 17         | 13            | 15      | 19  | 30            | 29                        |
-| Aladus            | 18         | 14            | 18      | 18  | 30            | 17                        |
-| Derek             | 21         | 11            | 13      | 20  | 30            | 30                        |
-| Orion             | 19         | 9             | 14      | 16  | 30            | 11                        |
+| Leysa             | 19         | 13            | 14      | 19  | 30            | 13                        |
+| Gurgi             | 22         | 16            | 12      | 15  | 40            | 20                        |
+| Zanryn            | 20         | 13            | 15      | 19  | 30            | 29                        |
+| Aladus            | 19         | 14            | 19      | 18  | 30            | 17                        |
+| Derek             | 25         | 11            | 13      | 20  | 30            | 32                        |
+| Orion             | 19         | 9             | 14      | 18  | 30            | 11 D                      |
+| Comrad            | 13         | 12            | 13      | 18  | 30            | 18 D                      |
 --- start-multi-column: ExampleRegion1  
 ```column-settings  
 number of columns: 2
