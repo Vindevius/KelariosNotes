@@ -1,3 +1,0 @@
-### Carceri
-
-- Lvl: 15

@@ -20,4 +20,4 @@
 	- Kix Zodrak
 		- CG f half-orc druid
 - Eradas
-	- The only living androsphinx and the mate of Massazi. He lives beneath the streets of Kelar under the Cloudkey Grove. He guards the way to the Forge of Verithinus, the only known place with the capacity to forge a soul spike able to kill a god. Soul spikes shred a gods soul into three unrepairable parts, effectively killing the god. Only Verithinus and Eradas know the method of crafting these spikes. Any who are told the knowledge will lose the knowledge when leaving Eradas' presence.
+	- The only living androsphinx and the mate of Massazi. He lives beneath the streets of Kelar under the Cloudkey Grove. He guards the way to the Forge of Verithinus or Void Forge, the only known place with the capacity to forge a soul spike able to kill a god. Soul spikes shred a gods soul into three unrepairable parts, effectively killing the god. Only Verithinus and Eradas know the method of crafting these spikes. Any who are told the knowledge will lose the knowledge when leaving Eradas' presence.
