@@ -1,0 +1,33 @@
+### The Barren Lands
+
+Lvl: 10
+
+Diana and Derek began traveling southwest toward Mount Morthus. On the way, they discovered a small ruined town coated in ice and snow. Diana and Derek found shelter in the ruins of a partially intact inn next to the town’s prison. Diana was able to surmise that this town was once part of the northern portion of Exaria, which is now known as the Barren Lands. When Balor, the necromancer of Morthadius, first sought to release his master, he helped to cause the entirety of Exaria to become a nation of undead. With this army, he attacked Staderia and was eventually stopped by Vaserius and his party. The aftermath of that war left Exaria a barren wasteland.
+
+Meanwhile, Leysa and those in Staderia planned a rescue mission to get Diana and Derek back from the frigid north. Aladus scryed on Diana so he could teleport the rescue group to her the next day. Those in the castle at this time were Leysa, Osian, Gurgi, Aladus, Charadraak, Einar, Katerina, Exandria, Delilah, Poe, and Aladus’ simulacrum. Zanryn and Draynnon (Zanryn’s oldest friend who joined the party in their fight against Morthadius) arrived shortly after from drinking together.
+
+Zanryn led Leysa with a few others through the tunnels connecting Staderia to the Shadow Keep. Charadraak explained to the Shadow Council, Leysa, Gurgi, and Aladus the results of his visit with Aeontas while Diana, Leysa, and Derek were trapped in the Violet Realm. Aeontas told Charadraak to instruct Leysa and Diana to find various items from the Vile Ones’ domains in order to craft three soul spikes that would enable them to kill each of the Vile Ones.
+
+The first item is a fungus called Morthadium located in the Gray Wastes that when combined into three platinum spikes would be able to weaken Morthadius. The other two items are a metal known as Domexium in Carceri, and a deadly poison known as Marcaithium in the Abyss, for Domexius and Marcaith respectively.
+
+After this discussion, Charadraak leaves to Ragus, where he was tasked with convincing the ancient copper dragon there to help them. Aladus, after a long rest, then linked hands with Leysa, Gurgi, Zanryn, Draynnon, Einar, and Katerina, teleporting directly inside the inn where Diana and Derek spent the night. Diana and Derek both reacted by attacking them, slightly injuring Leysa, Zanryn, and Draynnon.
+
+Shortly after their arrival, Diana noticed that the Dagger of Marcaith was no longer at her belt. She left the inn invisibly, and tracked a set of footprints in the snow leading to the nearby prison. A few others in the group, followed after her. An arrow from a different, dilapidated building, struck Einar as she left the inn.
+
+A battle ensued. Leysa killed the skeletal archer that shot Einar by collapsing the roof above it. An apprentice wizard appeared from that building and was quickly killed. Inside the prison, a necromancer confronted the party with help from animated armors, three more skeletons, and a champion warrior. Various cultists, an archer, and an archmage attacked those outside from the second story windows.
+
+As Diana, Leysa, Derek, and Einar attacked the front of the building, Aladus, Zanryn, Draynnon, and Katerina attacked from the nearby inn. Meanwhile, Gurgi had found a barrel of ale, and decided to not only drink it, but swim in it. He was absent for most of the combat, stumbling out of the inn at the end, only to immediately pass out on the steps.
+
+Diana cast Hunger of Hadar into the prison, and the party was able to dispatch of the necromancer and her minions. The champion and archmage, however, caused multiple problems. The archmage flew out the window and banished Einar to a demiplane. The champion, with the help of the archmage, downed both Leysa and Derek. The tide turned back into the party’s favor when the archmage was hurt enough to lose concentration, bring Einar back from her banishment. The champion and archmage both died shortly after and Leysa and Derek were brought back from the brink of death.
+
+Diana and Einar rushed into the prison, finding the cultists on the second floor. They quickly dispatched of them except for one. This individual was cloaked in the black and green robes of Marcaith. He brought an invisible Diana down to the brink of unconsciousness before shadow stepping out the window. Leysa attempted to stop him by entangling him in vines, but he resisted it and ran off with the Dagger of Marcaith.
+
+Inside the prison were two cells. One had a copper Dragonborn champion named [[Azzirth Zalren]], who joined the Shadows after being brought to the Shadow Keep via Raven’s Slumber. The other cell had a bheur hag named Esadora, who convinced the party to free her only to immediately attack. Diana was able to pin Esadora and force a pair of antimagic shackles on her. With the help of Azzirth, the party killed her, and Diana took each of the hag’s fingers.
+
+The party looted the bodies of the deceased, finding a tuning fork on the necromancer that could be used to travel to the Gray Wastes. Leysa found an item that could turn into a sphere of annihilation on the archmage. Diana took a sending stone from the archmage and talked through it. It was a direct line to King Astrolites Harlor, the King of Veteria. The archmage’s name was Philip and had previously been a royal mage of Veteria. King Astrolites was very annoyed by Diana.
+
+Diana ended up shoving Philip’s corpse into a bag of holding before Aladus brought them back to the Shadow Keep. Diana then used the dragon statue of true resurrection to bring Philip back to life. She tortured him for information, eventually breaking him and turning him against Marcaith and the Vile Ones. She instructed Philip to return to the Cult of Marcaith as an inside man.
+
+Simultaneously, Diana through Philip, and Leysa through a prayer to Aeontas, both Diana and Leysa found out that the Champion of Marcaith, the man they had just fought, was none other than Garic. Garic was one of the people that Diana freed in the Cult of Marcaith’s hideout in Periatis before being trapped in the Violet Realm. While Diana was trapped in the Violet Realm, Luna as the acting leader of the Shadows recruited a number of people to become Shadows. Garic, the Master of Shadow, was one of those new members.
+
+Garlic had disguised himself as one of his own prisoners in order to gain the trust of and infiltrate the Shadows. Diana and Leysa were both very distressed by this reveal.

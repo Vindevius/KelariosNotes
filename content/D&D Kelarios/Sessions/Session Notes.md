@@ -2,6 +2,7 @@ Experience Tally Marks:
 	Diana: 
 	Leysa: 
 	Orion: 
+	Comrad: 
 
 | Passive Abilities | Perception | Investigation | Insight | AC  | Walking Speed | Stealth (Don't Use Often) |
 | ----------------- | ---------- | ------------- | ------- | --- | ------------- | ------------------------- |
