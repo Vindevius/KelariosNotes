@@ -190,8 +190,9 @@
 
 ### [[Champions of the Gods]]
 
-### The Party
+### The Party & Friends
 - Aladus/Lydia
+- Comrad
 - Derek Nightlock
 - Diana Moonstone
 - Dumilus "Cloaky"
@@ -199,6 +200,7 @@
 - Gurgi
 - Katerina Petrova
 - Leysa Doyle
+- Orion
 - Zanryn Helevaris
 
 ### One Shot Parties
