@@ -51,8 +51,7 @@
 - Reese Rock ★(Orphan)
 - River Niacin (Orphan)
 - Helah Scar ★
-- Damian Sun
-- Champion of Battle Deity
+- Damian Sun (Champion of Morrigan)
 - Delilah Polaris
 - Wren Riptide
 - Azzirth Zalren
@@ -68,7 +67,7 @@
 - Derek Nightlock ★★
 - Wendy Irwin
 - Jasper Tinker ★
-- Valencia Kalon★
+- ~~Valencia Kalon★~~
 - Poppy the Childish (Orphan)
 - Reggie Belova
 - Ivy Hook
@@ -159,7 +158,7 @@
 - Queen Smenga Hodnacot
 - King Astrolites Harlor
 - Queen Ansae Harlor
-- High Lord Zelos Worthingtong
+- High Lord Zelos Worthington
 	- Princess Artemis Worthington
 - High Lady Samira Darkmoon
 - Lady Laosie Snowfall
@@ -285,6 +284,7 @@
 Jacko
 Unicorn of Aeontas
 Massazi
+Eradas
 
 # By Location
 
@@ -350,8 +350,8 @@ Galathia's Territory
 		Prince Helios Doyle (Deceased)
 Gorlathia Plateau
 	Gorlath
-	Arexgant Dusdius
-	Vulrog
+		Arexgant Dusdius
+		Vulrog
 	Verigal
 		The Creepy Liar
 			Gorem & Jamtip

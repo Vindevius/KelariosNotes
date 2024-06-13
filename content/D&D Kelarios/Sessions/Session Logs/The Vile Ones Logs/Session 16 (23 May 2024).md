@@ -20,4 +20,4 @@ Meanwhile, Orion was brought on the brink of death by one of Astrolites' blackgu
 
 Aeontas, through Leysa's prayer, brought everyone, including Astrolites, to a demiplane. Diana attempted to, and was almost successful, in killing Astrolites. However, Astrolites plead for Domexius' help, who took Astrolites out of the party's reach. Diana destroyed the Book of the Vile Ones, absorbing part of the energy into herself.
 
-The party left the demiplane, finding themselves at the Shadow Keep.
+The party left the demiplane, finding themselves at the Shadow Keep. Charadraak revealed himself to be the ancient copper dragon known as Quipclaw.
