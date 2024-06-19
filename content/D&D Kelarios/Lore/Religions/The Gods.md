@@ -1,4 +1,4 @@
-# The Twenty-One Major Deities
+npx quartz sync# The Twenty-One Major Deities
 
 ## Good
 
@@ -14,15 +14,15 @@
 
 ## Evil
 
-| Deity                                     | Alignment | Suggested Domains                   | Symbol            | Champion           |
-| ----------------------------------------- | --------- | ----------------------------------- | ----------------- | ------------------ |
-| Domexius, god of dominion                 | CE        | Light, Tempest, War<br><br>Vile One | The Sun           | Y, King Astrolites |
-| Efimera, goddess of the ephemeral         | LE        | Death, Trickery                     | Black pool        | N                  |
-| Neglamel, god of neglect                  | LE        | Death, Trickery                     | A closed door     | Y, Kokorio Maish   |
-| Ruichasm, god of destruction              | NE        | Nature, Tempest                     | A broken mountain | Y, Sagard Destrian |
-| Marcaith, god of affliction and withering | CE        | Death, Trickery<br><br>Vile One     | Sickly Green Vial | N, Deceased        |
-| Morthadius, god of death                  | CE        | Death, Grave<br><br>Vile One        | A Black Fungus    | N, Deceased        |
-| Exsoria, goddess of exile and misfortune  | CE        | Death, Trickery                     | A Snake           | Y, Diana Moonstone |
+| Deity                                                      | Alignment | Suggested Domains                   | Symbol            | Champion           |
+| ---------------------------------------------------------- | --------- | ----------------------------------- | ----------------- | ------------------ |
+| Domexius, god of dominion                                  | CE        | Light, Tempest, War<br><br>Vile One | The Sun           | Y, King Astrolites |
+| Efimera, goddess of the ephemeral                          | LE        | Death, Trickery                     | Black pool        | N                  |
+| Neglamel, god of neglect                                   | LE        | Death, Trickery                     | A closed door     | Y, Kokorio Maish   |
+| Ruichasm, god of destruction                               | NE        | Nature, Tempest                     | A broken mountain | Y, Sagard Destrian |
+| Marcaith, god of affliction and withering                  | CE        | Death, Trickery<br><br>Vile One     | Sickly Green Vial | N, Deceased        |
+| ~~Morthadius, god of death~~ Raven Queen, goddess of death | CE        | Death, Grave<br><br>Vile One        | A Black Fungus    | N, Deceased        |
+| Exsoria, goddess of exile and misfortune                   | CE        | Death, Trickery                     | A Snake           | Y, Diana Moonstone |
 
 ## Neutral 
 

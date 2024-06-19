@@ -14,27 +14,27 @@ Terrain: 630
 - Beast: 12
 	- badger, bat, 2 cats, flying snake, frog, hawk, owl, poisonous snake, rabbit, spider, weasel
 - Celestial: 
-	- 
+	- 0
 - Construct: 
-	- 
+	- 0
 - Dragon: 1
 	- pseudodragon (Bartholomew)
 - Elemental: 
-	- 
+	- 0
 - Fey: 1
 	- pixie (Leora Moonlight)
 - Fiend: 6
 	- Demon: 3 quasit, 3 imp
 - Giant: 
-	- 
+	- 0
 - Humanoid: 2
 	- 2 Gurgis (one smaller)
 - Monstrosity: 
-	- 
+	- 0
 - Ooze: 
-	- 
+	- 0
 - Plant: 
-	- 
+	- 0
 - Undead: 6
 	- 3 flameskulls, demilich, crawling hand, will-o'-wisp
 
@@ -44,19 +44,19 @@ Terrain: 630
 - Beast: 4
 	- giant rat, jackal (fox/dog), octopus, sleeping dog
 - Celestial: 
-	- 
+	- 0
 - Construct: 1
 	- flying sword
 - Dragon: 
-	- 
+	- 0
 - Elemental: 8
 	- 5 mephits, 3 magmins
 - Fey: 
-	- 
+	- 0
 - Fiend: 
-	- 
+	- 0
 - Giant: 
-	- 
+	- 0
 - Humanoid: 33
 	- 2 Lucky (1 small, 1 normal), Erix Rivers (harenegon paladin), halfling (Helah Scar), Anya Rawlin (halfling sorcerer), drunk halfling, 6 kobolds, 2 winged kobolds, 3 deep gnomes
 	- 16 goblins (Goblin King, goblin boss, 2 sword goblins, 2 mace goblins, 2 bowman, 2 crossbow man, 2 worg riders, rogue, jester, bard, sorcerer).
@@ -64,11 +64,11 @@ Terrain: 630
 - Monstrosity: 19
 	- cockatrice, 1 darkmantle, 7 gremlins, 10 wretched sorrowsworn, 
 - Ooze: 
-	- 
+	- 0
 - Plant: 
-	- 
+	- 0
 - Undead: 
-	- 
+	- 0
 
 #### **Medium: 421**
 - Aberration: 5
@@ -76,7 +76,7 @@ Terrain: 630
 - Beast: 54
 	- ape, boar, 2 cangul, giant badger, giant crab, giant frog, giant poisonous snake, 3 giant wolf spider, 2 hyena, 2 mastiff, pack mule, panther, swarm of rats, 6 wolf updated, 12 wolf, 4 wolf pounce, 4 wolf run, 5 wolf snarl1, 5 wolf snarl2
 - Celestial: 
-	- 
+	- 0
 - Construct: 2
 	- 2 animated armor
 - Dragon: 13
@@ -91,7 +91,7 @@ Terrain: 630
 	- Devil: erinyes
 	- Yugoloth: arcanaloth, 3 canoloth, 3 dhergoloth, merrenoloth, 6 mezzoloth, 3 hydroloth, ultroloth
 - Giant: 
-	- 
+	- 0
 - Humanoid: 278
 	- Players/Companions: 38
 		- Diana, Werewolf, Leysa, Orion, Gurgi, Derek, Orion, 2 Aladus/1 Lydia, Mackenzie's Character, 2 Katerina (tiefling/dragonborn), Einar, Luna, Kamari, Howdy & Barthlomew, Kento, Kyrus, Sir Daidelous, Zanryn, Draynnon, Exandria, Delilah, Poe, Driya Ivy, Wramash, Xyrith, Fluffy, Artemis "Drop", Uni, Xander, Cult Hand, Monk (Garic), phoenix form, copper half-dragon, Charadraak
@@ -109,7 +109,7 @@ Terrain: 630
 - Ooze: 1
 	- gray ooze
 - Plant: 
-	- 
+	- 0
 - Undead: 34
 	- banshee, death knight, deathlock, deathlock mastermind, deathlock wight, ghost f, ghost m, ghast, 3 ghoul, lich f, lich m, mummy lord, mummy, shadow, 2 skeleton bowman, 2 skeleton spearman, 2 skeleton swordman, skeleton knight, vampire, vampire spawn f, 2 vampire spawn m, wraith, 3 zombie f, 3 zombie m
 
@@ -127,7 +127,7 @@ Terrain: 630
 - Elemental: 3
 	- 2 fire elemental, earth elemental
 - Fey: 
-	- 
+	- 0
 - Fiend: 12
 	- nightmare
 	- Demon: barlgura, 2 hezrou, marilith, vrock
@@ -144,68 +144,68 @@ Terrain: 630
 - Plant: 1
 	- shambling mound
 - Undead: 
-	- 
+	- 0
 
 #### **Huge: 32**
 - Aberration: 
-	- 
+	- 0
 - Beast: 6
 	- elephant, Fenrir, giant constrictor snake, giant crocodile, mammoth, quetzalcoatlus
 - Celestial: 1
 	- empyrean
 - Construct: 
-	- 
+	- 0
 - Dragon: 8
 	- adult black dragon, adult blue dragon, adult green dragon, adult red dragon, adult chonky red dragon, adult white dragon, jabberwock, young dragon turtle
 - Elemental: 
-	- 
+	- frost salamander
 - Fey: 
-	- 
+	- 0
 - Fiend: 2
 	- Demon: goristro
 	- Devil: balor
 - Giant: 5
 	- dire troll, fire giant, frost giant, hill giant, stone giant
 - Humanoid: 
-	- 
+	- 0
 - Monstrosity: 3
 	- abominable yeti, behir, hydra
 - Ooze: 
-	- 
+	- 0
 - Plant: 
-	- 
+	- 0
 - Undead: 7
 	- adult black dracolich, adult blue dracolich, adult green dracolich, adult red dracolich, adult white dracolich, nightwalker, skeletal dragon
 
 #### **Gargantuan: 11**
 - Aberration: 
-	- 
+	- 0
 - Beast: 
-	- 
+	- 0
 - Celestial: 1
 	- andrenjinyi
 - Construct: 
-	- 
+	- 0
 - Dragon: 8
 	- ancient black dragon, ancient copper dragon, ancient red dragon, ancient white dragon, ancient gold dragon (mimiring), Morthadius, Marcaith, Domexius.
 - Elemental: 
-	- 
+	- 0
 - Fey: 
-	- 
+	- 0
 - Fiend: 
-	- 
+	- 0
 - Giant: 
-	- 
+	- 0
 - Humanoid: 
-	- 
+	- 0
 - Monstrosity: 2
 	- kraken, purple worm
 - Ooze: 
-	- 
+	- 0
 - Plant: 
-	- 
+	- 0
 - Undead: 
-	- 
+	- 0
 
 #### **Other: 82**
 - Furniture: 
