@@ -1,9 +1,9 @@
-**Total: 1355**
+**Total: 1360
 Tiny: 31
 Small: 69
-Medium: 421
-Large: 79
-Huge: 32
+Medium: 424
+Large: 80
+Huge: 33
 Gargantuan: 11
 Other: 82
 Terrain: 630
@@ -70,7 +70,7 @@ Terrain: 630
 - Undead: 
 	- 0
 
-#### **Medium: 421**
+#### **Medium: 424**
 - Aberration: 5
 	- death slaad, mind flayer, 3 nothics
 - Beast: 54
@@ -92,16 +92,16 @@ Terrain: 630
 	- Yugoloth: arcanaloth, 3 canoloth, 3 dhergoloth, merrenoloth, 6 mezzoloth, 3 hydroloth, ultroloth
 - Giant: 
 	- 0
-- Humanoid: 278
-	- Players/Companions: 38
-		- Diana, Werewolf, Leysa, Orion, Gurgi, Derek, Orion, 2 Aladus/1 Lydia, Mackenzie's Character, 2 Katerina (tiefling/dragonborn), Einar, Luna, Kamari, Howdy & Barthlomew, Kento, Kyrus, Sir Daidelous, Zanryn, Draynnon, Exandria, Delilah, Poe, Driya Ivy, Wramash, Xyrith, Fluffy, Artemis "Drop", Uni, Xander, Cult Hand, Monk (Garic), phoenix form, copper half-dragon, Charadraak
-	- NPCs: 80
-		- acolyte f, 2 acolyte m, archmage f, archmage m, assassin f, assassin m, bandit captain f, bandit captain m, 2 bandit f, bandit m, beserker f, 2 beserker m, cult fanatic f, cult fanatic m, 3 cult acolytes, 5 cultist, druid f, druid m, 14 guard m, 7 guard f, gladiator f, gladiator m, knight m, mage f, 2 mage m, noblewoman, noble, pirate captain f, pirate captain m, 2 pirate f, 4 pirate m, 2 priest f, 2 priest m, scout f, scout m, spy, thug f, 2 thug m, tribal warrior f, tribal warrior m, veteran f, giant veteran f, 2 veteran m
+- Humanoid: 281
+	- Players/Companions: 37
+		- Diana, Werewolf, Leysa, Orion, Gurgi, Derek, Orion, 2 Aladus/1 Lydia, Mackenzie's Character, 2 Katerina (tiefling/dragonborn), Einar, Luna, Kamari, Howdy & Barthlomew, Kento, Kyrus, Sir Daidelous, Zanryn, Draynnon, Exandria, Delilah, Poe, Driya Ivy, Wramash, Xyrith, Fluffy, Artemis "Drop", Uni, Xander, Cult Hand, Monk (Garic), phoenix form, Charadraak
+	- NPCs: 82
+		- acolyte f, 2 acolyte m, archmage f, archmage m, assassin f, assassin m, bandit captain f, bandit captain m, 2 bandit f, bandit m, beserker f, 2 beserker m, cult fanatic f, cult fanatic m, 3 cult acolytes, 5 cultist, druid f, druid m, 14 guard m, 7 guard f, gladiator f, gladiator m, knight f, 2 knight m, mage f, 2 mage m, noblewoman, noble, pirate captain f, pirate captain m, 2 pirate f, 4 pirate m, 2 priest f, 2 priest m, scout f, scout m, spy, thug f, 2 thug m, tribal warrior f, tribal warrior m, veteran f, giant veteran f, 2 veteran m
 	- Volo's NPCs: 58
 		- apprentice wizard, archdruid f, archdruid m, archer f, archer m, fey warlock f, fey warlock m, abjurer f, abjurer m, bard f, bard m, blackguard f, blackguard m, champion f, champion m, conjurer f, conjurer m, diviner f, diviner m, eldritch warlock f, eldritch warlock m, enchanter f, enchanter m, evoker f, evoker m, illusionist f, illusionist m, necromancer alt f, necromancer f, necromancer m, swashbuckler f, swashbuckler m, transmuter f, transmuter m, war priest f, war priest m, warlock of the fiend f, warlock of the fiend m, warlord f, warlord m, kraken priest f, kraken priest m, martial arts adept f, martial arts adept m, master thief f, master thief m, tortle druid, tortle.
-	- Other: 89
+	- Other: 90
 		- 3 deep gnome, drow, drow elite warrior, drow mage, drow priestess, 2 duergar, 2 gnoll, gnoll archer, gnoll pack lord, gnoll shaman, gnoll skirmisher, 6 half-dragons (black, blue, green, red, white, female), hobgoblin, 2 kenku, 6 kobold, lizard king/queen, 4 lizardfolk, lizardfolk shaman, 2 orc f, 2 orc m, orc eye of gruumsh, orc war chief, 2 quaggoth, wererat, 2 winged kobold
-		- owl aarakocra (Ezra Felix), red dragonborn (Astrolites/Kaladin), bartender, drunk man, dwarf chef, janitor, mysterious man, toasting man, waitress, 7 dwarves (bard m, druid f, druid m, gatherer, psion m, rogue f, rogue f), goliath m, 6 half-elf (druid m, rogue m, warlock m, warlock masked m, warlock m w/ pseudodragon, wizard), 7 half-orc (barbarian m, chef, cleric, druid, fighter f, f, m w/ axe), human forgery rogue f, human swashbuckler m, 3 rogue f, rogue m, 7 tiefling (bard m, mage f, rogue f, rogue f, warrior f, wizard f, wizard m)
+		- owl aarakocra (Ezra Felix), red dragonborn (Astrolites/Kaladin), bartender, drunk man, dwarf chef, janitor, mysterious man, toasting man, waitress, 7 dwarves (bard m, druid f, druid m, gatherer, psion m, rogue f, rogue f), goliath m, 6 half-elf (druid m, rogue m, warlock m, warlock masked m, warlock m w/ pseudodragon, wizard), 7 half-orc (barbarian m, chef, cleric, druid, fighter f, f, m w/ axe), human forgery rogue f, human swashbuckler m, 3 rogue f, rogue m, 7 tiefling (bard m, mage f, rogue f, rogue f, warrior f, wizard f, wizard m), copper half-dragon, bronze half-dragon
 	- Retired/Broken: 13
 		- Sheriff Hadeon, noblewoman, wight, tavern bard, toasting woman, cultist executioner, cultist invoker, cultist invoker Marcaith form, Amaranth Crane, Astaroth Crow, Arlayna (assassin), Tariq (vampire lord), Vaserius
 - Monstrosity: 3
@@ -113,11 +113,11 @@ Terrain: 630
 - Undead: 34
 	- banshee, death knight, deathlock, deathlock mastermind, deathlock wight, ghost f, ghost m, ghast, 3 ghoul, lich f, lich m, mummy lord, mummy, shadow, 2 skeleton bowman, 2 skeleton spearman, 2 skeleton swordman, skeleton knight, vampire, vampire spawn f, 2 vampire spawn m, wraith, 3 zombie f, 3 zombie m
 
-#### **Large: 79**
+#### **Large: 80**
 - Aberration: 6
 	- aboleth, balhannoth, beholder, cloaker, eyedrake, false hydra
-- Beast: 18
-	- brown bear, crocodile, dire wolf, draft horse, elk, giant eagle, giant goat, giant hyena, giant lizard, giant octopus, 3 giant scorpion, giant spider, giant vulture, lion, lioness, warhorse
+- Beast: 19
+	- brown bear, crocodile, 2 dire wolf, draft horse, elk, giant eagle, giant goat, giant hyena, giant lizard, giant octopus, 3 giant scorpion, giant spider, giant vulture, lion, lioness, warhorse
 - Celestial: 1
 	- unicorn
 - Construct: 2
@@ -146,7 +146,7 @@ Terrain: 630
 - Undead: 
 	- 0
 
-#### **Huge: 32**
+#### **Huge: 33**
 - Aberration: 
 	- 0
 - Beast: 6
@@ -157,7 +157,7 @@ Terrain: 630
 	- 0
 - Dragon: 8
 	- adult black dragon, adult blue dragon, adult green dragon, adult red dragon, adult chonky red dragon, adult white dragon, jabberwock, young dragon turtle
-- Elemental: 
+- Elemental: 1
 	- frost salamander
 - Fey: 
 	- 0
