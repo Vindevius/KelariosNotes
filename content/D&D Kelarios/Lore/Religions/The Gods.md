@@ -2,61 +2,61 @@
 
 ## Good
 
-| Deity                         | Alignment | Suggested Domains | Symbol                  | Champion         |
-| ----------------------------- | --------- | ----------------- | ----------------------- | ---------------- |
-| Numeda, goddess of strength   | LG        | Tempest, War      | Anvil                   | Y, Sir Daidelous |
-| Aeontas, god of eternity      | LG        | Life, Light       | Pool of Silver Liquid   | Y, Leysa Doyle   |
-| Sovenia, goddess of wisdom    | LG        | Knowledge         | Book surrounded by Fire | N                |
-| Nafursa, goddess of nature    | CG        | Nature            | A Gray Stone            | Y, Demiplane     |
-| Medicarma, goddess of healing | NG        | Life              | Two open hands          | Y, Demiplane     |
-| Vizoia, goddess of life       | NG        | Life              | A bright mushroom       | Y, Demiplane     |
-| Vecmetus, god of travel       | CG        | Trickery          | Air, a gust of wind     | Y, Aladus        |
+| Deity                         | Alignment/Outer Plane | Suggested Domains | Symbol                  | Champion         |
+| ----------------------------- | --------------------- | ----------------- | ----------------------- | ---------------- |
+| Numeda, goddess of strength   | LG/Mount Celestia     | Tempest, War      | Anvil                   | Y, Sir Daidelous |
+| Aeontas, god of eternity      | LG/Mount Celestia     | Life, Light       | Pool of Silver Liquid   | Y, Leysa Doyle   |
+| Sovenia, goddess of wisdom    | LG/Bytopia            | Knowledge         | Book surrounded by Fire | N                |
+| Nafursa, goddess of nature    | CG/The Beastlands     | Nature            | A Gray Stone            | Y, Demiplane     |
+| Medicarma, goddess of healing | NG/Elysium            | Life              | Two open hands          | Y, Demiplane     |
+| Vizoia, goddess of life       | NG/Elysium            | Life              | A bright mushroom       | Y, Demiplane     |
+| Vecmetus, god of travel       | CG/Arborea            | Trickery          | Air, a gust of wind     | Y, Aladus        |
 
 ## Evil
 
-| Deity                                                      | Alignment | Suggested Domains                   | Symbol            | Champion           |
-| ---------------------------------------------------------- | --------- | ----------------------------------- | ----------------- | ------------------ |
-| ~~Domexius~~ Asmodeus, god of dominion                     | ~~CE~~ LE | Light, Tempest, War<br><br>Vile One | The Sun           | Y, King Astrolites |
-| Efimera, goddess of the ephemeral                          | LE        | Death, Trickery                     | Black pool        | N                  |
-| Neglamel, god of neglect                                   | LE        | Death, Trickery                     | A closed door     | Y, Kokorio Maish   |
-| Ruichasm, god of destruction                               | NE        | Nature, Tempest                     | A broken mountain | Y, Sagard Destrian |
-| ~~Marcaith~~ Zehir/Set, god of affliction and withering    | CE        | Death, Trickery<br><br>Vile One     | Sickly Green Vial | N, Deceased        |
-| ~~Morthadius, god of death~~ Raven Queen, goddess of death | CE        | Death, Grave<br><br>Vile One        | A Black Fungus    | N, Deceased        |
-| Exsoria, goddess of exile and misfortune                   | CE        | Death, Trickery                     | A Snake           | Y, Diana Moonstone |
+| Deity                                                      | Alignment                                 | Suggested Domains                   | Symbol            | Champion           |
+| ---------------------------------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------- | ------------------ |
+| ~~Domexius~~ Asmodeus, god of dominion                     | ~~CE~~ LE/Carceri & the Nine Hells        | Light, Tempest, War<br><br>Vile One | The Sun           | Y, King Astrolites |
+| Efimera, goddess of the ephemeral                          | LE/The Nine Hells                         | Death, Trickery                     | Black pool        | N                  |
+| Neglamel, god of neglect                                   | LE/The Nine Hells                         | Death, Trickery                     | A closed door     | Y, Kokorio Maish   |
+| Ruichasm, god of destruction                               | NE/Gehenna                                | Nature, Tempest                     | A broken mountain | Y, Sagard Destrian |
+| ~~Marcaith~~ Zehir/Set, god of affliction and withering    | CE/The Abyss                              | Death, Trickery<br><br>Vile One     | Sickly Green Vial | N, Deceased        |
+| ~~Morthadius, god of death~~ Raven Queen, goddess of death | ~~CE~~ LN/The Gray Waste & the Shadowfell | Death, Grave<br><br>Vile One        | A Black Fungus    | N, Deceased        |
+| Exsoria, goddess of exile and misfortune                   | CE/Pandemonium                            | Death, Trickery                     | A Snake           | Y, Diana Moonstone |
 
 ## Neutral 
 
-| Deity                          | Alignment | Suggested Domains   | Symbol                          | Champion             |
-| ------------------------------ | --------- | ------------------- | ------------------------------- | -------------------- |
-| Zorvia, goddess of force       | CN        | Light, Tempest, War | A blue bar of metal             | N                    |
-| Tempronus, god of time         | LN        | Life, Light         | An unstopped bottle             | Y, Caramella Farfoot |
-| Signosia, goddess of knowledge | LN        | Knowledge           | An open book                    | Y, Demiplane         |
-| Eriseris, god of wilderness    | CN        | Nature              | A stone on top of another stone | Y, Demiplane         |
-| Valeia, goddess of health      | N         | Life                | A grasping vine                 | Y, Demiplane         |
-| Seravius, god of energy        | N         | Life                | A flowing river                 | Y, Demiplane         |
-| Topolus, god of location       | CN        | Nature, Trickery    |                                 | Y, Demiplane         |
+| Deity                          | Alignment         | Suggested Domains   | Symbol                          | Champion             |
+| ------------------------------ | ----------------- | ------------------- | ------------------------------- | -------------------- |
+| Zorvia, goddess of force       | CN/Ysgard         | Light, Tempest, War | A blue bar of metal             | N                    |
+| Tempronus, god of time         | LN/Mechanus       | Life, Light         | An unstopped bottle             | Y, Caramella Farfoot |
+| Signosia, goddess of knowledge | LN/Arcadia        | Knowledge           | An open book                    | Y, Demiplane         |
+| Eriseris, god of wilderness    | CN/the Beastlands | Nature              | A stone on top of another stone | Y, Demiplane         |
+| Valeia, goddess of health      | N/The Outlands    | Life                | A grasping vine                 | Y, Demiplane         |
+| Seravius, god of energy        | N/Acheron         | Life                | A flowing river                 | Y, Demiplane         |
+| Topolus, god of location       | CN/Limbo          | Nature, Trickery    | An unkept field                 | Y, Demiplane         |
 # Minor Deities
 
 ## Dawn War Pantheon
-| Deity                  | Alignment | Suggested Domains                | Symbol                                                    | Champion |
-| ---------------------- | --------- | -------------------------------- | --------------------------------------------------------- | -------- |
-| Asmodeus (ascended)    | LE        | Knowledge, Order, Trickery       | Three inverted triangles arranged in a long triangle      | N        |
-| Avandra                | CG        | Moon, Nature, Trickery           | Woman's profile embossed on a gold coin or pendant        | N        |
-| Bahamut                | LG        | Life, War                        | Dragon's head in profile                                  | N        |
-| Corellon               | CG        | Arcana, Nature, Life, Light, War | Quarter moon or starburst                                 | N        |
-| Erathis                | LN        | Knowledge, Order                 | Double-headed axe inset with a pattern of scales          | N        |
-| Gruumsh                | CE        | Tempest, War                     | A triangular eye with bony protrusions, An unblinking eye | N        |
-| Ioun                   | N         | Knowledge                        | Crook shaped like a stylized eye                          | N        |
-| Kord                   | CN        | Tempest, War                     | sword with a lightning bolt crossguard                    | N        |
-| Lolth                  | CE        | Trickery, War                    | Spider                                                    | N        |
-| Melora                 | N         | Life, Nature, Tempest            | Wreath of grass and grain affixed to a crook              | N        |
-| Moradin                | LG        | Forge, Knowledge                 | Hammer and anvil                                          | N        |
-| Pelor                  | NG        | Life, Light, Nature              | Bright, eight-pointed star                                | N        |
-| Raven Queen (ascended) | LN        | Life, Death                      | Raven's head, in profile, facing left                     | N        |
-| Sehanine               | CG        | Grave, Knowledge, Light          | Full moon under a moonbow                                 | N        |
-| Tharizdun              | CE        | Trickery                         | Dark spiral or inverted ziggurat                          | N        |
-| Tiamat                 | LE        | Trickery                         | Dragon head with five claw marks                          | N        |
-| Zehir (ascended)       | CE        | Trickery, Death                  | Snake in the shape of a dagger                            | N        |
+| Deity                  | Alignment         | Suggested Domains                | Symbol                                                | Champion |
+| ---------------------- | ----------------- | -------------------------------- | ----------------------------------------------------- | -------- |
+| Asmodeus (ascended)    | LE/The Nine Hells | Knowledge, Order, Trickery       | Three inverted triangles arranged in a long triangle  | N        |
+| Avandra                | CG                | Moon, Nature, Trickery           | Woman's profile embossed on a gold coin or pen        | N        |
+| Bahamut                | LG                | Life, War                        | Dragon's head in profile                              | N        |
+| Corellon               | CG                | Arcana, Nature, Life, Light, War | Quarter moon or starburst                             | N        |
+| Erathis                | LN                | Knowledge, Order                 | Double-headed axe inset with a pattern of sc          | N        |
+| Gruumsh                | CE                | Tempest, War                     | A triangular eye with bony protrusions, An unblinking | N        |
+| Ioun                   | N                 | Knowledge                        | Crook shaped like a stylized                          | N        |
+| Kord                   | CN                | Tempest, War                     | sword with a lightning bolt crossguard                | N        |
+| Lolth                  | CE                | Trickery, War                    | Spider                                                | N        |
+| Melora                 | N                 | Life, Nature, Tempest            | Wreath of grass and grain affixed to a c              | N        |
+| Moradin                | LG                | Forge, Knowledge                 | Hammer and a                                          | N        |
+| Pelor                  | NG                | Life, Light, Nature              | Bright, eight-pointed                                 | N        |
+| Raven Queen (ascended) | LN                | Life, Death                      | Raven's head, in profile, facing                      | N        |
+| Sehanine               | CG                | Grave, Knowledge, Light          | Full moon under a moo                                 | N        |
+| Tharizdun              | CE                | Trickery                         | Dark spiral or inverted ziggurat                      | N        |
+| Tiamat                 | LE                | Trickery                         | Dragon head with five claw marks                      | N        |
+| Zehir (ascended)       | CE                | Trickery, Death                  | Snake in the shape of a dagger                        | N        |
 
 
 ## Forgotten Realms
