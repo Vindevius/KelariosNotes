@@ -69,8 +69,8 @@ Leysa's questions to Verithinus. DC 15 for Verithinus to talk, DC 18 for him to 
 	- Helios is locked away. A prisoner in Carceri. So, yes. He is in Hell.
 - Why did Leysa's parents love Helios more than her?
 	- Sweet child, where did you get that idea? Your parents were imperfect, but they loved you immensely. In their old age, Helios manipulated them in his desire for the throne and power. That was his undoing.
-- Was it hard to banish the vile ones because you still love them?
-	- Yes. Even now, sending you to rip their souls apart with those soul spikes, breaks my heart. Although it is necessary, does not make it easy.
+- Was it hard to banish the Vile Ones because you still love them?
+	- Yes. Even now, sending you to rip their souls apart with those soul spikes, breaks my heart. Although it is necessary, it does not make it easy.
 - If I could go back, is there anything I could’ve changed?
 	- Of course there is, but you do not have that luxury. Nor do I.
 - Are my loved ones at peace?

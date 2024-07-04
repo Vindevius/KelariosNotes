@@ -26,6 +26,6 @@ Yondal halts the battle and tells Diana after a Nat 20 persuasion that if she an
 
 The battle with the shadow serpent begins with Leysa in her phoenix form blinding it. The shadow serpent downs Derek and Thor. Diana takes Derek into the Raven's slumber. Both Diana and Derek were swallowed by the shadow serpent. Diana used the noose of the gods for the 1st time.
 
-Drayynon accidentally sends an eldritch blast at the shadow serpent while killing a canoloth. Only Leysa noticed. The shadow serpent used its shadow breath twice, the second time on low health. As the shadow serpent prepared to bite Aladus, which would have been a critical hit to kill Aladus, Phoenix Leysa slayed the shadow serpent, which dissolved into shadow.
+Draynnon accidentally sends an eldritch blast at the shadow serpent while killing a canoloth. Only Leysa noticed. The shadow serpent used its shadow breath twice, the second time on low health. As the shadow serpent prepared to bite Aladus, which would have been a critical hit to kill Aladus, Phoenix Leysa slayed the shadow serpent, which dissolved into shadow.
 
 Diana, Derek, and the one surviving wolf (out of 6), make there way to the prison after Yondal and Galla congratulate them while finishing their popcorn. Leysa extracts the Morthadium. Diana tears apart the night hag in her werewolf form, and befriends the nightmare with a Nat 20, naming her Azura. The party left the tower and plane shifted to the Shadow Keep, where Garic, the Champion of Marcaith, waited for them.
