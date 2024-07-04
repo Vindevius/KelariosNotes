@@ -6,7 +6,7 @@ After defeating Marcaith, the party remained in the city to straighten a few thi
 
 The party, with Lydia and Aladus disguised as a noble, met with the Council of the Stars, the ruling body of Kyria. The council, led by Nexus Sparrow, a warforged, asked for the party's opinion on the ensuing battle. At this time, the armies of Veteria were sieging the city of Kelar. The Santamaria, the sister ship of the Avenger, just barely managed to enter the bay of Kelar before the bay too was blocked off by Veteria.
 
-The Council of the Stars revealed there was an item in the vault that Astrolites and Domexius wanted to get their hands on that would be very dangerous. After much debate, it was decided to move the legendary item known as the ruinstone out of the city. Diana revealed to the council that she had previous destroyed the ruinstone the night she eloped with Derek.
+The Council of the Stars revealed there was an item in the vault that Astrolites and Domexius wanted to get their hands on that would be very dangerous. After much debate, it was decided to move the legendary item known as the ruinstone out of the city. Diana revealed to the council that she had previously destroyed the ruinstone the night she eloped with Derek.
 
 The council wasn't sure how to respond to this news, as they were debating destroying the ruinstone anyway. The council decided to deal with the consequences of Diana's actions, which did result in the death of many guards, a mage, and a couple of Kelar's most valiant champions, after the current threat was over. Edladon, a half-elf member of the council, sealed the fake ruinstone that Diana had left behind, and the party was tasked with accidentally giving the fake to Astrolites once he appeared.
 
@@ -30,7 +30,7 @@ Comrad finished off Heth, Astrolites highest gladiator. Domexius stole the box f
 
 Diana prepared a cocktail, which incapacitated an injured Astrolites. Meanwhile, Comrad heard a summons from Sovenia to touch his wings, which he did. In a whirl of motion, Sovenia reattached and healed Comrad's wings, and Comrad flew toward the fallen Astrolites.
 
-Astrolites roared in denial as a newly healed Comrad descended on him. Comrad struck him once, and then once more, this time with a Nat 20. "To the pain," Comrad said, as he cut off Astrolites' feet. Then he cut off his wrists, then his nose, and then his tongue. Astrolites screamed in agony as Comrad cut out each of his eyes. Comrad then took Astrolites by the throat flying into the sky, and then Comrad decapitated Astrolites, allowing his body to fall to the charred ground below.
+Astrolites roared in denial as a newly healed Comrad descended on him. Comrad struck him once, and then once more, this time with a Nat 20. "To the pain," Comrad said, as he cut off Astrolites' feet. Then he cut off his hands, then his nose, and then his tongue. Astrolites screamed in agony as Comrad cut out each of his eyes. Comrad then took Astrolites by the throat flying into the sky, and then Comrad decapitated Astrolites, allowing his body to fall to the charred ground below.
 
 Domexius, remarking on how disappointing Astrolites was, told the party it was his turn. He then unleased a massive roaring cone of flames across all those before him, setting the Cloudkey Grove ablaze.
 
@@ -46,6 +46,6 @@ Domexius' flames turned white hot, even burning the fire immune Leysa. Orion hea
 
 Orion called on Aeontas for Divine Intervention, which Aeontas immediately answered. Orion began to glow, his eyes turning pure silver, as Aeontas empowered Orion and his spells, renewing Orion's hope.
 
-After Comrad broke through the spell, Domexius targeted him and the newly empowered party cleric Orion, bringing both near death. Orion choose to heal Comrad instead of himself. At this moment, Charadraak stepped out from the relative safety of the Council of the Stars and pointed at Domexius, casting Wish.
+After Comrad broke through the spell, Domexius targeted him and the newly empowered party cleric Orion, bringing both near death. Orion chose to heal Comrad instead of himself. At this moment, Charadraak stepped out from the relative safety of the Council of the Stars and pointed at Domexius, casting Wish.
 
 A mass of energy hit Domexius with the full force of Charadraak's wrath, sending Domexius into his chromatic awakening. The spell also had the consequence of sapping all of Charadraak's strength, which left Charadraak helpless as Domexius, now flowing with elemental energy, charged directly at Charadraak. The party watched as Domexius engulfed Charadraak, swallowing Charadraak whole.

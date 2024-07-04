@@ -2,7 +2,7 @@
 
 - Lvl: 19
 
-After defeating Morthadius, the party made their way to the city of Crassus in the Western City States to set up a trap of Marcaith. During the week and a half leading up to Marcaith's arrival in Crassus, the party set their trap in a crossroads in the Dock Ward of Crassus. The Shadows helped to clear the area of citizens to prevent as many civilian casualties as possible.
+After defeating Morthadius, the party made their way to the city of Crassus in the Western City States to set up a trap for Marcaith. During the week and a half leading up to Marcaith's arrival in Crassus, the party set their trap in a crossroads in the Dock Ward of Crassus. The Shadows helped to clear the area of citizens to prevent as many civilian casualties as possible.
 
 Near the end of the week, the Avenger arrived at the dock. Captain Zale moored the ship near the site of the trap. Lucky, now with his foot on his belt, helped Scarbest set up cannons around the district.
 
