@@ -22,7 +22,7 @@
 | Ruichasm, god of destruction              | NE        | Nature, Tempest                     | A broken mountain | (Sagard Destrian human paladin oathbreaker)     | The Mist          |
 | Marcaith, god of affliction and withering | CE        | Death, Trickery<br><br>Vile One     | Sickly Green Vial | Garic Master of Shadow (half-elf monk/warlock)  | N/A               |
 | Morthadius, god of death                  | CE        | Death, Grave<br><br>Vile One        | A Black Fungus    | Draynnon (half-elf paladin)                     | N/A               |
-| Exsoria, goddess of exile and misfortune  | CE        | Death, Trickery                     | A Snake           | Diana Moonstone (half-elf warlock/rogue)        | The Violet Realm  |
+| Exsoria, goddess of exile and misfortune  | CE        | Death, Trickery                     | A Snake           | N/A                                             | The Violet Realm  |
 
 ## Neutral 
 
@@ -34,7 +34,7 @@
 | Eriseris, god of wilderness    | CN        | Nature              | A stone on top of another stone | Ewart the Wildman (red tiefling druid)  | The Volcanic Wastes |
 | Valeia, goddess of health      | N         | Life                | A grasping vine                 | (Sumina Virrieth changeling cleric)     | The Volcanic Wastes |
 | Seravius, god of energy        | N         | Life                | A flowing river                 | Valin the Peaceful (hill dwarf paladin) | The Volcanic Wastes |
-| Topolus, god of location       | CN        | Nature, Trickery    |        | (Adalith  A gray portal                   human bard)            | The Volcanic Wastes |
+| Topolus, god of location       | CN        | Nature, Trickery    | A gray portal                   | (Adalith  human bard)                   | The Volcanic Wastes |
 # Minor Deities
 
 ## Forgotten Realms

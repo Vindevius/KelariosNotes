@@ -73,7 +73,18 @@ tags:
 		- Athletics or Acrobatics check against the target's Acrobatics check. On a success, you have climbed onto the target and have advantage on attack rolls against it. You move with the creature. You can move around within the larger creature's space, treating the space as difficult terrain. The creature can attempt to knock you off as an action (Its Athletics check against your Athletics or Acrobatics check).
 	- Disarm
 		- A weapon attack against the target's Athletic or Acrobatics check causes the target to drop the item. On a success, the target drops the item but causes no damage. The attacker has a disadvantage if the target is holding the item with two or more hands. The target has an advantage if it is larger than the attacking creature or a disadvantage if it is smaller.
-5. DC20 Extras
+	- Variant: Training to Gain Levels
+		- As a variant rule, you can require characters to spend time between adventures training or studying before they gain the benefits of a new level. This variant slows the passage of time in the game world, which can help support a more realistic or gritty tone in your campaign.
+		- If you choose this option, after earning enough Experience Points to attain a new level, a character must train for a number of days before gaining any class features associated with the new level. You can decide whether the character can train independently or requires a trainer.
+		- The training time required depends on the level to be gained, as shown on the Training to Gain Levels table. The training cost is for the total training time.
+
+| Level Attained | Training Time | Training Cost |
+| -------------- | ------------- | ------------- |
+| 2–4            | 10 days       | 20 GP         |
+| 5–10           | 20 days       | 40 GP         |
+| 11–16          | 30 days       | 60 GP         |
+| 17–20          | 40 days       | 80 GP         |
+1. DC20 Extras
 	- Spell Duels
 		- Instead of an opportunity attack, spellcasters have access to spell duels, which allow you to spend hope to attempt to counterspell a spell using your own spell. This spell must make sense to counteract the spell being cast. A contested spell check is rolled during a spell duel. If there is a tie in a spell duel, a wild magic surge happens.
 	- Multiple Casters
@@ -85,3 +96,5 @@ tags:
 			- The following example uses an average damage of 5 and a max of 10. For example, if a monster's AC is 10 and you roll a 15 to hit that monster, you will do the average of 5 x 2 for a total of 10 damage against that monster. If you roll a 20, you do 5 x 3 for a total of 15 damage. If that roll was a critical (Nat 20), you do 10 x 3 (or 4 if it is 25+) for a total of 30 damage (or 40 for 25+ roll).
 	- Chase Scenes
 		- Fleeing enemies have a number of HP equal to their hit dice. This is not the case if it is a retreat. Their moral must be broken. If the players catch up to them, let them decide how to end it narratively, unless it wasn't a moral break.
+2. Flanking
+	- Flanking is +2 instead of advantage.

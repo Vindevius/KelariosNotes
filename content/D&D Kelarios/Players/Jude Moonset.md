@@ -1,0 +1,1 @@
+Perhaps, BBEG makes a deal with her with the possibility that she joins the BBEG, after she goes evil because of her lover.

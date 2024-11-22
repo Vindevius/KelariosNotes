@@ -7,74 +7,150 @@
 		- Petitioners - Those who died in the Prime Material Plane
 	- Plane - Layer - Realm
 	- Each plane has a portal to each of the two planes next to it.
-- Upper Planes
-	- Arcadia - LN(G)
+- ## Upper Planes
+	- ### Arcadia - The Realm of Harmony
+		- Represents balance, unity, and communal progress. Arcadia is a place where everything is in order, filled with natural beauty and a sense of peaceful cooperation. It could embody ideals like loyalty, community, and social harmony.
 		- A realm of purity housing celestial dwarves who live in harmony with the four demigods who rule the planes.
 		- Layers: Abellio, Buxenus, Nemausus (formerly, now a part of Mechanus)
-		- This is the domain of Signosia
-	- Mount Celestia - LG
+			- Lush fields, tranquil lakes, and perfectly balanced landscapes where everything feels in perfect symmetry and rhythm. Nature and civilization blend seamlessly, creating harmonious cities in tune with their surroundings.
+		- This is the domain of Valeia
+		- ##### Inhabitants
+			- Arcadia’s inhabitants, such as **archons or aasimon**, represent ideals of balance, harmony, and collective good. These beings could focus on **preserving social order and environmental balance**. They might be mediators, bringing together opposing forces, or guardians of natural harmony who support collective growth over individual ambition.
+	- ### Mount Celestia - The Realm of Aspiration
+		- A plane of personal growth, self-discovery, and ascension. Celestia could represent the desire for self-improvement and the journey toward higher wisdom or enlightenment, filled with radiant landscapes and challenges that inspire characters to reach their highest potential.
 		- A single glorious mountain that embodies justice and grace.
 		- Seven Layers: Lunia (Silver Heaven), Mercuria (Golden Heaven), Venya (The Pearly Heaven), Solania (Electrum Heaven), Mertion (Platinum Heaven), Jovar (Glittering Heaven), Chronias (Illuminated Heaven)
-		- This is the domain of Numeda and Aeontas.
-	- Bytopia - NG(L)
+			- Towering, golden peaks and misty pathways that feel like a journey upward, with gleaming temples and shrines representing different forms of wisdom. Each level is more ethereal than the last, with radiant light illuminating the path to self-realization.
+		- This is the domain of Sovenia and Aeontas.
+		- ##### Inhabitants
+			- Celestial beings here, like **angels and devas**, embody **personal growth, wisdom, and aspiration** rather than absolute good. They might be guides, mentors, or even rivals in the quest for self-improvement, each at different levels of wisdom and enlightenment. Rather than being driven by good, they’d inspire others to reach their full potential, challenging mortals to strive toward higher understanding.
+	- ### Bytopia - The Realm of Cooperation
+		- This dual-plane can reflect ideals of mutual benefit and collaboration, where individuals work together for the common good. Its two layers, one above and one below, reflect how different perspectives and approaches can coexist and support one another.
 		- A plane divided into two paradises: tamed fields of crop (Dothion) and unkept wilderness (Shurrock). Representing understanding for freedom and law.
-		- This is the domain of Sovenia
-	- Elysium - NG
+			- Dual-layered, with fertile farmland and industrious towns on one side, and wild forests and mountains on the other. These two halves complement each other, reflecting mutual support and the beauty of interdependence.
+		- This is the domain of Vizoia
+		- ##### Inhabitants
+			- Inhabitants here, traditionally called **gnomes or dwarves**, might represent ideals of **collaboration, hard work, and mutual support**. Bytopian beings could be crafters and builders who create not only for individual glory but for the enrichment of all. They value interdependence and welcome and support adventurers who contribute to the common good.
+	- ### Elysium - The Realm of Tranquility
+		- Elysium could become a sanctuary of peace, contentment, and rest, symbolizing a release from struggles and the joys of living in harmony with nature. It’s a place where the weary find rest and the soul finds solace, representing the beauty of inner peace.
 		- The perfect place. A realm of pure good and happiness.
 		- Layers: Amoria, Eronia, Belierin, Thalasia
-		- This is the domain of Medicarma and Vizoia.
-	- The Beastlands - NG(C)
+			- Calm rivers, flower-filled meadows, and forests that seem to invite rest. Elysium’s warm glow gives the land a timeless feel, as if it’s a place for respite from all cares, with idyllic villages and open skies.
+			- Belierin is the prison of an ancient legendary hydra and other powerful entities.
+				- In ancient times, the [guardinals](https://forgottenrealms.fandom.com/wiki/Guardinal "Guardinal") encountered a legendary hydra in one of their quests, thought to be the mythical unique individual that spawned all other hydras. Unable to defeat it, the guardinals used a _[teleport](https://forgottenrealms.fandom.com/wiki/Teleport "Teleport")_ spell to move the hydra to Belierin, after which they closed all portals that led out of the layer and sealed it off from [divination](https://forgottenrealms.fandom.com/wiki/Divination "Divination") magic. This effectively turned the layer into an infinite cage, from which the only exit was the Oceanus itself, whose blessed waters the hydra could not touch.
+				- It was rumored that other powerful entities shared the prison with the hydra. The number and nature of the other prisoners was not known, but rumors existed of a creature similar to the tarrasque, a legendary black dragon, a captured archdevil, a demon lord, an archomental, or even a wounded deity.
+		- This is the domain of Medicarma.
+		- ##### Inhabitants
+			- Elysium’s spirits are peaceful beings who embody **serenity, healing, and contentment**. They could act as guides for souls seeking rest or release from turmoil. Rather than an alignment-based paradise, Elysium attracts those looking to escape strife, offering peace without judgment.
+	- ### The Beastlands - The Realm of Instinct
+		- A plane celebrating natural instincts, primal urges, and the bond between all living creatures. The Beastlands represents the wild, untamed side of existence where beings are guided by intuition and a deep respect for the natural order.
 		- Pure wilderness of every environment. There are no rules besides nature. Every inhabitant is a wild talking animal.
 		- Layers: Krigala, Brux, Karasuthra.
+			- Verdant jungles, dense forests, and wild plains alive with creatures acting on natural instincts. The land is teeming with animal life, lush vegetation, and cycles that follow primal rhythms, untouched by civilization.
 		- This is the domain of Nafursa and Eriseris.
-	- Arborea - CG
+		- ##### Inhabitants
+			- The **beasts, animal spirits, and fey** here represent the primal instincts and natural cycles. They celebrate the beauty of life untamed, acting on natural urges, instincts, and environmental roles rather than moral codes, sometimes fierce but always harmonious with their ecosystem.
+	- ### Arborea - The Realm of Passion
+		- A place of intense emotions, creativity, and boundless energy. Arborea is where passions rule, from love to art to righteous fury. This plane embodies the heights of beauty and emotion, where individuals can fully express their truest desires.
 		- A land governed by pure emotion. Rage and joy are ever-present in Arborean inhabitants.
 		- Layers: Olympus (Arvandor), Ossa (Aquallor), Pelion (Mithardir)
-		- This is the domain of Vecmetus.
-	- Ysgard - CN(G)
+			- Vibrant forests with vivid, otherworldly colors and landscapes that seem to pulse with life. Intense, dazzling skies shift colors with emotions, and its inhabitants revel in art, celebration, and acts of profound emotion.
+		- This is the domain of Vecmetus and Seravius.
+		- ##### Inhabitants
+			- **Eladrin and fey** creatures inhabit Arborea as beings who live through their passions—whether in art, love, or wrath. Arborea resonates with intense emotions, and its inhabitants embody joy, beauty, and even righteous fury. They are unpredictable and creative, encouraging adventurers to act on their deepest passions.
+	- ### Ysgard - The Realm of Valor
+		- Ysgard becomes the realm of bravery, resilience, and the glory of battle—not out of malice, but as a celebration of strength and perseverance. Here, warriors, poets, and heroes prove their worth through daring deeds, with epic landscapes that mirror their valor.
 		- Heaven of heroes and war. People rise and fall on the eternal battlefield of Ysgard.
-		- Layers: Ysgard (Valhalla), Muspelheim, Nidavellir
-		- This is the domain of Zorvia.
-- Limbo - CN
+		- Layers: Ysgard (Valhalla/Valor's Summit), Muspelheim (Infernal Crucible), Nidavellir (Forge of Heroes)
+			- Dramatic cliffs, battlefields under perpetual sunset, and ancient halls of feasting and storytelling. This is a land of heroic challenges, where mountains and fields echo with the sounds of battles and epic tales.
+		- This is the domain of Numeda.
+		- ##### Inhabitants
+			- The **einherjar, valkyries, and warrior spirits** here represent valor, courage, and the honor of the battlefield rather than chaotic good. This plane’s inhabitants might seek out challenges and rivalries, seeing each encounter as a test of strength and spirit. They revel in heroism, inviting mortals to prove themselves as worthy allies or adversaries.
+- ### Limbo - The Realm of Chaos
+	- Limbo remains the chaotic, ever-shifting realm but now represents pure freedom, creativity, and adaptability rather than chaos for chaos’s sake. It is the place where thought shapes reality, and those who can harness the unpredictability of Limbo find limitless potential.
 	- The essence of chaos. Every element is interchanged at random, and only strong minds can last more than a minute without being obliterated.
 	- Layers: Gith (Slaad), Susanoo, Agni, Indra, Layer of Lost Gods. All the layers look the same.
-	- This is the domain of Topolus.
-- Lower Planes
-	- Pandemonium - CN(E)
+		- A shifting, unpredictable landscape where thought shapes matter. Everything is in flux, with floating islands, swirling matter, and colors and forms that change with the mind’s intent or the whims of its inhabitants.
+	- This is the domain of Efimera.
+	- ##### Inhabitants
+		- The **slaadi and other chaotic beings** of Limbo embody ultimate freedom, flexibility, and adaptability. Rather than being chaotic neutral, they symbolize the beauty and danger of unrestrained creativity, embracing change and letting thought shape reality. Limbo's inhabitants value liberation and transformation, often teaching visitors to harness their minds to influence their surroundings.
+- ## Lower Planes
+	- ### Pandemonium - The Realm of Desperation
+		- Pandemonium reflects the darker sides of isolation, madness, and struggle against despair. It’s a plane that embodies psychological endurance, with howling winds and dark caves symbolizing the inner battles we face in times of crisis or solitude.
 		- A plane of madness, existing as screaming winds tearing through tunnels to torture the poor souls there. Least inhabited.
 		- Layers: Pandesmos, Cocytus, Phlegethon, Agathion.
-		- This is the domain of Exsoria.
-	- The Abyss - CE
+			- Dark caves and endless tunnels filled with howling winds and shadowed landscapes. This realm feels like an ongoing test of endurance, evoking a sense of struggle against the overwhelming forces of isolation and fear.
+		- This is the domain of Neglamel.
+		- ##### Inhabitants
+			- The **lurking, shadowy creatures** of Pandemonium reflect despair, isolation, and endurance. Rather than being chaotic evil, they might represent personal challenges and tests of mental strength, taking forms that confront those who enter with their darkest fears. These beings serve as reminders of the inner strength needed to overcome solitude and despair.
+	- ### The Abyss - The Realm of Destruction
+		- Rather than simply chaotic evil, the Abyss represents raw, unchecked destructive forces. It’s a place of unrestrained power where entities seek constant change through annihilation, embodying the darker aspects of nature and the cycle of creation and decay.
 		- This plane houses every nightmare imaginable and consists of endless layers with unique horrors. Occasionally, the demon kings ventures to the Underdark to rampage.
 		- Layers include: Plain of Infinite Portals (1st layer), infinite
-		- This is the domain of Marcaith.
-	- Carceri (Tartarus) - NE(C)
+			- Chaotic and jagged landscapes, volcanic fields, and crumbling mountains. The plane reflects the raw forces of destruction, with dark storms and rivers of molten rock—a place of constant decay and rebirth.
+		- This is the domain of Ruichasm.
+		- ##### Inhabitants
+			- Inhabitants of the Abyss are **entities of raw, destructive forces**—embodying the necessity of decay and annihilation in the cycle of creation. They bring ruin where it is “needed” for growth or transformation, embodying natural destruction without moral implications.
+	- ### Carceri - The Realm of Oppression
+		- Carceri becomes a plane of confinement, representing the oppression of freedom and ambition. It is a place where beings are bound by circumstance or power, representing themes of manipulation, entrapment, and the struggle for autonomy.
 		- It's a perfect prison. Six layers that are uniquely cruel to its inhabitants.
 		- Layers: Othrys, Cathrys, Minethys, Colothys, Prophets, Agathys
-		- This is the domain of Domexius.
-	- Hades (The Gray Waste) - NE
+			- Foggy swamps, craggy peaks, and closed-in spaces that convey an oppressive sense of entrapment. Barred gates and labyrinthine paths reflect how its inhabitants are bound by forces they can’t escape.
+		- This is the domain of Asmodeus.
+		- ##### Inhabitants
+			- Carceri’s **dark spirits and oppressive jailors** reflect themes of entrapment and control, serving as reminders of the power imbalances or manipulation that can ensnare individuals. Rather than evil beings, they are wardens and enforcers who uphold the plane’s oppressive nature, testing visitors with challenges to escape their bonds.
+	- ### Hades (The Gray Waste) - The Realm of Desolation
+		- Hades becomes a plane symbolizing despair, loss, and the inevitability of endings. It’s a place for mourning and reflection, where souls confront their regrets and come to terms with past lives, offering either a place to succumb to grief or to transcend it.
 		- Three layers of joylessness, hopelessness, and apathy. No color. Everything is gray. People sent here become larvae with sorrowful faces of their former selves slugging around in the mud.
-		- Layers: Oinos, Niflheim, and Pluton.
-		- This is the domain of Morthadius.
-	- Gehenna - NE(L)
+		- Layers: Oinos (Wasteland of Loss), Niflheim (Frozen Despair), and Pluton (Void of Oblivion).
+			- A gray, bleak landscape of barren fields, lifeless forests, and fog-filled valleys. Hades is dim and muted, evoking melancholy and loss, where souls reflect on the past and confront their deepest sorrows.
+		- This is the domain of the Raven Queen and Exsoria.
+		- ##### Inhabitants
+			- Hades hosts **souls and spirits lost in sorrow** or those seeking closure from past lives. Rather than being forces of pure evil, its inhabitants reflect the realm’s desolate and introspective nature, inviting visitors to confront regret and let go of grief. They are neutral observers of the cycle of loss.
+	- ### Gehenna - The Realm of Ambition
+		- Gehenna represents ambition, power, and calculated risk, with towering volcanic landscapes reflecting the constant tension between desire and danger. It’s a place of opportunity for those willing to scheme, embodying the drive for personal success at any cost.
 		- A plane of avarice. The plane of bleak eternity. Housing creatures who are merciless and selfish. If you pass through here and make it out alive, check your pockets.
 		- Layers: Khalas, Chamada, Mungoth, Krangath
-		- This is the domain of Ruichasm.
-	- The Nine Hells of Baator - LE
+			- Jagged volcanic peaks, rivers of lava, and dark fortresses perched on cliffs. It is a place where ambition and cunning thrive, with treacherous paths and high stakes, symbolizing the drive to rise and conquer.
+		- This is the domain of Zorvia.
+		- ##### Inhabitants
+			- The inhabitants here represent ambition and the drive to achieve, often in risky or ruthless ways. They might be **power brokers and dealmakers** who enable visitors to pursue goals, pushing them to weigh the cost of ambition and teaching lessons about consequence.
+	- ### The Nine Hells of Baator - The Realm of Order
+		- The Nine Hells become the embodiment of strict order, control, and hierarchy. It’s a plane where every being has a role, and nothing happens without purpose. Here, structure and discipline rule, representing law and duty in their most absolute forms.
 		- Each level of the Nine Hells is uniquely horrible and houses devils and fiends of unimaginable power and cruelty.
 		- Avernus, Dis, Minauros, Phlegethos, Stygia, Malbolge, Maladomini, Cania, and Nessus.
-		- This is the domain of Neglamel and Efimera.
-	- Acheron - LN(E)
+			- Imposing fortresses, vast cities of iron and stone, and tiered landscapes. Its rigid structure and precise pathways show absolute control, where everything has a designated place and purpose.
+		- This is the domain of Asmodeus and Tempronus.
+		- ##### Inhabitants
+			- **Asmodeus** and other devils embody the concept of **strict order, structure, and law**, rather than lawful evil. Instead of ruling through cruelty and manipulation alone, Asmodeus is a **Lord of Order**, dedicated to establishing cosmic stability and enforcing contracts, but still a formidable and sometimes ruthless figure who views chaos as the ultimate threat. Devils in this reimagined Baator might act as enforcers, architects, or legislators of reality, revered or feared for their unswerving commitment to maintaining structure and punishing disorder.
+	- ### Acheron - The Realm of Conflict
+		- A plane where endless conflicts play out, Acheron becomes the embodiment of clashing ideals, whether through war, debate, or rivalry. It represents the forces of opposition and the idea that struggle is part of growth and understanding.
 		- Four iron cubes floating through space slamming into each other at random. These cubes represent pain and war. The infernal battlefield. Conformity. Mercy killers live here. (Orcs & Goblins)
 		- Layers: Avalas, Thuldanin, Tintibulus, Ocanthus
-		- This is the domain of Seravius.
-	- The Blood War: Baator vs the Abyss
-		- Those who die and come here become a larva or a mane. They can then rise up to become a devil or demon and become part of the blood war. That is why devils and demons seek to corrupt mortals. Most of the blood war takes place in the Gray Waste (Oinos).
-- Mechanus - LN
+			- Expansive plains dotted with floating cubes and ancient battlefields. The land is filled with echoes of past conflicts and shifting arenas, a place of ceaseless clashes and competition.
+		- This is the domain of Zehir.
+		- ##### Inhabitants
+			- Acheron’s inhabitants would reflect the ideal of conflict as a force for growth, often competitive but not malicious. They could be **eternal warriors and tacticians** who value strategic thinking, encouraging both friendly rivalries and harsh battles that serve to strengthen all involved.
+	- ### The Blood War: Baator vs the Abyss
+		- Those who die and come here become a larva or a mane. They can then rise up to become a devil or demon and become part of the blood war. That is why devils and demons seek to corrupt mortals. Most of the blood war takes place in the Gray Waste (Oinos). Recently, the battle has shifted to Carceri when Asmodeus became a chief deity. Zehir directly opposes Asmodeus.
+- ### Mechanus - The Realm of Precision
+	- Mechanus remains a place of ultimate structure but is now more focused on precision, logic, and efficiency. It’s a realm where everything has a place, embodying the beauty of order without moral judgment—a plane of invention, understanding, and cosmic balance.
 	- A plane of perfected clockwork housing a creature called Primus and all of his mechanical children. Giant cogs in space
 	- Layers: Regulus (land of the Modrons), others that are unnamed
-	- This is the domain of Tempronus.
-- The Outlands
+		- An endless realm of interconnected gears, symmetrical patterns, and orderly landscapes. Its clockwork mechanics embody precision and balance, with rivers and mountains that follow predictable, geometric patterns.
+	- This is the domain of Signosia.
+		- ##### Inhabitants
+			- Mechanus remains a realm of precision, where **modrons and clockwork beings** embody ultimate structure and logic. They are devoted to keeping balance and precision, representing the cosmic importance of order without moral overtones.
+- ### The Outlands - The Nexus of Realities
+	- Positioned as the bridge between all realms, the Outlands are a place of neutrality and convergence, representing the balance of all ideals and serving as a crossroads where different philosophies can meet and interact.
 	- A vast field that has towns based at its edges. Each one is a settlement that exemplifies an outer plane and is a gateway to that plane. Sigil is located at the top of its central spire.
 	- Layers: 9th Ring (1st layer, magic mostly unaffected), 8th Ring (9th level spells don’t work), 7th Ring (8th level spells don’t work), 6th Ring (7th level spells don’t work), 5th Ring (6th level spells don’t work), 4th Ring (5th level spells don’t work), 3rd Ring (4th level spells don’t work), 2nd Ring (3rd level spells don’t work), 1st Ring (2nd level spells don’t work), The Spire (no spells work), Sigil (magic works fine except planar travel).
-	- This is the domain of Valeia.
+		- Rolling hills and varied landscapes, each reflecting the ideals of the surrounding planes, with a sense of balance between extremes. The Outlands’ environments shift gradually near each gate, mirroring the neighboring realms.
+	- This is the domain of Topolus.
+	- ##### Inhabitants
+		- 
+	- #### Sigil - The City of Doors
+		- Sigil continues as a central hub, representing the place where all paths converge. It’s a cosmopolitan realm where beings from every plane gather, and its neutrality allows it to be a realm of diverse ideas and cooperation among various cultures.
+		- A sprawling, bustling city filled with portals leading to every plane. The architecture is eclectic, and people from every realm come together in Sigil, creating a melting pot of ideas and cultures.
+	- ##### Inhabitants
+		- 

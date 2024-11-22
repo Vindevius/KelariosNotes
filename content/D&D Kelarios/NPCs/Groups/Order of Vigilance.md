@@ -1,0 +1,21 @@
+The Order of Vigilance is a powerful organization established in the year 4940 in the city of Kelar. Formed by former members of the Council of the Star and war heroes, its creation was a response to the horrors of the War of the Vile Ones, ensuring the continent would never again be caught unprepared by dark forces. The Order is devoted to defending Kyria and the surrounding lands by identifying, researching, and neutralizing potential threats—especially those involving dark magic and residual influence from the Vile Ones.
+
+Headquartered in Kelar, the Order has fortified key locations throughout Kyria, constructing watchtowers along the borders and deploying elite warriors, mages, and scouts trained to confront threats with precision and strength. This highly disciplined organization focuses on intelligence and strategic defense, maintaining a constant watch over possible dangers to the continent’s stability. The Order’s surveillance has intensified after events like the Shadow Rebellion, where rebellious mages sought to lift restrictions on dark magic, and the Whispering Plague, a mysterious illness linked to cursed relics that the Order ultimately helped to contain.
+
+The Order of Vigilance also collaborates closely with Kelar’s Great Library. The library’s Vault of Shadows is a restricted area reserved for Order members, where dangerous relics and forbidden knowledge are stored securely away from public access. This partnership allows the Order to safeguard knowledge and artifacts of significant historical and magical importance, ensuring that the continent is protected from any resurgence of ancient curses or threats from lost civilizations.
+
+In the years following its founding, the Order of Vigilance has become a revered institution, trusted by the people of Kyria for its tireless dedication to the continent’s safety. Its role in crises, coupled with a firm stance on the regulation of magical practices, has helped to solidify Kelar’s standing as both a center of defense and a symbol of hope for a secure future.
+
+# Founder
+The Order of Vigilance was founded by **General Elara Thorne**, a celebrated war hero. Known for her tactical genius and unwavering dedication during the War of the Vile Ones, Elara recognized the need for a specialized organization to detect and combat lingering threats. She was deeply affected by the devastation the Vile Ones brought upon Kelar and vowed to prevent any similar darkness from taking root again.
+
+Elara’s vision for the Order extended beyond simply fortifying borders; she wanted an institution that could preserve knowledge, responsibly manage dangerous relics, and protect Kyria from within. To accomplish this, she enlisted veterans from the war—warriors, scholars, and mages alike—ensuring that the Order had expertise in both martial and arcane practices. Her leadership shaped the Order’s mission to not only defend against visible threats but also to combat corruption, dark magic, and any force that might threaten the continent’s stability.
+
+Though Elara has since retired, her legacy endures as the Order of Vigilance continues its work in Kelar and beyond, embodying her principles of resilience, discipline, and vigilance.
+
+# Leadership
+The current leader of the Order of Vigilance is **High Sentinel Kaelen Vos**, a former protégé of General Elara Thorne. Kaelen was a distinguished commander during the War of the Vile Ones, known for his keen strategic mind and dedication to Elara’s vision of a safeguarded Kyria.
+
+Kaelen is a firm but compassionate leader, highly respected among the Order’s ranks for his ability to balance strict discipline with a genuine concern for the people he protects. He has further refined the Order’s methods of surveillance and intelligence, increasing its focus on subtle threats, including those from forbidden magic and dark artifacts.
+
+Under Kaelen’s leadership, the Order has expanded its influence and refined its operations, training its members not only in combat and magical arts but also in diplomatic skills, recognizing the importance of maintaining strong alliances. He is often seen consulting with the Continental Council and other regional leaders, ensuring that the Order of Vigilance remains aligned with the continent's broader goals for peace and stability.

@@ -1,197 +1,192 @@
+# The True One & The Corrupted One
+
+| Deity      | Realm *=shared realm      | Suggested Domains      | Symbol             | Champion   |
+| ---------- | ------------------------- | ---------------------- | ------------------ | ---------- |
+| Verithinus | The Positive Energy Plane | Light                  | Seven-Pointed Star | Y, Bahamut |
+| Corumedus  | The Negative Energy Plane | Tempest, Trickery, War | Nightwalker Head   | Y, Tiamat  |
 # The Twenty-One Major Deities
 
-## Good
+| Deity                                      | Realm *=shared realm             | Suggested Domains   | Symbol                                               | Champion                                                                    |
+| ------------------------------------------ | -------------------------------- | ------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- |
+| Numeda, goddess of strength                | Ysgard                           | Tempest, War        | Anvil                                                | Y, [[Faris Vaserius Moonset]] (half-elf, shadow magic, rune knight fighter) |
+| Aeontas, god of eternity                   | Mount Celestia*                  | Life, Light         | Pool of Silver Liquid                                | Y, [[Leysa Doyle]] (high elf druid)                                         |
+| Sovenia, goddess of wisdom                 | Mount Celestia*                  | Knowledge           | Book surrounded by Fire                              | Y, [[Akona Dath]] (tan tiefling cleric)                                     |
+| Nafursa, goddess of nature                 | The Beastlands*                  | Nature              | A Gray Stone                                         | Y, [[Gunthar]] (halfling druid)                                             |
+| Medicarma, goddess of healing              | Elysium                          | Life                | Two open hands                                       | Y, [[Serena the Healer]] (wood elf cleric)                                  |
+| Vizoia, goddess of life                    | Bytopia                          | Life                | A bright mushroom                                    | Y, [[Acurus the Lifebringer]] (half-elf cleric)                             |
+| Vecmetus, god of travel                    | Arborea*                         | Trickery            | Air, a gust of wind                                  | Y, [[Aladus]] (changeling lore bard)                                        |
+| Asmodeus, god of dominion                  | Carceri & Baator*                | Light, Tempest, War | Three inverted triangles arranged in a long triangle | Y, [[Varek Valrath]] (tiefling, paladin oath of conquest)                   |
+| Efimera, goddess of the ephemeral          | Limbo                            | Death, Trickery     | Black pool                                           | Y, [[Lyra Duskwhisper]] (half-elf, storm sorcerer)                          |
+| Neglamel, god of neglect                   | Pandemonium                      | Death, Trickery     | A closed door                                        | Y, [[Kokorio Maish]] (green dragonborn warlock)                             |
+| Ruichasm, god of destruction               | Ruichasm                         | Nature, Tempest     | A broken mountain                                    | Y, [[Sagard Destrian]] (human paladin oathbreaker)                          |
+| Zehir/Set, god of affliction and withering | Acheron                          | Death, Trickery     | Snake in the shape of a dagger                       | Y, [[Valthrax Bloodvenom]] (tiefling fiend warlock)                         |
+| Raven Queen, goddess of death              | The Gray Waste* & the Shadowfell | Death, Grave        | Raven's head, in profile, facing left                | Y, [[Lirael Shadowmantle]] (Shadar-kai, paladin oath of the grave)          |
+| Exsoria, goddess of exile and misfortune   | The Gray Waste*                  | Death, Trickery     | A Snake                                              | Y, [[Thalen Duskstride]] (tiefling ranger hunter)                           |
+| Zorvia, goddess of force                   | Gehenna                          | Light, Tempest, War | A blue bar of metal                                  | Y, [[Kaelen Stormhammer ]](goliath battle master fighter)                   |
+| Tempronus, god of time                     | Baator*                          | Life, Light         | An unstopped bottle                                  | Y, [[Caramella Farfoot]] (halfling cleric)                                  |
+| Signosia, goddess of knowledge             | Mechanus                         | Knowledge           | An open book                                         | Y, [[Darius Orion Moonset]] (half-elf evoker wizard)                        |
+| Eriseris, god of wilderness                | The Beastlands*                  | Nature              | A stone on top of another stone                      | Y, [[Ewart the Wildman]] (red tiefling druid)                               |
+| Valeia, goddess of health                  | Arcadia                          | Life                | A grasping vine                                      | Y, [[Elysia Greenbloom]] (half-elf life cleric)                             |
+| Seravius, god of energy                    | Arborea*                         | Life                | A flowing river                                      | Y, [[Valin the Peaceful]] (hill dwarf paladin)                              |
+| Topolus, god of location                   | The Outlands/Sigil               | Nature, Trickery    | An unkept field                                      | Y, [[Arius Wanderstone]] (human ranger)                                     |
 
-| Deity                         | Alignment/Outer Plane | Suggested Domains | Symbol                  | Champion         |
-| ----------------------------- | --------------------- | ----------------- | ----------------------- | ---------------- |
-| Numeda, goddess of strength   | LG/Mount Celestia     | Tempest, War      | Anvil                   | Y, Sir Daidelous |
-| Aeontas, god of eternity      | LG/Mount Celestia     | Life, Light       | Pool of Silver Liquid   | Y, Leysa Doyle   |
-| Sovenia, goddess of wisdom    | LG/Bytopia            | Knowledge         | Book surrounded by Fire | N                |
-| Nafursa, goddess of nature    | CG/The Beastlands     | Nature            | A Gray Stone            | Y, Demiplane     |
-| Medicarma, goddess of healing | NG/Elysium            | Life              | Two open hands          | Y, Demiplane     |
-| Vizoia, goddess of life       | NG/Elysium            | Life              | A bright mushroom       | Y, Demiplane     |
-| Vecmetus, god of travel       | CG/Arborea            | Trickery          | Air, a gust of wind     | Y, Aladus        |
-
-## Evil
-
-| Deity                                                      | Alignment                                 | Suggested Domains                   | Symbol            | Champion           |
-| ---------------------------------------------------------- | ----------------------------------------- | ----------------------------------- | ----------------- | ------------------ |
-| ~~Domexius~~ Asmodeus, god of dominion                     | ~~CE~~ LE/Carceri & the Nine Hells        | Light, Tempest, War<br><br>Vile One | The Sun           | Y, King Astrolites |
-| Efimera, goddess of the ephemeral                          | LE/The Nine Hells                         | Death, Trickery                     | Black pool        | N                  |
-| Neglamel, god of neglect                                   | LE/The Nine Hells                         | Death, Trickery                     | A closed door     | Y, Kokorio Maish   |
-| Ruichasm, god of destruction                               | NE/Gehenna                                | Nature, Tempest                     | A broken mountain | Y, Sagard Destrian |
-| ~~Marcaith~~ Zehir/Set, god of affliction and withering    | CE/The Abyss                              | Death, Trickery<br><br>Vile One     | Sickly Green Vial | N, Deceased        |
-| ~~Morthadius, god of death~~ Raven Queen, goddess of death | ~~CE~~ LN/The Gray Waste & the Shadowfell | Death, Grave<br><br>Vile One        | A Black Fungus    | N, Deceased        |
-| Exsoria, goddess of exile and misfortune                   | CE/Pandemonium                            | Death, Trickery                     | A Snake           | Y, Diana Moonstone |
-
-## Neutral 
-
-| Deity                          | Alignment         | Suggested Domains   | Symbol                          | Champion             |
-| ------------------------------ | ----------------- | ------------------- | ------------------------------- | -------------------- |
-| Zorvia, goddess of force       | CN/Ysgard         | Light, Tempest, War | A blue bar of metal             | N                    |
-| Tempronus, god of time         | LN/Mechanus       | Life, Light         | An unstopped bottle             | Y, Caramella Farfoot |
-| Signosia, goddess of knowledge | LN/Arcadia        | Knowledge           | An open book                    | Y, Demiplane         |
-| Eriseris, god of wilderness    | CN/the Beastlands | Nature              | A stone on top of another stone | Y, Demiplane         |
-| Valeia, goddess of health      | N/The Outlands    | Life                | A grasping vine                 | Y, Demiplane         |
-| Seravius, god of energy        | N/Acheron         | Life                | A flowing river                 | Y, Demiplane         |
-| Topolus, god of location       | CN/Limbo          | Nature, Trickery    | An unkept field                 | Y, Demiplane         |
 # Minor Deities
 
 ## Dawn War Pantheon
-| Deity                  | Alignment         | Suggested Domains                | Symbol                                                | Champion |
-| ---------------------- | ----------------- | -------------------------------- | ----------------------------------------------------- | -------- |
-| Asmodeus (ascended)    | LE/The Nine Hells | Knowledge, Order, Trickery       | Three inverted triangles arranged in a long triangle  | N        |
-| Avandra                | CG                | Moon, Nature, Trickery           | Woman's profile embossed on a gold coin or pen        | N        |
-| Bahamut                | LG                | Life, War                        | Dragon's head in profile                              | N        |
-| Corellon               | CG                | Arcana, Nature, Life, Light, War | Quarter moon or starburst                             | N        |
-| Erathis                | LN                | Knowledge, Order                 | Double-headed axe inset with a pattern of sc          | N        |
-| Gruumsh                | CE                | Tempest, War                     | A triangular eye with bony protrusions, An unblinking | N        |
-| Ioun                   | N                 | Knowledge                        | Crook shaped like a stylized                          | N        |
-| Kord                   | CN                | Tempest, War                     | sword with a lightning bolt crossguard                | N        |
-| Lolth                  | CE                | Trickery, War                    | Spider                                                | N        |
-| Melora                 | N                 | Life, Nature, Tempest            | Wreath of grass and grain affixed to a c              | N        |
-| Moradin                | LG                | Forge, Knowledge                 | Hammer and a                                          | N        |
-| Pelor                  | NG                | Life, Light, Nature              | Bright, eight-pointed                                 | N        |
-| Raven Queen (ascended) | LN                | Life, Death                      | Raven's head, in profile, facing                      | N        |
-| Sehanine               | CG                | Grave, Knowledge, Light          | Full moon under a moo                                 | N        |
-| Tharizdun              | CE                | Trickery                         | Dark spiral or inverted ziggurat                      | N        |
-| Tiamat                 | LE                | Trickery                         | Dragon head with five claw marks                      | N        |
-| Zehir (ascended)       | CE                | Trickery, Death                  | Snake in the shape of a dagger                        | N        |
+| Deity                  | Realm                     | Suggested Domains                | Symbol                                                | Champion |
+| ---------------------- | ------------------------- | -------------------------------- | ----------------------------------------------------- | -------- |
+| Asmodeus (ascended)    | Baator/Carceri            | Knowledge, Order, Trickery       | Three inverted triangles arranged in a long triangle  | N        |
+| Avandra                | Arborea                   | Moon, Nature, Trickery           | Woman's profile embossed on a gold coin or pen        | N        |
+| Bahamut                | Mount Celestia            | Life, War                        | Dragon's head in profile                              | N        |
+| Corellon               | Arborea                   | Arcana, Nature, Life, Light, War | Quarter moon or starburst                             | N        |
+| Erathis                | Astral Plane              | Knowledge, Order                 | Double-headed axe inset with a pattern of scales      | N        |
+| Gruumsh                | Acheron                   | Tempest, War                     | A triangular eye with bony protrusions, An unblinking | N        |
+| Ioun                   | Astral Plane              | Knowledge                        | Crook shaped like a stylized                          | N        |
+| Kord                   | Ysgard                    | Tempest, War                     | sword with a lightning bolt crossguard                | N        |
+| Lolth                  | The Abyss                 | Trickery, War                    | Spider                                                | N        |
+| Melora                 | The Beastlands            | Life, Nature, Tempest            | Wreath of grass and grain affixed to a crook          | N        |
+| Moradin                | Mount Celestia            | Forge, Knowledge                 | Hammer and anvil                                      | N        |
+| Pelor                  | Elysium                   | Life, Light, Nature              | Bright, eight-pointed                                 | N        |
+| Raven Queen (ascended) | Shadowfell/The Gray Waste | Life, Death                      | Raven's head, in profile, facing left                 | N        |
+| Sehanine               | Arborea                   | Grave, Knowledge, Light          | Full moon under a moon                                | N        |
+| Tharizdun              | Imprisoned in The Abyss   | Trickery                         | Dark spiral or inverted ziggurat                      | N        |
+| Tiamat                 | Baator                    | Trickery                         | Dragon head with five claw marks                      | N        |
+| Zehir (ascended)       | Acheron                   | Trickery, Death                  | Snake in the shape of a dagger                        | N        |
 
 
 ## Forgotten Realms
 
-| Deity                                   | Alignment               | Suggested Domains   | Symbol                                                                               | Champion |
-| --------------------------------------- | ----------------------- | ------------------- | ------------------------------------------------------------------------------------ | -------- |
-| Auril, goddess of winter                | NE, Ruichasm            | Nature, Tempest     | Six-pointed snowflake                                                                | N        |
-| Azuth, god of wizards                   | LN, Signosia            | Knowledge           | Left hand pointing upward, outlined in fire                                          | Y        |
-| Bane, god of tyranny                    | LE, Efimera             | War                 | Upright black right hand, thumb and fingers together                                 | N        |
-| Beshaba, goddess of misfortune          | CE, Marcaith, Vile Ones | Trickery            | Black antlers                                                                        | Y        |
-| Bhaal, god of murder                    | NE, Neglamel            | Death               | Skull surrounded by a ring of blood droplets                                         | N        |
-| Chauntea, goddess of agriculture        | NG, Nafursa             | Life                | Sheaf of grain or a blooming rose over grain                                         | N        |
-| Cyric,          god of lies             | CE, Marcaith, Vile Ones | Trickery            | White jawless skull on black or purple sunburst                                      | Y        |
-| Deneir, god of writing                  | NG, Sovenia             | Knowledge           | Lit candle above an open eye                                                         | N        |
-| Eldath, goddess of peace                | NG, Vizoia              | Life, Nature        | Waterfall plunging into still pool                                                   | N        |
-| Gond, god of craft                      | N, Signosia             | Knowledge           | Toothed cog with four spokes                                                         | N        |
-| Helm, god of protection                 | LN, Zorvia              | Life, Light         | Staring eye on upright left gauntlet                                                 | N        |
-| Ilmater, god of endurance               | LG, Vizoia              | Life                | Hands bound at the wrist with red cord                                               | N        |
-| Kelemvor, god of the dead               | LN, Seravius            | Death               | Upright skeletal arm holding balanced scales                                         | Y        |
-| Lathander, god of birth and renewal     | NG, Vizoia              | Life, Light         | Road traveling into a sunrise                                                        | N        |
-| Leira, goddess of illusion              | CN, Tempronus           | Trickery            | Point-down triangle containing a swirl of mist                                       | Y        |
-| Lliira, goddess of joy                  | CG, Vizoia              | Life                | Triangle of three six-pointed stars                                                  | Y        |
-| Loviatar, goddess of pain               | LE, Marcaith, Vile Ones | Death               | Nine-tailed barbed scourge                                                           | Y        |
-| Malar, god of the hunt                  | CE, Domexius, Vile Ones | Nature              | Clawed paw                                                                           | Y        |
-| Mask, god of thieves                    | CN, Topolus             | Trickery            | Black mask                                                                           | N        |
-| Mielikki, goddess of forests            | NG, Nafursa             | Nature              | Unicorn’s head                                                                       | Y        |
-| Milil, god of poetry and song           | NG, Vecmetus            | Light               | Five-stringed harp made of leaves                                                    | Y        |
-| Myrkul, god of death                    | NE, Morthadius          | Death               | White human skull                                                                    | N        |
-| Mystra, goddess of magic                | NG, Sovenia             | Knowledge           | Circle of seven stars, or nine stars encircling a flowing red mist, or a single star | N        |
-| Oghma, god of knowledge                 | N, Signosia             | Knowledge           | Blank scroll                                                                         | N        |
-| Savras, god of divination and fate      | LN, Tempronus           | Knowledge           | Crystal ball containing many kinds of eyes                                           | Y        |
-| Selûne, goddess of the moon             | CG, Nafursa             | Knowledge, Life     | Pair of eyes surrounded by seven stars                                               | N        |
-| Shar, goddess of darkness and loss      | NE, Efimera             | Death, Trickery     | Black disk encircled with a border                                                   | N        |
-| Silvanus, god of wild nature            | N, Eriseris             | Nature              | Oak leaf                                                                             | Y        |
-| Sune, goddess of love and beauty        | CG, Vizoia              | Life, Light         | Face of a beautiful red-haired woman                                                 | N        |
-| Talona, goddess of disease and poison   | CE, Marcaith, Vile Ones | Death               | Three teardrops on a triangle                                                        | N        |
-| Talos, god of storms                    | CE, Ruichasm            | Tempest             | Three lightning bolts radiating from a central point                                 | N        |
-| Tempus, god of war                      | N, Zorvia               | War                 | Upright flaming sword                                                                | Y        |
-| Torm, god of courage and self-sacrifice | LG, Numeda              | War                 | White right gauntlet                                                                 | N        |
-| Tymora, goddess of good fortune         | CG, Vecmetus            | Trickery            | Face-up coin                                                                         | N        |
-| Tyr, god of justice                     | LG, Numeda              | War                 | Balanced scales resting on a warhammer                                               | N        |
-| Umberlee, goddess of the sea            | CE, Ruichasm            | Tempest             | Wave curling left and right                                                          | Y        |
-| Waukeen, goddess of trade               | N, Topolus              | Knowledge, Trickery | Upright coin with Waukeen’s profile facing left                                      | Y        |
+| Deity *=marked for death                 | Realm                              | Suggested Domains   | Symbol                                                                               | Champion |
+| ---------------------------------------- | ---------------------------------- | ------------------- | ------------------------------------------------------------------------------------ | -------- |
+| Auril, goddess of winter                 | NE, Pandesmos-Pandemonium          | Nature, Tempest     | Six-pointed snowflake                                                                | N        |
+| Azuth, god of wizards*                   | LN, Buxenus-Arcadia                | Knowledge           | Left hand pointing upward, outlined in fire                                          | Y        |
+| Bane, god of tyranny*                    | LE, Avalas-Acheron                 | War                 | Upright black right hand, thumb and fingers together                                 | N        |
+| Beshaba, goddess of misfortune           | CE, Gehenna                        | Trickery            | Black antlers                                                                        | Y        |
+| Bhaal, god of murder*                    | NE, Khalas-Gehenna                 | Death               | Skull surrounded by a ring of blood droplets                                         | N        |
+| Chauntea, goddess of agriculture*        | NG, Eronia-Elysium                 | Life                | Sheaf of grain or a blooming rose over grain                                         | N        |
+| Cyric,          god of lies              | CE, The Supreme Throne-Pandemonium | Trickery            | White jawless skull on black or purple sunburst                                      | Y        |
+| Deneir, god of writing*                  | NG, Mechanus                       | Knowledge           | Lit candle above an open eye                                                         | N        |
+| Eldath, goddess of peace*                | NG, Eronia-Elysium                 | Life, Nature        | Waterfall plunging into still pool                                                   | N        |
+| Gond, god of craft*                      | N, Wonderhome-The Outlands         | Knowledge           | Toothed cog with four spokes                                                         | N        |
+| Helm, god of protection                  | LN, Everwatch-Mount Celestia       | Life, Light         | Staring eye on upright left gauntlet                                                 | N        |
+| Ilmater, god of endurance*               | LG, Shurrock-Bytopia               | Life                | Hands bound at the wrist with red cord                                               | N        |
+| Kelemvor, god of the dead*               | LN, Crystal Spire-Fugue Plane      | Death               | Upright skeletal arm holding balanced scales                                         | Y        |
+| Lathander, god of birth and renewal*     | NG, Vizoia                         | Life, Light         | Road traveling into a sunrise                                                        | N        |
+| Leira, goddess of illusion               | CN, Limbo                          | Trickery            | Point-down triangle containing a swirl of mist                                       | Y        |
+| Lliira, goddess of joy                   | CG, Brightwater-Ysgard             | Life                | Triangle of three six-pointed stars                                                  | Y        |
+| Loviatar, goddess of pain*               | LE, Baator                         | Death               | Nine-tailed barbed scourge                                                           | Y        |
+| Malar, god of the hunt                   | CE, Domexius, Vile Ones            | Nature              | Clawed paw                                                                           | Y        |
+| Mask, god of thieves                     | CN, Shadow Keep-Niflheim           | Trickery            | Black mask                                                                           | N        |
+| Mielikki, goddess of forests*            | NG, Nafursa                        | Nature              | Unicorn’s head                                                                       | Y        |
+| Milil, god of poetry and song*           | NG, Vecmetus                       | Light               | Five-stringed harp made of leaves                                                    | Y        |
+| Myrkul, god of death*                    | NE, Morthadius                     | Death               | White human skull                                                                    | N        |
+| Mystra, goddess of magic                 | NG, Sovenia                        | Knowledge           | Circle of seven stars, or nine stars encircling a flowing red mist, or a single star | N        |
+| Oghma, god of knowledge*                 | N, Signosia                        | Knowledge           | Blank scroll                                                                         | N        |
+| Savras, god of divination and fate*      | LN, Tempronus                      | Knowledge           | Crystal ball containing many kinds of eyes                                           | Y        |
+| Selûne, goddess of the moon*             | CG, Nafursa                        | Knowledge, Life     | Pair of eyes surrounded by seven stars                                               | N        |
+| Shar, goddess of darkness and loss*      | NE, Efimera                        | Death, Trickery     | Black disk encircled with a border                                                   | N        |
+| Silvanus, god of wild nature*            | N, Eriseris                        | Nature              | Oak leaf                                                                             | Y        |
+| Sune, goddess of love and beauty*        | CG, Gates of the Moon-Ysgard       | Life, Light         | Face of a beautiful red-haired woman                                                 | N        |
+| Talona, goddess of disease and poison    | CE, Marcaith, Vile Ones            | Death               | Three teardrops on a triangle                                                        | N        |
+| Talos, god of storms                     | CE, Ruichasm                       | Tempest             | Three lightning bolts radiating from a central point                                 | N        |
+| Tempus, god of war*                      | N, Zorvia                          | War                 | Upright flaming sword                                                                | Y        |
+| Torm, god of courage and self-sacrifice* | LG, Numeda                         | War                 | White right gauntlet                                                                 | N        |
+| Tymora, goddess of good fortune*         | CG, Ysgard                         | Trickery            | Face-up coin                                                                         | N        |
+| Tyr, god of justice*                     | LG, Numeda                         | War                 | Balanced scales resting on a warhammer                                               | N        |
+| Umberlee, goddess of the sea             | CE, Ruichasm                       | Tempest             | Wave curling left and right                                                          | Y        |
+| Waukeen, goddess of trade*               | N, Topolus                         | Knowledge, Trickery | Upright coin with Waukeen’s profile facing left                                      | Y        |
 
 ## Fantasy-Historical Pantheons
 
 ### Celtic Deities
 
-| Deity                                             | Alignment               | Suggested Domains | Symbol                             | Champion      |
-| ------------------------------------------------- | ----------------------- | ----------------- | ---------------------------------- | ------------- |
-| The Daghdha, god of weather and crops             | CG, Nafursa             | Nature, Trickery  | Bubbling cauldron or shield        | Y             |
-| Arawn, god of life and death                      | NE, Morthadius          | Life, Death       | Black star on gray background      | N             |
-| Belenus, god of sun, light, and warmth            | NG, Vizoia              | Light             | Solar disk and standing stones     | N             |
-| Brigantia, goddess of rivers and livestock        | NG, Nafursa             | Life              | Footbridge                         | N             |
-| Diancecht, god of medicine and healing            | LG, Medicarma           | Life              | Crossed oak and mistletoe branches | Y             |
-| Dunatis, god of mountains and peaks               | N, Topolus              | Nature            | Red sun-capped mountain peak       | Y             |
-| Goibhniu, god of smiths and healing               | NG, Medicarma           | Knowledge, Life   | Giant mallet over sword            | Y             |
-| Lugh, god of arts, travel, and commerce           | CN, Topolus             | Knowledge, Life   | Pair of long hands                 | N             |
-| Manannan mac Lir, god of oceans and sea creatures | LN, Eriseris            | Nature, Tempest   | Wave of white water on green       | Y             |
-| Math Mathonwy, god of magic                       | NE, Efimera             | Knowledge         | Staff                              | N             |
-| Morrigan, goddess of battle                       | CE, Domexius, Vile Ones | War               | Two crossed spears                 | Y, Damian Sun |
-| Nuada, god of war and warriors                    | N, Zorvia               | War               | Silver hand on black background    | Y             |
-| Oghma, god of speech and writing                  | NG, Sovenia             | Knowledge         | Unfurled scroll                    | N             |
-| Silvanus, god of nature and forests               | N, Eriseris             | Nature            | Summer oak tree                    | N             |
+| Deity                                              | Alignment               | Suggested Domains | Symbol                             | Champion      |
+| -------------------------------------------------- | ----------------------- | ----------------- | ---------------------------------- | ------------- |
+| The Daghdha, god of weather and crops*             | CG, Nafursa             | Nature, Trickery  | Bubbling cauldron or shield        | Y             |
+| Arawn, god of life and death*                      | NE, Morthadius          | Life, Death       | Black star on gray background      | N             |
+| Belenus, god of sun, light, and warmth*            | NG, Vizoia              | Light             | Solar disk and standing stones     | N             |
+| Brigantia, goddess of rivers and livestock*        | NG, Nafursa             | Life              | Footbridge                         | N             |
+| Diancecht, god of medicine and healing*            | LG, Medicarma           | Life              | Crossed oak and mistletoe branches | Y             |
+| Dunatis, god of mountains and peaks*               | N, Topolus              | Nature            | Red sun-capped mountain peak       | Y             |
+| Goibhniu, god of smiths and healing*               | NG, Medicarma           | Knowledge, Life   | Giant mallet over sword            | Y             |
+| Lugh, god of arts, travel, and commerce            | CN, Topolus             | Knowledge, Life   | Pair of long hands                 | N             |
+| Manannan mac Lir, god of oceans and sea creatures* | LN, Eriseris            | Nature, Tempest   | Wave of white water on green       | Y             |
+| Math Mathonwy, god of magic*                       | NE, Efimera             | Knowledge         | Staff                              | N             |
+| Morrigan, goddess of battle                        | CE, Domexius, Vile Ones | War               | Two crossed spears                 | Y, Damian Sun |
+| Nuada, god of war and warriors*                    | N, Zorvia               | War               | Silver hand on black background    | Y             |
+| Oghma, god of speech and writing*                  | NG, Sovenia             | Knowledge         | Unfurled scroll                    | N             |
+| Silvanus, god of nature and forests*               | N, Eriseris             | Nature            | Summer oak tree                    | N             |
 
 
 ### Greek Deities
 
-| Deity                                      | Alignment               | Suggested Domains      | Symbol                                | Champion          |
-| ------------------------------------------ | ----------------------- | ---------------------- | ------------------------------------- | ----------------- |
-| Zeus, god of the sky, ruler of the gods    | N, Zorvia               | Tempest                | Fist full of lightning bolts          | N                 |
-| Aphrodite, goddess of love and beauty      | CG, Vizoia              | Light                  | Sea shell                             | N                 |
-| Apollo, god of light, music, and healing   | CG, Vecmetus            | Knowledge, Life, Light | Lyre                                  | Y                 |
-| Ares, god of war and strife                | CE, Domexius, Vile Ones | War                    | Spear                                 | N                 |
-| Artemis, goddess of hunting and childbirth | NG, Nafursa             | Life, Nature           | Bow and arrow on lunar disk           | Y, Fyre the Ghost |
-| Athena, goddess of wisdom and civilization | LG, Sovenia             | Knowledge, War         | Owl                                   | N                 |
-| Demeter, goddess of agriculture            | NG, Nafursa             | Life                   | Mare’s head                           | N                 |
-| Dionysus, god of mirth and wine            | CN, Vecmetus            | Life                   | Thyrsus (staff tipped with pine cone) | Y, Reggie Belova  |
-| Hades, god of the underworld               | LE, Morthadius          | Death                  | Black ram                             | N                 |
-| Hecate, goddess of magic and the moon      | CE, Exsoria             | Knowledge, Trickery    | Setting moon                          | N                 |
-| Hephaestus, god of smithing and craft      | NG, Sovenia             | Knowledge              | Hammer and anvil                      | N                 |
-| Hera, goddess of marriage and intrigue     | CN, Zorvia              | Trickery               | Fan of peacock feathers               | Y, gnome          |
-| Hercules, god of strength and adventure    | CG, Vecmetus            | Tempest, War           | Lion’s head                           | N                 |
-| Hermes, god of travel and commerce         | CG, Vecmetus            | Trickery               | Caduceus (winged staff and serpents)  | N                 |
-| Hestia, goddess of home and family         | NG, Vizoia              | Life                   | Hearth                                | Y, Nyra Banks     |
-| Nike, goddess of victory                   | LN, Zorvia              | War                    | Winged woman                          | N                 |
-| Pan, god of nature                         | CN, Eriseris            | Nature                 | Syrinx (pan pipes)                    | N                 |
-| Poseidon, god of the sea and earthquakes   | CN, Eriseris            | Tempest                | Trident                               | N                 |
-| Tyche, goddess of good fortune             | N, Topolus              | Trickery               | Red pentagram                         | Y                 |
+| Deity                                       | Alignment               | Suggested Domains      | Symbol                                | Champion          |
+| ------------------------------------------- | ----------------------- | ---------------------- | ------------------------------------- | ----------------- |
+| Zeus, god of the sky, ruler of the gods*    | N, Zorvia               | Tempest                | Fist full of lightning bolts          | N                 |
+| Aphrodite, goddess of love and beauty*      | CG, Vizoia              | Light                  | Sea shell                             | N                 |
+| Apollo, god of light, music, and healing*   | CG, Vecmetus            | Knowledge, Life, Light | Lyre                                  | Y                 |
+| Ares, god of war and strife*                | CE, Domexius, Vile Ones | War                    | Spear                                 | N                 |
+| Artemis, goddess of hunting and childbirth* | NG, Nafursa             | Life, Nature           | Bow and arrow on lunar disk           | Y, Fyre the Ghost |
+| Athena, goddess of wisdom and civilization* | LG, Sovenia             | Knowledge, War         | Owl                                   | N                 |
+| Demeter, goddess of agriculture*            | NG, Nafursa             | Life                   | Mare’s head                           | N                 |
+| Dionysus, god of mirth and wine             | CN, Vecmetus            | Life                   | Thyrsus (staff tipped with pine cone) | Y, Reggie Belova  |
+| Hades, god of the underworld*               | LE, Morthadius          | Death                  | Black ram                             | N                 |
+| Hecate, goddess of magic and the moon       | CE, Exsoria             | Knowledge, Trickery    | Setting moon                          | N                 |
+| Hephaestus, god of smithing and craft*      | NG, Sovenia             | Knowledge              | Hammer and anvil                      | N                 |
+| Hera, goddess of marriage and intrigue*     | CN, Zorvia              | Trickery               | Fan of peacock feathers               | Y, gnome          |
+| Hercules, god of strength and adventure*    | CG, Vecmetus            | Tempest, War           | Lion’s head                           | N                 |
+| Hermes, god of travel and commerce*         | CG, Vecmetus            | Trickery               | Caduceus (winged staff and serpents)  | N                 |
+| Hestia, goddess of home and family*         | NG, Vizoia              | Life                   | Hearth                                | Y, Nyra Banks     |
+| Nike, goddess of victory*                   | LN, Zorvia              | War                    | Winged woman                          | N                 |
+| Pan, god of nature*                         | CN, Eriseris            | Nature                 | Syrinx (pan pipes)                    | N                 |
+| Poseidon, god of the sea and earthquakes    | CN, Eriseris            | Tempest                | Trident                               | N                 |
+| Tyche, goddess of good fortune*             | N, Topolus              | Trickery               | Red pentagram                         | Y                 |
 
 
 ### Egyptian Deities
 
-| Deity                                          | Alignment               | Suggested Domains        | Symbol                               | Champion                |
-| ---------------------------------------------- | ----------------------- | ------------------------ | ------------------------------------ | ----------------------- |
-| Re-Horakhty, god of the sun, ruler of the gods | LG, Aeontas             | Life, Light              | Solar disk encircled by serpent      | Y                       |
-| Anubis, god of judgment and death              | LN, Seravius            | Death                    | Black jackal                         | N                       |
-| Apep, god of evil, fire, and serpents          | NE, Ruichasm            | Trickery                 | Flaming snake                        | N                       |
-| Bast, goddess of cats and vengeance            | CG, Vecmetus            | War                      | Cat                                  | N                       |
-| Bes, god of luck and music                     | CN, Topolus             | Trickery                 | Image of the misshapen deity         | Y                       |
-| Hathor, goddess of love, music, and motherhood | NG, Vizoia              | Life, Light              | Horned cow’s head with lunar disk    | Y                       |
-| Imhotep, god of crafts and medicine            | NG, Medicarma           | Knowledge                | Step pyramid                         | N                       |
-| Isis, goddess of fertility and magic           | NG, Vizoia              | Knowledge, Life          | Ankh and star                        | Y, Lady Laosie Snowfall |
-| Nephthys, goddess of death and grief           | CG, Vizoia              | Death                    | Horns around a lunar disk            | Y                       |
-| Osiris, god of nature and the underworld       | LG, Nafursa             | Life, Nature             | Crook and flail                      | N                       |
-| Ptah, god of crafts, knowledge, and secrets    | LN, Signosia            | Knowledge                | Bull                                 | N                       |
-| Set, god of darkness and desert storms         | CE, Marcaith, Vile Ones | Death, Tempest, Trickery | Coiled cobra                         | N                       |
-| Sobek, god of water and crocodiles             | LE, Ruichasm            | Nature, Tempest          | Crocodile head with horns and plumes | N                       |
-| Thoth, god of knowledge and wisdom             | N, Signosia             | Knowledge                | Ibis                                 | Y                       |
+| Deity                                           | Alignment               | Suggested Domains        | Symbol                               | Champion                |
+| ----------------------------------------------- | ----------------------- | ------------------------ | ------------------------------------ | ----------------------- |
+| Re-Horakhty, god of the sun, ruler of the gods* | LG, Aeontas             | Life, Light              | Solar disk encircled by serpent      | Y                       |
+| Anubis, god of judgment and death*              | LN, Seravius            | Death                    | Black jackal                         | N                       |
+| Apep, god of evil, fire, and serpents*          | NE, Ruichasm            | Trickery                 | Flaming snake                        | N                       |
+| Bast, goddess of cats and vengeance*            | CG, Vecmetus            | War                      | Cat                                  | N                       |
+| Bes, god of luck and music*                     | CN, Topolus             | Trickery                 | Image of the misshapen deity         | Y                       |
+| Hathor, goddess of love, music, and motherhood* | NG, Vizoia              | Life, Light              | Horned cow’s head with lunar disk    | Y                       |
+| Imhotep, god of crafts and medicine*            | NG, Medicarma           | Knowledge                | Step pyramid                         | N                       |
+| Isis, goddess of fertility and magic*           | NG, Vizoia              | Knowledge, Life          | Ankh and star                        | Y, Lady Laosie Snowfall |
+| Nephthys, goddess of death and grief*           | CG, Vizoia              | Death                    | Horns around a lunar disk            | Y                       |
+| Osiris, god of nature and the underworld*       | LG, Nafursa             | Life, Nature             | Crook and flail                      | N                       |
+| Ptah, god of crafts, knowledge, and secrets*    | LN, Signosia            | Knowledge                | Bull                                 | N                       |
+| Set, god of darkness and desert storms          | CE, Marcaith, Vile Ones | Death, Tempest, Trickery | Coiled cobra                         | N                       |
+| Sobek, god of water and crocodiles*             | LE, Ruichasm            | Nature, Tempest          | Crocodile head with horns and plumes | N                       |
+| Thoth, god of knowledge and wisdom*             | N, Signosia             | Knowledge                | Ibis                                 | Y                       |
 
 
 ### Norse Deities
 
-| Deity                                                | Alignment      | Suggested Domains | Symbol                            | Champion           |
-| ---------------------------------------------------- | -------------- | ----------------- | --------------------------------- | ------------------ |
-| Odin, god of knowledge and war                       | NG, Numeda     | Knowledge, War    | Watching blue eye                 | Y                  |
-| Aegir, god of the sea and storms                     | NE, Ruichasm   | Tempest           | Rough ocean waves                 | N                  |
-| Balder, god of beauty and poetry (possibly survives) | NG, Vizoia     | Life, Light       | Gem-encrusted silver chalice      | N                  |
-| Forseti, god of justice and law                      | N, Seravius    | Light             | Head of a bearded man             | N                  |
-| Frey, god of fertility and the sun                   | NG, Vizoia     | Life, Light       | Ice-blue greatsword               | Y                  |
-| Freya, goddess of fertility and love                 | NG, Vizoia     | Life              | Falcon                            | Y                  |
-| Frigga, goddess of birth and fertility               | N, Valeia      | Life, Light       | Cat                               | N                  |
-| Heimdall, god of watchfulness and loyalty            | LG, Aeontas    | Light, War        | Curling musical horn              | N                  |
-| Hel, goddess of the underworld                       | NE, Morthadius | Death             | Woman’s face, rotting on one side | Y                  |
-| Hermod, god of luck                                  | CN, Topolus    | Trickery          | Winged scroll                     | N                  |
-| Loki, god of thieves and trickery (survives)         | CE, Exsoria    | Trickery          | Flame                             | Y, Luna Ravenswood |
-| Njord, god of sea and wind (possibly survives)       | NG, Nafursa    | Nature, Tempest   | Gold coin                         | Y                  |
-| Odur, god of light and the sun                       | CG, Aeontas    | Light             | Solar disk                        | Y                  |
-| Sif, goddess of war                                  | CG, Numeda     | War               | Upraised sword                    | N                  |
-| Skadi, god of earth and mountains                    | N, Eriseris    | Nature            | Mountain peak                     | Y                  |
-| Surtur, god of fire giants and war                   | LE, Ruichasm   | War               | Flaming sword                     | N                  |
-| Thor, god of storms and thunder (possibly survives)  | CG, Numeda     | Tempest, War      | Hammer                            | N                  |
-| Thrym, god of frost giants and cold                  | CE, Exsoria    | War               | White double-bladed axe           | N                  |
-| Tyr, god of courage and strategy                     | LN, Signosia   | Knowledge, War    | Sword                             | N                  |
-| Uller, god of hunting and winter                     | CN, Eriseris   | Nature            | Longbow                           | N                  |
+| Deity                                                 | Alignment      | Suggested Domains | Symbol                            | Champion           |
+| ----------------------------------------------------- | -------------- | ----------------- | --------------------------------- | ------------------ |
+| Odin, god of knowledge and war*                       | NG, Numeda     | Knowledge, War    | Watching blue eye                 | Y                  |
+| Aegir, god of the sea and storms*                     | NE, Ruichasm   | Tempest           | Rough ocean waves                 | N                  |
+| Balder, god of beauty and poetry (possibly survives)* | NG, Vizoia     | Life, Light       | Gem-encrusted silver chalice      | N                  |
+| Forseti, god of justice and law*                      | N, Seravius    | Light             | Head of a bearded man             | N                  |
+| Frey, god of fertility and the sun*                   | NG, Vizoia     | Life, Light       | Ice-blue greatsword               | Y                  |
+| Freya, goddess of fertility and love*                 | NG, Vizoia     | Life              | Falcon                            | Y                  |
+| Frigga, goddess of birth and fertility*               | N, Valeia      | Life, Light       | Cat                               | N                  |
+| Heimdall, god of watchfulness and loyalty*            | LG, Aeontas    | Light, War        | Curling musical horn              | N                  |
+| Hel, goddess of the underworld*                       | NE, Morthadius | Death             | Woman’s face, rotting on one side | Y                  |
+| Hermod, god of luck*                                  | CN, Topolus    | Trickery          | Winged scroll                     | N                  |
+| Loki, god of thieves and trickery (survives?)         | CE, Exsoria    | Trickery          | Flame                             | Y, Luna Ravenswood |
+| Njord, god of sea and wind (possibly survives)*       | NG, Nafursa    | Nature, Tempest   | Gold coin                         | Y                  |
+| Odur, god of light and the sun*                       | CG, Aeontas    | Light             | Solar disk                        | Y                  |
+| Sif, goddess of war*                                  | CG, Numeda     | War               | Upraised sword                    | N                  |
+| Skadi, god of earth and mountains*                    | N, Eriseris    | Nature            | Mountain peak                     | Y                  |
+| Surtur, god of fire giants and war*                   | LE, Ruichasm   | War               | Flaming sword                     | N                  |
+| Thor, god of storms and thunder (possibly survives)*  | CG, Numeda     | Tempest, War      | Hammer                            | N                  |
+| Thrym, god of frost giants and cold                   | CE, Exsoria    | War               | White double-bladed axe           | N                  |
+| Tyr, god of courage and strategy*                     | LN, Signosia   | Knowledge, War    | Sword                             | N                  |
+| Uller, god of hunting and winter                      | CN, Eriseris   | Nature            | Longbow                           | N                  |
 ### The Banished Gods
 
 | Deity     | Alignment | Suggested Domains | Symbol                           | Champion |

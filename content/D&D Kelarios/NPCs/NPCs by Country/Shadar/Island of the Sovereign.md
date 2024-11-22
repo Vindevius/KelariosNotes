@@ -1,0 +1,43 @@
+- [[Xarathian]] the Sovereign
+- [[Zarvok]] the Stormwarden
+	- **Race**: Dragonborn (Blue)
+	- **Role**: Captain of the Guard / Protector of the Guild
+	- **Appearance**: A tall, muscular Dragonborn with deep blue scales and eyes that crackle with the faintest electric glow. His armor is decorated with jagged lightning motifs.
+	- **Personality**: Zarvok is unwavering and fiercely protective of **Xarathian**, seeing himself as the shield that keeps enemies away from his Sovereign. He’s honorable, but merciless when it comes to traitors. His loyalty is beyond question, and he views his role as an extension of **Xarathian's** will. Zarvok speaks little but commands immense respect from his subordinates.
+	- **Special Trait**: He can channel lightning through his weapon, creating thunderous shockwaves that strike fear into any who oppose the Sovereign.
+- [[Kerriss Volthara]], the Diamond Hand
+	- **Race**: Half-Elf
+	- **Role**: Master of Artifacts and Magic Item Steward
+	- **Appearance**: Kerriss is a tall, elegant half-elf with striking silver-blue hair and piercing violet eyes. Her fingers are always adorned with rings made from precious stones, and she wears flowing robes embroidered with arcane symbols.
+	- **Personality**: Kerriss is calculating, cool-headed, and has a sharp mind for both magic and politics. As the guild’s steward of magical items, she ensures that only the most loyal are rewarded with the most potent artifacts. She values practicality over sentiment but has a soft spot for those who prove themselves worthy of **Xarathian's** treasures. Her loyalty is driven by a deep belief in **Xarathian's** vision of order and destiny.
+	- **Special Trait**: Kerriss can discern the true nature of any magic item and has the ability to attune them with a simple touch. She has also cultivated a small, but potent, collection of enchanted diamonds, which she guards closely.
+- [[Talonis]] the Truthseeker
+	- **Race**: Tiefling
+	- **Role**: Spymaster / Information Broker
+	- **Appearance**: Talonis is a slender, charismatic tiefling with dark red skin, curling black horns, and glowing yellow eyes. His attire is dark, practical, and designed to blend into shadows. He always has a wickedly sharp smile.
+	- **Personality**: A master of manipulation and espionage, Talonis gathers information and works behind the scenes to ensure the guild’s success. He is ever-watchful and ruthless in his pursuit of secrets. While his loyalty to **Xarathian** is unquestionable, he is known to be a little too comfortable with bending truths to suit his needs. He has an ironclad rule: betray **Xarathian** or the guild, and you will suffer far worse than death.
+	- **Special Trait**: Talonis has a supernatural ability to detect lies and can manipulate shadows to hide or eavesdrop on conversations. His powers are most potent in darkness or during storms, when **Xarathian’s** influence is strongest.
+- [[Viraethis]] the Stormcaller
+	- **Race**: Aarakocra
+	- **Role**: High Advisor and Weather Manipulator
+	- **Appearance**: Viraethis is a tall, majestic Aarakocra with blue and silver feathers that shimmer with an ethereal glow. Her wings are wide and powerful, and she wears intricately woven ceremonial robes that reflect her high status in the guild.
+	- **Personality**: Viraethis is calm, wise, and deeply spiritual. She serves as one of **Xarathian's** most trusted advisors, often guiding him on matters of both the sky and the storm. Her devotion to the Blue Greatwyrm borders on the divine, and she often speaks in cryptic, metaphorical language, as if interpreting the will of the winds and the storms. She believes **Xarathian** is a harbinger of a new age of dominion and balance.
+	- **Special Trait**: Viraethis can summon and control powerful storms, calling down thunder and lightning to both devastate enemies and enhance the guild’s presence in the skies. Her weather manipulation is most potent when she is in **Xarathian's** immediate vicinity, and she can even calm storms with a mere gesture.
+- [[Kaltorix]] the Stormbinder
+	- **Race**: Dragonborn (Bronze)
+	- **Role**: Enforcer and General of the Guild’s Forces
+	- **Appearance**: Kaltorix is a towering bronze-scaled Dragonborn with sharp golden eyes. His form is covered in thick, spiked armor, engraved with ancient runes, and he carries a massive halberd crackling with electric energy.
+	- **Personality**: Kaltorix is stoic, disciplined, and unflinching in his loyalty to **Xarathian**. He leads the guild’s armies and enforces the rules with a firm, no-nonsense attitude. Though he appears cold and calculating, his heart is bound to **Xarathian**'s cause, and he values the strength of unity in the guild. His reputation as a battle-hardened enforcer is well-known, and his mere presence ensures that loyalty is maintained.
+	- **Special Trait**: Kaltorix can create storms of his own, using his halberd to channel lightning into devastating blasts, binding the elements to his will in combat.
+- [[Serithra]] the Chosen
+	- **Race**: Dragonborn (Blue)
+	- **Role**: High Priestess / Keeper of **Xarathian**'s Faith
+	- **Appearance**: Serithra is a stunning blue-scaled Dragonborn with intricate arcane tattoos on her arms and face, glowing faintly with magic. She wears ceremonial robes that shimmer with the light of arcane energy and carries a staff topped with a sapphire gemstone.
+	- **Personality**: Serithra is pious, deeply devout, and serves as the spiritual voice of **Xarathian**. She believes that the Blue Greatwyrm is a divine being, and her faith in him is unwavering. She preaches loyalty and discipline, instilling a sense of devotion in the guild members. While she is calm and peaceful, Serithra will not hesitate to take swift and brutal action against those who betray the Sovereign.
+	- **Special Trait**: Serithra has the ability to channel **Xarathian**'s power into her magic, calling down divine lightning and storms to smite those who defy the guild. She also possesses the power to heal and protect her allies, drawing on the sacred energy of the Blue Dragon.
+- Draegon the Wyrmblade
+	- **Race**: Human (with draconic heritage)
+	- **Role**: Guild Champion / Duelist
+	- **Appearance**: Draegon is a tall, well-built human with faint blue scales along his arms and neck, a result of his draconic heritage. His dark blue armor is adorned with dragonbone pauldrons, and he wields a blade that crackles with arcane energy.
+	- **Personality**: Draegon is fiercely loyal and honor-bound. He serves as **Xarathian’s** personal champion and is often sent on missions to either protect the Sovereign or carry out his will through combat. Though he can be intense, Draegon believes deeply in the sovereignty of his master and will fight to the death for the Blue Greatwyrm.
+	- **Special Trait**: Draegon’s blade is imbued with the power of storm, able to unleash electric pulses with each strike. He also has an innate resistance to lightning, making him a formidable combatant in battle.

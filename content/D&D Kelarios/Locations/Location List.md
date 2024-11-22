@@ -1,6 +1,7 @@
 # Continents
 
 ## Diadera
+
 ## Kayos
 
 ## Krelari
@@ -103,11 +104,16 @@
 	- Thanatos Ruins
 - Other
 ## Oceans
+- Astroias Ocean
 - Kraken Shores
 - Iceria Archipelago
+- Xeloria Sea
+	- Mount Domax
 ## Shadar
 - Aidial
 - Biterra Empire
+	- Island of the Blue Dragon
+		- Xarathian the Sovereign's Lair
 - Laekruna
 - Leodorn
 - Rocia
