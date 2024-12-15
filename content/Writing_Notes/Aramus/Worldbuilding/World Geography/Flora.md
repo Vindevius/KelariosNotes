@@ -1,0 +1,27 @@
+- Crops/Food:
+	- Tirium
+		- A type of grass that produces a cereal grain much akin to wheat. It is used to create tirium flour and bread.
+	- Zemis
+		- A type of grass that produces a bunching of cereal grain at the end of its stock. The grain forms in an egg-shaped bunch called a Zemis ovoid or ball.
+	- Alvina
+		- A type of oat.
+	- Tuveris
+		- A starchy tuber much like a potato. It can be grown from any part of the tuber. It can be brown, red, or yellow.
+	- Poinums
+		- A round fruit with red skin and a whitish inside grown from a poinum tree. It’s frequently made into a delicious juice or cider.
+	- Rovaras
+		- A type of red berry grown from a rovara bush.
+	- Ceravums
+		- A smooth red fruit the size of a coin grown from a ceravum tree.
+	- Vilaca
+		- Meat from the bovine vilaca.
+	- Carvulus
+		- Meat from the deer-like carvulus.
+	- Lamtra
+		- Meat from the common lamtra, a type of lizard.
+	- Angulin
+		- Meat from an angul or snake.
+	- Altian
+		- Meat from a bird.
+	- Parula
+		- Ground tirium wrapped in a flatbread. It can also be made with any type of meat.

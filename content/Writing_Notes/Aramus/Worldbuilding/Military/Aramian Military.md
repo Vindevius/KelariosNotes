@@ -1,0 +1,62 @@
+- Groups:
+	- Fradernium (Brotherhood)
+		- 7 soldiers with 1-2 drakes and 2 servants (dragarius). One large tent for all of them.
+	- Vesentria
+		- 14 fraderniums(98 soldiers, 14-28 drakes, 28 dragarii, and 14 tents, 1 officer tent)
+		- Led by vesentrion, the verendus is 2nd then vigiltio the watchmen. Signifer, the standard bearer, and Cornicularius, the trumpeter, with their own tent.
+	- Tusuria
+		- 7 Vesentrias (686 soldiers, 40 officers, 98-196 drakes, 196 dragarii, and 98 tents, 8 officer tents)
+		- Led by the Tusurion with two officers, a signifer, and a trumpeter with their own tent.
+		- 1st Tusuria of every legion was made of 6 double vesentrias of 28 fraderniums (1,176 soldiers, 35 officers, 168-336 drakes, 336 dragarii, 168 tents, 7 officer tents). These are the veterans and iron core of the legion. Their aquilifer carried the legionary dragon
+		- The typical sub-group dispatched for all manner of duties.
+		- Vexillation - a temporary detachment of one or more tusuria. Most common strike force.
+		- The Arcelar and Praevecus have their own personal Tusuria. The Arcelarian and Praevecian Guards respectively. These Tusurias were led by a Severus with a sezera of drake riders. They typically only traveled with a vesentria of men at a time with the scrimadus or scribe. The rest were stationed at or around Prisuvia. Most of the Arcelarian were stationed at Thramazia.
+	- Legion
+		- Total: 7,776 people. 8,856-9,612 beings + livestock. 5,292 soldiers, 126 cavalry, 343 arcii, 24 arcius officers, 301 officers, 1059-1815 drakes, 1,631 dragarii, 829 tents, 68 officer tents, 21 musicians, 7 engineers, 21 medical, 10 scribes.
+		- 0.25 km2
+		- Percentages at Largest (Excluding Livestock):
+			- Humans (80.9%, 7,776), Animals (19.1%, 1,815)
+			- Infantry (68%, 5,292), Cavalry (1.6%, 126), Command (4.2%, 325), Arcii (4.4%, 343) Specialist (0.5%, 38), Musicians (0.3%, 21), Dragarii (21%, 1,631)
+		- 7 tusuria (5,292 soldiers, 275 officers, 756-1512 drakes, 1,512 dragarii, 756 tents, 55 officer tents) and 1 cavalry unit of drakes (147 men with drakes, 15 officers, 21 drakes, 21 dragarii, 21 tents, 3 officer tents).
+		- Led by Legionarion/General (the Camp Prefect), 7 Legion Nobles, a band of 21 musicians, and 3 standard bearers. Two officers tents and 3 musician tents.
+		- Cavalry (Dratoculus Legionis) were scouts and bodyguards.
+			- It includes 3 sezeras (126 men) of 42 drakes. Each sezera had the severus, verplicarius, thidimplicarius, and signifer (standard bearer). Gear carried by 21 drakes with 21 dragarii. Each sezera has 7 tents with 1 officer tent.
+		- Impedimenta/Baggage Train
+			- Artillery Corps
+				- Each vesentria has one small scorpion for a total of 49. Each tusuria has a medium ballista for a total of 7. The legion has 3 trebuchets.
+				- Siege train: 15 two drake carts laden with the components of the medium to large siege pieces. Smaller scorpions were carried by a drake from their respective vesentria.
+				- Fabri: those attending to the siege equipment. The engineering corps. 1 per tusuria for a total of 7.
+		- Medical Staff
+			- 1 doctor per tusuria (7), 2 assistants per tusuria (14), 7 drake-drawn ambulance carts, and 7 medical tents.
+		- Scrimadus
+			- 1 scribe per tusuria (7), 1 major scribe per legion with 2 assistants, 10 supply drakes.
+			- Maintain records of the force, which includes payrolls, service logs, supply tallies, reconnaissance reports, and more.
+		- Supply Train
+			- 60 drakes.
+			- Herd of Livestock for a ready food source.
+		- Arcii (Archers)
+			- Arcii Fradernium
+				- 7 Arcii with 1 drake and 2 dragarii. 1 Tent.
+			- Arcii Sentria
+				- 7 Arcii Fradernium (49 Arcii, 7 drakes, 14 dragarii, 7 tents, 1 officer tent).
+				- Led By Arcii Sentrion and two other officers
+			- Arcii Suria
+				- 7 Arcii Sentria (343 Arcii, 24 officers, 49 drakes, 98 dragarii, 49 tents, 8 officer tents).
+				- Led by Arcii Surion and two officers.
+				- One Arcii Suria per Legion
+		- Legion Camps (Castra Legionaria)
+			- The staging point for battle. Housed the bureaucratic elements of the legion. When attacked, the legion preferred to march out and counterattack rather than hold their fortified position. Typically garrisoned aggressively and used to project power rather than protect land.
+		- Typically 441 meters by 441 meters. 194,481 km2 or ~48 acres (25.84 soccer fields/32.41 football fields).
+		- It’s rare for the whole legion to be in place at once. The majority of the time, soldiers would be dispersed on leave, watch duty, or on other missions. The entire legion would only be assembled for major campaigns.
+		- They would deploy in a disciplined way in this order: the scouts, the vanguard, the officers, the main legionary body, the impedimenta or baggage train, and the rear guard.
+			- 7 men abreast stretching out over 1.9 km. At a walking speed of around 5 km/hr, 23 minutes for a legion and its baggage train to pass. At a gallop, it would take a rider going 40 km/hr about 3 minutes to ride across the entire length of the column in ideal conditions. Narrow roads could cause this column to double. The army is highly vulnerable on the move.
+	- 7 Legions (54,432 men)
+		- Led by Tribune Nobles
+	- 49 Legions (381,024 men)
+		- Led by one of seven Legorus.
+	- The 7 Noble Legions [[Pridurlas Military]]
+		- Led by Voralis Brontius, leader of Pridurlas.
+- Battle Tactics:
+	- Triplex Acies (Three Lines)
+		- The 2,058 soldiers of Tusurias 5-7 form the first line. The 1,372 soldiers of Tusurias 3-4 form the second line. The 1,862 soldiers of Tusurias 1-2 with the 126 cavalry form the third line and act as an emergency reaction force.
+		- Size: In battle, soldiers stand 1 meter side to side and 2 meters front to back. A vesentria would be 14 across and seven deep or 14 by 14 meters. Multiple vesentrias maintain 3 meters of separation side to side and 8.5 meters front to back. The frontage is about 490 meters across and 81.5 meters deep.

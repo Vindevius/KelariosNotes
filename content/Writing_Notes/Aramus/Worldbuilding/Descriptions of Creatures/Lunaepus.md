@@ -1,0 +1,15 @@
+- **Appearance**: The Lunaepus, or moon wolf, is a sleek and powerful creature that resembles a large, wolf-like animal with elongated limbs and a lithe body. Its fur is a luminous silver or pale white, often with subtle moonlight-like shimmer that enhances its ethereal presence. Its eyes are a striking, glowing blue or pale green, adapted to see in low light and at night. The Lunaepus has large, pointed ears that are highly sensitive to sound, and its long, graceful tail aids in balance and agility.
+- **Size**: The Lunaepus is larger than an average wolf, standing about 1.5 meters at the shoulder and reaching lengths of up to 2.5 meters including the tail. Its build is muscular yet agile, designed for swift movement and powerful leaps.
+- **Habitat**: The Lunaepus is found in dense forests and moonlit clearings, where it can hunt and patrol its territory under the cover of darkness. It prefers environments with ample cover and nocturnal activity, such as deep woods or secluded forest glades.
+- **Behavior**:
+    - **Apex Predator**: The Lunaepus is the apex predator of its habitat, preying on creatures such as Carvula and other smaller forest animals. Its keen senses and stealth make it a formidable hunter.
+    - **Nocturnal Activity**: It is primarily active at night, using its excellent night vision and silent movement to hunt and patrol its territory. It relies on the cover of darkness and moonlight to conceal its presence from prey and rivals.
+    - **Pack Dynamics**: While Lunaepus often hunts alone, it may form small packs or family units during certain times of the year, especially when raising young. These groups are highly coordinated and communicate through vocalizations and body language.
+- **Special Abilities**:
+    - **Enhanced Night Vision**: The Lunaepus can see exceptionally well in low-light conditions, allowing it to hunt and navigate through the dark with ease.
+    - **Silent Movement**: Its padded paws and smooth fur enable it to move silently through the forest, making it difficult for prey to detect.
+    - **Moonlight Adaptation**: The Lunaepus’s fur has a natural glow that can illuminate its surroundings subtly, which can be used to dazzle prey or communicate with others of its kind during the night.
+- **Behavioral Traits**:
+    - **Territorial**: The Lunaepus is highly territorial and marks its domain with scent markings and vocal calls. It fiercely defends its territory from intruders.
+    - **Stealthy Hunter**: Its hunting strategy relies on stealth and surprise, using its natural camouflage and quiet movement to get close to its prey before striking.
+The Lunaepus is a majestic and formidable creature of the night, embodying both the grace and power of an apex predator adapted to the moonlit world.

@@ -1,0 +1,12 @@
+- [ ] Shortly after, the Battle of the Maze happens. Many die in that battle allowing others to flee. The only reason they win is by destroying the thin floor. That is costly as well, but it cuts off Morthadim's forces.  
+- [ ] Add in another main character being trapped on the other side of the gap. Alex shares a brief, silent moment with them from across the way. He nods. Then the character, along with the others then turns and charges the remaining army of Morthadim. They are slaughtered, but not before taking a good amount of creatures with them.  
+- [ ] station a local army at each city in book series, a militia of sorts  
+- [ ] Alex gets stabbed by his own arrow, the only reason he survives is by closing the quiver, but something else survives because of it too. He stabs it later though.  
+- [ ] Have Alex and Emily using their telepathy put feelings of fear and doubt into the minds of monsters just like they can share dreams. Also have them share dreams or thoughts that would distract them or cause them to go mad (crazy)  
+- [ ] Have Morthadim have another name he's called by, the Necromancer of Wraithmoor  
+- [ ] Labyrinth is Ambrinthus in the language  
+- [ ] after Michael's demise, have Alex try to do the same thing he did with Crasio. Satilius says it's too dark and not possible to fly safely. He blasts a pillar of flame down and there's absolutely nothing there. He's gone Alex.  
+- [ ] Alex proposes to Emily at the end of book 3. Book 4 begins with their wedding.  
+- [ ] The nightmare beast has powers similar to the House of Magic. Particularly involving messing with the mind and seeing things. Thing praug.  
+- [ ] Suggest that Alex gets close to suicide. Possibly slightly due to the nightmare beast.
+- [ ] Storm Week during the Battle of the Maze.

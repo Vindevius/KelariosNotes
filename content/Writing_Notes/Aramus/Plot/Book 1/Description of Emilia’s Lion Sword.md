@@ -1,0 +1,6 @@
+the lion sword he had been given. The mane of the lion was incredibly detailed; every strand looked realistic. The lion’s head morphed smoothly into the golden hilt wrapped in red-dyed leather. The handle fit well on his belt and could be easily drawn. He drew out the sword to study the blade which was made of fine steel. The golden cross guard split off to form two golden tips at each end. The blade extended a meter to form a tip; both edges were extremely sharp.  
+After he had studied the sword, he contracted it by sliding his thumb down the hilt and then to the side and attached it back to his belt.  
+  
+Wolf Sword  
+the wolf sword she had been given. The fur of the wolf was incredibly detailed; every strand looked realistic. The wolf's head morphed smoothly into the silver hilt wrapped in red-dyed leather. The handle fit well on her belt and could be easily drawn. She drew out the sword to study the blade, which was made of fine steel. The silver cross guard split off to form two golden tips at each end. The blade extended a meter to form a tip; both edges were extremely sharp.  
+After she had studied the sword, she contracted it by sliding his thumb down the hilt and then to the side and attached it back to her belt.

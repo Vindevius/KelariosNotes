@@ -2,7 +2,7 @@ The Shadows is a secret organization created by Diana Moonstone and run through 
 
 Reggie creates a network of talking skulls (sending stones) that connect the shadows together. Gift from Reggie when Diana retires is a sentient skull named Bob that is connected to a a network of skull that act as phones that allow the hideout of the Shadow to talk more. To break the line to a hideout a person must shatter the main skull. The skull that Diana has speaks in thieves cant, Infernal, and when it gets mad will speak in sassy draconic. Bob tries to sneak alcohol from the patrons even though he can't actually drink. He attempts to soak the alcohol up.
 
-Council of the Shadows [= ★](https://docs.google.com/document/d/1KjC152oGKITycoAb5n_7wptISDUVF29xM-b_QAsjKvg/edit?usp=sharing)
+[[The Shadow Council and Shadow Lords]] [= ★](https://docs.google.com/document/d/1KjC152oGKITycoAb5n_7wptISDUVF29xM-b_QAsjKvg/edit?usp=sharing)
 Champions [Minor](https://docs.google.com/document/d/1DM-nqIg4g3A3_yn4DurLYT-VVxB1xieczSH8VwCToOc/edit?usp=sharing) Gods
 Orphans =😢
 Groups= ♙

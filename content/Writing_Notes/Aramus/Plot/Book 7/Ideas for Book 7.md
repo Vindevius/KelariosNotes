@@ -1,0 +1,7 @@
+- [ ] Final book of Aramus have a chapter called The Ruins of Prophecy. That's when Alex goes to face Morthadim. The room at the top of the House of Prophecy is now the roof. The room of the Oracle.  
+- [ ] Ryan and Nerissa's death scene. Ryan is picked up by the throat by Morthadim and stabbed, his body is flung off to the side. Nerissa yells, No! Sprints at Morthadim and is hit in the head with the butt of his sword. Alex yells Nerissa no! Then Morthadim thrusts his sword into her stomach. She lies lifeless. Alex takes a knee, as in he drops to one knee. Maybe during the Ruins of Prophecy chapter on top of the Tower of Prophecy  
+- [ ] at Morthadim's death, all monsters become mortal. All the monsters that die in the battle after that don't disintegrate  
+- [ ] Mention a group in Pridurlas being killed protecting the valley with all the graves.  
+- [ ] Morthadim lifts someone up by the neck and snaps their neck while proclaiming he is thousands of years old and can't be killed.  
+- [ ] During the siege of Prisuvia, the army is station at Shatter Ridge  
+- [ ] Torbanum is renamed after the war when it’s cleansed. The name might not be mentioned until Stars of Hope.

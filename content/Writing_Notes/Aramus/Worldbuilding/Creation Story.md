@@ -1,0 +1,1 @@
+Each religion has different creation stories. The most common of the stories revolve around the moon Esderrus (the Life Moon or Land Above). The story is that Esderrus gave life to Daivara 

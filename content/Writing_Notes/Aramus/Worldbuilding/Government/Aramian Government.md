@@ -1,0 +1,173 @@
+- Praevecus
+	- Head of state. The Praevecus is the figurehead of Aramus. He leads the meetings. The Arcelar must report to the Praevecus, but the Arcelar has more power.
+- Arcelar
+	- Head of government. The Arcelar is over the military and the judiciary system. He is the supreme judge and general of Aramus. With the passing of Arcelar Thorn’s policy, he now has singular control of the military in crisis. He has the ability to declare martial law.
+- Nobility
+	- The nobility of Aramus controls the senate. The people vote for them, but the only people to attain office tend to be the nobility. Three or seven houses (depending on the province, seven have three and seven have seven. The capital has three.) from each province are typically elected. If someone outside of a noble house were elected to the Senate, which hasn’t happened in centuries, they would become lesser nobility.
+- Noble Houses:
+	- Prisuvian Houses
+		- House Areth
+			- Members: Praevecus Sigmund Areth
+		- House Thorn
+			- Members: Arcelar Caspian Thorn
+		- House Revindan
+			- Members: Veralan Revindan
+	- Staderian Houses
+		- House Brontius
+			- Members: Voralis Brontius
+		- House Lourens
+			- Members: Elialan Lourens
+		- House Gierin
+			- Members: 
+		- House Vaserian
+			- Members: 
+		- House Sarelian
+			- Members: 
+		- House Anvindan
+			- Members: 
+		- House Spiren
+			- Members: 
+	- Sulici Houses
+		- House Corumich
+			- Members: Lord Corumich
+		- House Veraeus
+			- Members: Atacus Veraeus, Lunisian Veraeus (Morthadim)
+		- House Brodim
+			- Members: 
+		- House Seris
+			- Members: 
+		- House Visuna
+			- Members: 
+		- House Odirevas
+			- Members: 
+		- House Vorisa (Plaorteia)
+			- Members: 
+	- Montici Houses
+		- House Atacian
+			- Members: 
+		- House Dursola
+			- Members: 
+		- House Veribon
+			- Members: 
+	- Detymi Houses
+		- House Nemola
+			- Members: Veridex Nemola, Devall Nemola
+		- House Milan
+			- Members: Nicornis Milan
+		- House Omuvia
+			- Members: 
+		- House Dumilus
+			- Members: Riandan Venadus
+		- House Vorlan
+			- Members: 
+		- House Esdera
+			- Members: 
+		- House Arcentus
+			- Members: Verigal Arcentus, Verithina Arcentus
+	- Irremedian Houses
+		- House Acselus
+			- Members: Verusam Acselus
+		- House Letoris
+			- Members: 
+		- House Vomalis
+			- Members: 
+	- Maemulvian Houses
+		- House Molonai
+			- Members: Jailoron Molonai
+		- House Brexis
+			- Members: Toveril Brexis
+		- House Medicia
+			- Members: Amber Medica
+		- House Carmia
+			- Members: Serania Carmia
+		- House Silvas
+			- Members: 
+		- House Mulvia
+			- Members: 
+		- House Elonai
+			- Members: 
+	- Midi Houses
+		- House Novenis
+			- Members: Averian Novenis, Jaise Novenis, Volis Novenis, Grandpa Novenis, Clorius Novenis, Elora Novenis
+		- House Doverian
+			- Members: Colidan Doverian
+		- House Veridais
+			- Members: Almedin Veridais
+		- House Vira
+			- Members: Emilia Simona, Amara Vira
+		- House Adilus
+			- Members: 
+		- House Strucon
+			- Members: 
+		- House Erisia (Plaorteia)
+			- Members: 
+	- Cardelli Houses
+		- House Finium
+			- Members: Lord Ristus Finium
+		- House Sinvian
+			- Members: 
+		- House Cormilan
+			- Members: 
+	- Pamori Houses
+		- House Verisa
+			- Members: 
+		- House Votugal
+			- Members: 
+		- House Nuveda
+			- Members: 
+		- House Revasila
+			- Members: 
+		- House Paleris
+			- Members: 
+		- House Maerisa
+			- Members: 
+		- House Norisia
+			- Members: 
+	- Lanuvian Houses
+		- House Decomilas
+			- Members: Wraize Decomilas
+		- House Lurus
+			- Members: Serom Lurus
+		- House Lanuvia
+			- Members: 
+		- House Sivalan
+			- Members: 
+		- House Nemalan
+			- Members: 
+		- House Vemola
+			- Members: 
+		- House Vosalis
+			- Members: 
+	- Brimorian Houses
+		- House Vandalis
+			- Members: Travicax Vandalis
+		- House Brimoria
+			- Members: 
+		- House Sedras
+			- Members: 
+	- Aldonian Houses
+		- House Vermitch
+			- Members: Caela Vermitch
+		- House Lavolis
+			- Members: 
+		- House Plarus (Plaorteia)
+			- Members: 
+	- Lusenian Houses
+		- House Corusian
+			- Members: Lily Corusian
+		- House Aemira
+			- Members: 
+		- House Ausveral
+			- Members: 
+	- Arcbanian Houses
+		- House Volis
+			- Members: 
+		- House Averacal
+			- Members: 
+		- House Verhafian
+			- Members: Paxatrius Verhafian 
+- The Twenty-One Main Houses:
+	- House Thorn, House Areth, House Revindan, House Brontius, House Vaserian, House Anvindan, House Corumich, House Veraeus, House Atacian, House Letoris, House Milan, House Molonai, House Lanuvia, House Decomilas, House Doverian, House Veridais, House Vermitch, House Revasila, House Nuveda, House Corusian, House Averacal.
+- The Seven Great Houses:
+	- House Thorn, House Vaserian, House Corumich, House Molonai, House Lanuvia, House Veridais, House Revasila.
+- Technology Level: They are highly advanced in certain ways. They never developed the use of gunpowder, but the House of Magic makes up for it. They are able to forge strong and superior steel. They have a way to create books quickly. In war, their main weapons are swords, polearms, bows, and as of recently, crossbows like the Soren’s Bane weapon.

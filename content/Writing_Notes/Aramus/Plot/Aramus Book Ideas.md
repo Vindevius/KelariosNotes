@@ -1,0 +1,91 @@
+- [ ] Reread everything  
+- [ ] Character descriptions  
+- [ ] Flush out Alex and Emily’s romance, no kissing yet  
+- [ ] Make praevaltus powers more structured, less random. I.E. have each house have progression and basic traits.  
+- [ ] Why does Xurex attack in capture the flag.  
+- [ ] Attack the Drakon before Flames of the Forest  
+- [ ] Add in Alex’s frequent thoughts to himself.  
+- [ ] Add Aveslio’s species to the end of the series. A bunch of winged lions.  
+- [ ] Turn the plot into a great gospel path analogy.  
+- [ ] Have Ulysses take all of the new recruits to the dragon hatchery.  
+- [ ] Murlons on crenellations on the wall head high  
+- [ ] Alex’s depression is a character struggle not a character flaw. He’s more than his depression.  
+- [ ] Dragon fire sets people on fire  
+- [ ] Snow towers need sharp pointed roofs. They look like a bunch of uneven teeth.  
+- [ ] I want to say magic, but I think we just don’t understand it yet.  
+- [ ] Alex doesn’t know the Plan of Salvation at the beginning of the book. He eventually sees his parents again.  
+- [ ] Caltrop  
+- [ ] Have Alex and Emily train in their telepathy skills directly under Ulysses or someone high up like Elijah Lourens or Cyril  
+- [ ] Create a trade system and routes. Include the countries to the north (Aramoor and Phuzar, or whatever their names end up being).  
+- [ ] Have Alex be more distant from Emily. He still pushes himself away from her in fear that something will happen to her. Eventually, he breaks through that by deciding to be there to protect her from danger, although he feels he lacks in the area as well.  
+- [ ] More POVs  
+- [ ] Involve magic in battle along with mythical beasts. Less dragons. Smaller dragons. A large dragon is about 24 ft long. Satilius at the end of the book is 12 ft long. Dragons grow quickly from about two feet long when hatched to about half their size in the course of two months. After that, they grow much slower, only reaching full size at 12 years of age. Year lengths (year then length in feet): 1-12 2-13 3-14 4-15 5-16 6-17 7-18 8-19 9-20 10-21 11-22 12-24  
+- [ ] How does Alex handle having to kill, react to the pain of war and the pointless deaths it creates? Will he question what they are doing?  
+- [ ] Dust choking the skies in war  
+- [ ] Are there antibiotics? There is magic!  
+- [ ] Morram Durlas doesn’t come to their aid because they are under siege as well. Although, the terrain is so steep that it isn’t much of a threat to them as long as they keep their forces up.  
+- [ ] The opposite of the Praevaltus (the enhanced) are the Corudus (the corrupted). This includes the Gorcin, Maluculus, and Tenilari. They aren't as powerful as their opposites because unlike good powers that give, evil only takes.  
+- [ ] List of Special Locatons: Praeveros, Vetanvium, Alduncus or Magnaldun, Luxsantius, Abisusolas, Malefic Aldun. There's two more evil one's out there.  
+- [ ] At the end of the series, after the sacking of Pridurlas and the death of Morthadim, they match north to Torbanum and siege the weakened forces of death. They succeed and try to destroy abisusolas. What happens when they try? Does it work? Is there an explosion? Does another problem arise from it? Do they hide it? While on this tangent, what does abisusolas look like?  
+- [ ] Amacus survives everything and becomes the main character at the end. Why is that? Did Alex die? Or did he just move on? What happened to Alex and Emily?  
+- [ ] Morthadim is practical. He won't just kill one of his troops. Humanize him. Characterize him. Jealous of who he could have become. Regrets decisions, such as murdering his wife and family in a rage. Hates himself. He feels like he is the hero. His focus leads to missing something essential. He causes both external and internal struggles for Alex.  
+- [ ] Why does Morthadim want to conquer the world? He feels wronged and is prideful. Power-hungry, etc...  
+- [ ] Talk about people not being informed  
+- [ ] Can Luxsantius be moved to Torbanum to purify at the end of the series?  
+- [ ] A race of Lazera’s people, nearly extinct. Not all are bad.  
+- [ ] Hint to a traitor in the first three books. By the end of the third book, have them start looking into it. Make Daniel a main character.  
+- [ ] Ariuona  
+- [ ] What about growing food at Pridurlas? Potatoes and carrots are good at high altitudes. Possibly make a new vegetable. Have hairy yak-like cows. Massive herd that moves between Pridurlas proper during the winter and the City during the Summer. There's a narrow passage between Pridurlas and the city.  
+- [ ] Morthadim has a scythe with a short handle. He's able to use it as a double-edged sword. The blade is straight instead of curved like a regular scythe. The scythe’s blade when fully extended is about chest high off the ground. It’s essentially a sword with another extension to one side of it.  
+- [ ] Work in symbolism  
+- [ ] Alex prefers a gambeson  
+- [ ] No prophecy, or reveal it towards the end.  
+- [ ] Transition slowly to the strange from the ordinary. Know who Alex is. Have him show leadership, but show his doubts.  
+- [ ] Someone hurts their arm and another person comes and snifs it. When asked what they're doing they respond, ”Im trying to figure out what's wrong.”  
+- [ ] Swordstaff  
+- [ ] Have Alex exclaim to Emily that he doesn’t want to be in love because all it brings is pain when they’re gone. She comforts him and convince him of the goodness that comes from it, even through the pain.  
+- [ ] By the time of the Golden Serpent, Morthadim’s army is over four million strong.  
+- [ ] Have people in the government be pawns of Morthadim. He’s killed them and now controls them.  
+- [ ] What are the superstitions and culture of Aramuania?  
+- [ ] Have Morthadim mention Chancellor Thorn in a light that makes him seem like an ally. The Chancellor made a deal with him, which is what he regrets. Morthadim promised not to kill his son Axel as part of the deal. Morthadim mentions turning him completely i.e. turning him into a pawn. The Chancellor goes back on his deal and instead reinforces Pridurlas instead of Lazera. In the epilogue, Morthadim calls it a minor snag in the plan. When he later kills the Chancellor, he brings him back as a pawn. Morthadim personally sees to the death of Axel. He is introduced fully in the second or third book and is killed shortly before his father in book 4. That is part of the reason the Chancellor faces Morthadim in single man combat.  
+- [ ] Alex works mornings  
+- [ ] Add a scene of Alex and Emily discussing telepathy after Emily stopped Alex from charging at the Aurusoren.  
+- [ ] Mine in Pridurlas  
+- [ ] Vary sentence length.  
+- [ ] React - Pause - Act (For Action Scenes) Goal - Conflict - Disaster | Moving towards the goal vs. away from the goal.  
+- [ ] Detail in fight scenes: shift in the balance of power or goal of character (to escape). Character Importance. Narrative Importance. Reader’s Imagination. Show how the weapons and people move and how the environment changed early on. Allow the reader to do the rest. Make it easy to follow. What is the space? Set it up prior to the fight. Chekhov’s Guns. Blocking - mapping out the movements of characters broadly prior to the details.  
+- [ ] Word Choice: focus on avoidance unless you want it grittier. For gritty, be specific (“something snapped”). Actions tell us about who that person is. Pay attention to the words you use.  
+- [ ] Play to the strengths of the Novel Medium: subjective experience of the character. It can get inside the mind of someone much easier. Brings in depth.  
+- [ ] Balance internalization and action. Internalization explores why the fight matters. It makes the next action that more compelling. Show don’t tell.  
+- [ ] Dialogue: ultilarian fight scenes - short and to the point. Emotional dialogue. Short. Power imbalance. The one with power speaks more. One to two sentences. Ryan would talk more, since he talks a lot when nervous.  
+- [ ] Dialogue and internalization create the pace.  
+- [ ] Kite Shields  
+- [ ] Get rid of the word ”started.”  
+- [ ] Explain the monsters backstory and how they’re created and why there are so many different types. Limit the amount.  
+- [ ] Just because they’re monsters doesn’t mean they’re villains.  
+- [ ] Book 2: go deeper into Alex’s mindset. Especially explore his sense of loss from book 1.  
+- [ ] What are the negative aspects of book 1’s victory? Emotional trauma? Political or social trauma?  
+- [ ] Short conversations and scenes for flashbacks in book 2. Think underland chronicles.  
+- [ ] Evil minions and antagonists have a chain of command. Gorcins and the army to the Khegra and Xurex to Lazera and Aveslio to Morthadim.  
+- [ ] What is the darkest hour?  
+- [ ] Nothing’s going to be normal again, will it? I don’t think so. Alex and Emily  
+- [ ] Mimiring’s body is missing at the end of the battle. He was a corudus, possibly. He didn’t disintegrate in front of them. His bones aren’t on the field either.  
+- [ ] When Alex is comatose, he's really on the verge of being turned into a corudus. If he does, he'll turn to dust and become like Daniel. The second body was the Chancellor's when he died a moment before. Normally, the first to die is the one who becomes the corudus, but this is Morthadim who did it. He can bend the rules a bit.  
+- [ ] And you are an idiot, he thought. I'm going to have to remind myself not to say that out loud.  
+- [ ] Have Amacus become friends with Alex through Aurusoren’s Bane. They become best friends like Jordan and I during band.  
+- [ ] The western north to south part of the Arcanus mountains was formed by an old continental volcanic hotspot. This explains the volcano in Alduncus. This is false. Wilddeep Acropolis was the hotspot, but is now extinct. Alduncus is the current location of the hotspot.  
+- [ ] Alex's nervous twitch is cracking his middle finger.  
+- [ ] Love brings both the happiest and saddest moments. Both true joy and heavy burdens.  
+- [ ] What was the plan for the surprise attack in Winterfall? Why did they just bolt when the fire started? Guerilla tactics.  
+- [ ] Replace horses, possibly with dratoculi.  
+- [ ] Dragons can't tell temperature, like lizards.  
+- [ ] More comments and thoughts about Alex’s brother, Jason  
+- [ ] The Houses of Blacksmiths and Magic created the replica of the Aurusoren through the Blacksmiths building the shell and the Wizards imbuing it with a magical form. It's not a common practice due to how complicated and difficult it is to do.  
+- [ ] You have to be prepared if she’s dead, Alex. No, she can’t be dead! Alex, she might be. I can’t think of that because otherwise I’ll lose all hope. I won’t be able to take it.  
+- [ ] Satilius and Averamus balance Alex and Emily. Satilius’ fire melts Alex’s ice of depression while Averamus counteracts Emily’s optimism. In a good way of course. A similar thing happens between Alex and Emily.  
+- [ ] If we do something with our minds, is that an action or is it just a thought?  
+- [x] Gambeson-a thick linen armor  
+- [ ] Put Alex on the wall as an archer.  
+- [x] Alex hesitates to shoot Lazera, even when she’s holding a knife to Emily’s throat. Perhaps not after he gets the bow out, but before when he contemplates revealing the bow. The same goes for killing the cangules.  
+- [x] Have Nick shoot at the Aurusoren instead of Sam.  
+- [x] Alex’s bow is a composite now, it goes from his thigh to his shoulder. 2.5 feet long. Slightly bigger than his quiver of arrows.

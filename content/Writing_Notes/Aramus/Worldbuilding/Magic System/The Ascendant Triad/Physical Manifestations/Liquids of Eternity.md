@@ -1,0 +1,12 @@
+- **Aeontum (Liquid of Eternity)**:
+    - **Appearance**: Aeontum has a shimmering, silver-white hue that seems to flow like liquid stardust.
+    - **Properties**: When ingested, Aeontum grants the drinker limited praevaltus time manipulation abilities. This includes minor adjustments to their own perception of time, such as slowing down or speeding up personal experiences, but with a limit on the extent and duration of these changes. It allows for brief glimpses into future possibilities or slight alterations in time perception.
+- **Efimerum (Liquid of Ephemeral)**:
+    - **Appearance**: Efimerum is a translucent, iridescent liquid with shifting hues of gold and silver.
+    - **Properties**: Upon ingestion, Efimerum bestows limited corudus time manipulation. Users can affect brief, ephemeral moments of time, such as accelerating or decelerating very short events. The effects are temporary and limited to fleeting instances, making it useful for quick, short-term adjustments in time.
+- **Tempronium (Liquid of Time)**:
+    - **Appearance**: Tempronium is a deep, rich blue liquid with a faint, swirling mist that seems to dance within it.
+    - **Properties**: When consumed, Tempronium provides limited psychometric abilities. Drinkers can gain insights or visions related to the past events connected with objects or locations they encounter. The psychometric effects are restricted to recent or emotionally significant pasts and are not as powerful or detailed as those that might come from more advanced psychometric tools.
+- **Aemeronium**:
+    - **Appearance**: Aemeronium is a swirling, multi-colored liquid that combines the visual characteristics of Aeontum, Efimerum, and Tempronium, creating a mesmerizing, kaleidoscopic effect.
+    - **Properties**: This mixture provides a broader range of time-related abilities. The effects are more potent and varied compared to the individual components, offering enhanced time manipulation, psychometry, and possibly even more nuanced control over time perception. Aemeronium is likely used for advanced applications requiring a combination of time manipulation and insight into past events.

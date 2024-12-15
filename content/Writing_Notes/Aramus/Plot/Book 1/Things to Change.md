@@ -1,0 +1,5 @@
+- [ ] Add gravity stones and gravity storms effects Chp. 8-35
+- [ ] Add in the seven storms.
+- [x] Remove genetics for powers.
+- [ ] Add in adaiva titans.
+- [ ] Add in mention of Hieruma and Hieruma Watch before chp. 36

@@ -1,0 +1,9 @@
+- **Vecmetium (Gas of Travel)**:
+    - **Appearance**: Vecmetium is a faintly luminous gas with a pale blue tint, often appearing as a shimmering, almost ethereal mist.
+    - **Properties**: Vecmetium facilitates travel by enhancing mobility and reducing friction or resistance. It allows for swift and efficient movement through space, whether for personal transportation or the movement of objects. The gas can be used in various means of travel, from vehicles to magical or technological transport systems, making journeys faster and smoother.
+- **Exsorium (Gas of Exile/Misfortune)**:
+    - **Appearance**: Exsorium is a dark, foreboding gas with deep grey or black hues, and it often emits a faint, unsettling glow.
+    - **Properties**: Exsorium induces a sense of misfortune or exile. Its effects can include creating an atmosphere of bad luck or ill omens, making it difficult for individuals exposed to it to succeed or feel comfortable. It might be used in situations where disruption or negative influence is desired, affecting those within its vicinity with misfortune or causing them to feel out of place.
+- **Topolium (Gas of Location)**:
+    - **Appearance**: Topolium is a translucent gas with a soft, shifting color that ranges from light greens to blues, resembling a mist that subtly changes hue.
+    - **Properties**: Topolium aids in determining or influencing location. It can be used to track or identify specific places, enhance navigation, or even alter one's position within a given area. This gas is useful for mapping, finding locations, or providing spatial orientation. It might be employed in tracking systems, navigation aids, or location-based magic or technology.

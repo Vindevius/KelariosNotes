@@ -1,0 +1,5 @@
+- Aramus has a 9 hour work day not including lunch. They work six days out of the week. Depending on the religion, the third or seventh day has religious significance.
+	- 54 hours a week. A month is 7 weeks. They are paid every three weeks. Average salary is between 7 and 14 bits an hour.
+	- Pridurlas’ stipend is equivalent to 14 bits an hour. 
+		- They are given 36 arcentum per week or 12 aurus per month. Everyone makes the same amount.
+	- Averian made 6 aurus per month at Tide’s End.

@@ -1,0 +1,8 @@
+- Base 7
+	- 0, 1, 2, 3, 4, 5, 6
+		- Zenil, Thinus, Vero, Tirs, Cara, Vein, Zeh
+	- 10, 20, 30, 40, 50, 60, 100
+		- Setim, Severa, Setira, Secara, Seceina, Sezera, Senta (worth of an arcentum)
+	- 200, 300, 400, 500, 600, 1000
+		- Vesenta, Tirsenta, Carasenta, Ceisenta, Zesenta, Suri (worth of an aurus)
+			- Full chart located in *Language of Daivara* folder under “[[Numbers]].”

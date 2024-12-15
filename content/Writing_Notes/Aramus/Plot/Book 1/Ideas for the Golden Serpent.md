@@ -1,0 +1,74 @@
+- [ ] •‎describe more characters  
+- [ ] •in every combat scenario, ask why they would approach it that way  
+- [ ] •add in more mention of the Drakon's paralysis power  
+- [ ] •"Sometimes you just have to go into the unknown. Take a step into the darkness."  
+- [ ] •figure out both the insignia and flag of Aramus, also a separate insignia for Fort Gyrin  
+- [ ] •have an inspirational speech similiar to Joseph Smith's in Saints Vol. I Chp. 44  
+- [ ] •add in rain  
+- [ ] •include mention of others arriving at the fort  
+- [ ] •have the Drakon spew venom into the forest, pg. 197  
+- [ ] •add in destroying the monsters in the Shadowed Pass.  
+- [ ] •Figure out the romance between Alex and Emily  
+- [ ] •spread out the character descriptions in the first chapter  
+- [ ] Make Alex much more contemplative with more internal conflicts.  
+- [ ] in every combat scenario, ask why they would approach it that way  
+- [ ] add in more mention of the Drakon's paralysis power  
+- [ ] include mention of others arriving at the fort  
+- [ ] Add more training sequences in detail. Alex and Emily end up training together in both swords play and archery. Nick trains Alex further in archery.  
+- [ ] Pridurlas is a city in comparison to Tirvalis  
+- [ ] Add Alex and Eli going over the visions he’s had. Along with Cyril and maybe Ulysses.  
+- [ ] Have Mimiring fire lightning during the main battle. Fire dragons are able to learn to shoot lightning.  
+- [ ] Mimiring is Morthadim’s bond.  
+- [ ] Dragon hatchery is haphazard not organized.  
+- [ ] •‎change funeral to have speakers, make it more like a military funeral  
+- [ ] •‎add in mention of the islands in the Izmir ocean. How did the islanders get to Aramus?  
+- [ ] •mention griffins and hippogriffs and pegasi before the main battle  
+- [ ] •Have them have some strategy in the main battle of the first book as in add a force to cut their escape at the very beginning of the battle. A smaller amount of daiflentans hides in the forest to the east and as they (the monsters) meet the main army, the hidden army comes in behind them. Eventually, the surprise is over and they just become one giant mess.  
+- [ ] •add a character who's missing an eye and has a cool eye patch  
+- [ ] •take out the numbers so those who read can have their imaginations take hold and flourish  
+- [ ] •Add in more help from the House of Prophecy. They don't do much currently.  
+- [ ] •add in Alex talking to Satilius while he's in the nursery. Right as Alex sees the smoke in the Message Chapter including Echidna. "What's all the ruckus for?" Satilius asked. "I don't know. I'll have to check it out."  
+- [ ] •add scene where Lenna Simmons, Emily's mom, comes from Morram Durlas and reunites with Emily.  
+- [ ] •mention Alex's and Emily's old relationship at the very beginning when he first sees her. Maybe have him say something to Chris about it afterwards.  
+- [ ] •pg 51. Expound upon the tin suit. Switch the long day phrase as well  
+- [ ] •add in time slowing down when the Drakon charged Alex in chp. 23  
+- [x] •Have Alex at the end of the dock at the beginning, think of the end of dock 3  
+- [x] •Merge some of the Houses  
+- [ ] •Sam's full name is Samuel. Add in how bad the smoke was from the fire in the Winterfall Forest.  
+- [x] •name the House of Prophecy's building the Tower of Prophecy  
+- [ ] •have Ryan say, I can't believe they fell for it! That's hilarious! When the army of monsters burst from the woods and are engulfed by another blast of fire.  
+- [x] •change Tartarus to Torbanum (Hell). Abyssus Abisus (Abyss) Fovea Tafea (PIT) Vorago Vonogo (chasm) Infernum Infeum (Hell)  
+- [x] •change the sais to knives and add the sais in somewhere else. (sais are dull and therefore can't slice through dogsnakes)  
+- [x] •add in Armaran w/ the other dragons at the end of Siege of Winterfall  
+- [x] •have the Drakon take down a dragon  
+- [x] •explain why Emily went after Alex at Winterfall. She felt like she needed to and saw he was going to dive into the Drakon, which is when she told him to stop  
+- [x] •Add in that Alex took archery before, mention it in casual conversation towards the very beginning of the book, maybe even before Tide's End. "I would go shoot a few targets, but I broke my bow last month and haven't been able to get a new one yet."  
+- [ ] •Ulysses is a leader, Thánatos is a manager  
+- [x] •change echidna's and chimera's names along with other names to make it more original. Make them mean something. Lizard-Lazeda(Lacerta) Woman-Maras Echidna-Lazera, Lion-Leo (Leo) Goat-Dapra (Capra) Snake-Sanguis (Anguis) Chimera-Leosan. Also, make Chimera just be a lion with a snake tail (no goat).  
+- [x] •Chris Silvas  
+- [x] •exception - eximp (exceptis)  
+- [x] •exceptional - eximpis (eximia)  
+- [x] •normal - eornis (normalem) (inenormis)  
+- [x] •abnormal - ineornis (abnormis)  
+- [x] •exceptional abnormal - exiornis  
+- [x] •eternal - aedais (aeternum)  
+- [x] •eternity - aedaide  
+- [x] •enhanced - praevalin (praevalidus consectetur)  
+- [x] •waters of enhancement - praeveros (consecraverant)  
+- [x] •have Alex carry a picture of his family around with him, describe his family in it  
+- [x] •add a locket with Alex's family in it to the flashback scene. When Alex sees the fog outside, he pulls out the locket and opens it to look at his family. Mention it beforehand. "He grabbed his locket and put it in his pocket." While packing.  
+- [x] •Lazera and Leosan when they attack Tide's End are seen as what they are. They think a woman and a lion burst into Tide's End and then the woman had a flamethrower that melted the door leaving.  
+- [x] •pg. 31. Change the knives to daggers  
+- [x] •pg 18. Take out diamonds  
+- [x] •pg 43. Have Emily struggle with Lazera for a moment until Lazera disarms her and then puts her knife to her throat  
+- [x] •mention Liosan's fur being burnt as well at Everton  
+- [x] What are Alex's thoughts when Lazera and Aveslio appear at Tide's End?  
+- [x] Have them have some strategy in the main battle of the first book as in add a force to cut their escape at the very beginning of the battle. A smaller amount of defenores hides in the forest to the east and as they (the monsters) meet the main army, the hidden army comes in behind them. Eventually, the surprise is over and they just become one giant mess.  
+- [x] add in mention of the islands in the izmir ocean. How did the islanders get to Aramus?  
+- [x] mention griffins and hippogriffs and pegasi before the main battles  
+- [x] have the Drakon take down a dragon  
+- [x] have an inspirational speech similar to Joseph Smith's in Saints Vol. I Chp. 44  
+- [x] Have Alex use his bow more, especially in combat. He can still use a sword, but make it so that he truly does prefer the bow. When he loses his sword, he replaces it with a dagger. Mention his skills in the 1st chapter.  
+- [x] Have Ulysses show them what happened to Anvindan and the Aurusoren. When Alex asks how this is possible when Ulysses wasn't there, he explains that Cyril was there and he showed Ulysses. Ulysses is essentially playing the memory of seeing it through Cyril.  
+- [x] Wings for the mechanical Aurusoren afterwards.  
+- [x] "Some people call them drakes, others little dragons. Officially they're called dratoculi. Dratoculus if there's only one of them. They're not near as bright as dragons are. A very few become telepathic."

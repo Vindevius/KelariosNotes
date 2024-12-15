@@ -1,0 +1,8 @@
+An **Aurusoren**, also known as the Dratosoren, is a majestic and formidable creature with the following characteristics:
+- **Size and Shape**: Aurusorens are immense, golden serpents, averaging around 300 feet in length. Their massive, sinuous bodies give them a commanding presence, though they can shrink to about 150 feet in length, particularly in captivity or controlled environments.
+- **Scales**: Their scales are a rich, lustrous gold, reflecting light in a dazzling manner. These scales are incredibly tough, almost impenetrable, providing formidable natural armor.
+- **Venom**: They possess highly corrosive venom that can dissolve various materials and is deadly to most creatures. This venom can be expelled as a potent toxin (toxungen) over great distances, adding to their threat level.
+- **No Wings**: Unlike many serpents, Aurusorens have no wings, which limits their mobility compared to dragons. They rely on their sheer size and strength rather than flight.
+- **Habitat**: Historically, they inhabited the mainland of Aramus, but due to competition with dragons for food, they became endangered. Now, they are thought to be nearly extinct, with only one remaining under Morthadim’s control through dark magic.
+- **Behavior**: Aurusorens are both solitary and territorial, using their venomous bite and physical strength to protect their domain. They are apex predators in their environment, consuming large prey, including other serpents and smaller dragons.
+- **Dark Magic**: The last known Aurusoren is manipulated by Morthadim through dark magic, reflecting its fall from natural dominance to a tool of dark power.

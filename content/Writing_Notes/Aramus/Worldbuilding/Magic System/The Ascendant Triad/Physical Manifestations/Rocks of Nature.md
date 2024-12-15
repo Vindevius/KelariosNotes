@@ -1,0 +1,9 @@
+- **Nafursium**:
+    - **Appearance**: Nafursium is a solid, dense rock with a rugged, coarse texture. It often has a dark grey or brown color with occasional flecks of lighter minerals.
+    - **Properties**: Nafursium is renowned for its strength and stability, making it ideal for reinforcing foundations. It enhances the structural integrity of buildings, providing a solid base that can support significant weight and withstand external pressures. It is commonly used in construction to strengthen foundations and support structures.
+- **Ruichasium**:
+    - **Appearance**: Ruichasium is a crumbly rock with a light, dusty appearance. Its color can range from pale grey to tan, and it often has a granular texture that makes it appear fragmented.
+    - **Properties**: This rock is used to gradually deteriorate or weaken the foundation of a building. Its crumbly nature allows it to slowly break down and erode materials it comes into contact with, making it useful for controlled demolition or for creating instability in structures over time.
+- **Eriserium**:
+    - **Appearance**: Eriserium is a smooth, medium-density rock with a slightly shiny surface. It typically features a grey or bluish tint and may have subtle veins or patterns running through it.
+    - **Properties**: Eriserium provides temporary resistance to environmental elements, such as extreme temperatures, moisture, or corrosive substances. It can be used to create protective barriers or coatings that shield individuals or objects from harsh conditions. Its protective qualities are useful in various applications, including temporary shielding for sensitive materials or structures.

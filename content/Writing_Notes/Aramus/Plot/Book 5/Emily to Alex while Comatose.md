@@ -1,0 +1,7 @@
+"Alex, I can't take this from you! I wish I could, but I can't. You have to fight it! Don't let them win! Hold on! Hold on to life and to me. I can't lose you. Come back to me! I love you with all I have. Just hold on! Fight it! Please, come back to me!"  
+  
+Alex hears Emily's voice cut through. It is the last thing he needed to defeat Moxian.  
+  
+The Oracle comes to Alex and realizes what is happening to Alex. He opens his eyelids to find that his eyes are glowing half white and half black. The dark and the light are even at this point. Cyril gets Athanius Pryor, the leader of the house of Magic, to come. Athanius attempts to interfere.  
+In Alex's point of view, he is in the midst of battling the two malefic. They are trying to overpower him with despair. Alex can tell when Athanius interfers as he sees a light appear that radiates the dark hall. He is then able to defeat Coclan.  
+Back in the physical world, Athanius falls back against the wall. He explains what is happening in Alex's head. Emily listens intently. Alex is helped by those who died before him. This continues until Alex defeats Moxian. At the same time, the doctors finish their operation. Alex awakes to Emily's face. He is tired and worn out.

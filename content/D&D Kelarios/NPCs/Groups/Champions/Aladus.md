@@ -1,6 +1,6 @@
 **Champion of Vecmetus, God of Travel**
 
-**Name:** Aladus  
+**Name:** Aladus Copperheart the Pathfinder
 **Race:** Changeling  
 **Class:** Level 20 Lore Bard
 

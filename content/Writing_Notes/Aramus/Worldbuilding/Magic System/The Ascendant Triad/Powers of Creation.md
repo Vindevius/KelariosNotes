@@ -1,0 +1,14 @@
+- Eternity
+	- The powers of time. I.E., prophecy, seeing the future and past, or controlling time directly around you.
+- Wisdom
+	- The powers of the mind. I.E., knowledge, intelligence, and anything to do with the mind.
+- Nature
+	- The powers of nature. I.E., matter and its various states (solid, liquid, gas, and temperature).
+- Strength
+	- The powers of physical abilities. I.E., strength and all physical abilities.
+- Healing
+	- The powers of health. I.E., anything that has to do with healing or pain.
+- Life
+	- The powers of life. I.E., anything that has to do with life, creating it, or manipulating it.
+- Travel
+	- The powers of travel. I.E., the powers that deal with travel, speed, or gravity.

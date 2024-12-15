@@ -1,0 +1,100 @@
+- [ ] Disconnect the powers from the races. Maluculi rarely have any abilities. Lazari and gorcins tend to have high populations of magic users, but not everyone can. Humans are relatively small. Fausors have high population counts and tend to have certain abilities due to their common ancestors, same with lazari and gorcins. Elari and adaiva are similar as well. The three vecormus races are fairly random in their power distribution. Etc...  
+- [ ] Add in temples from one of the religions with no roof or a roof opening mechanism to allow rain to was its walls.  
+- [ ] Why are the praevaltus not a part of society? Why are they in hiding.  
+- [ ] [ ] •‎add a falconer into the series (House of Travel sub-House of Messengers). He's very attached to his falcon and they are a great team. Falconer dies and the falcon sadly nudges at him to move. Someone takes his place (Ryan)  
+- [ ] [ ] •‎The Prophecy in the Golden Serpent meaning: “The hero with the mark of the owl shall lead against the forces of Death run afoul. With one final battle to decide fate, the hero will descend at the great gate. Then shall the battle end with the Final Hope or Darkness shall reign and encompass the Globe.”  
+- [ ] [ ] Hero = Alex  
+- [ ] [ ] Final battle = not a literal battle, but the battle Alex faces while comatosed.  
+- [ ] [ ] The great gate = the spiritual gate at which Alex decides to descend from to help his friends. Have Alex have to make a tough decision that helps them exponentially on the physical side, but causes issues with his spirit along with his body.  
+- [ ] [ ] Final Hope = Emily combined with Alex's help from the great gate.  
+- [ ] [ ] Darkness = Morthadim and his armies.  
+- [ ] [ ] In order for the prophecy to be fulfilled, Alex basically had to die. Beginning of the last book recounts his fall from Emily's point of view, continues on for another chapter, then switches to Alex's point of view while comatose. Goes back and forth between their two views for the remainder of the book.  
+- [ ] [ ] •‎climbing up a tower, multiple people, last one is shot with an arrow. He decides to take the arrows and barricade the way up, sacrificing his life so the others may live.  
+- [ ] [ ] •‎add in corruption in the government of Aramuania during second series or end of first series  
+- [ ] [ ] •‎Have Alex lose his sword, then have someone build him an even better one that's extremely similar. Also add in a 4 foot long sword and give it to someone. Think of Trey in the first books that I was writing.  
+- [ ] [ ] •‎Elder Westover in the House of War  
+- [ ] [ ] •‎At the siege of Fort Gyrin at the end of the 2nd series, have catapults and ballistae be brought by Morthadim's army. Have them destroy the tops of buildings, including the House of Prophecy. I don't know how they brought them through the pass. Dragons  
+- [ ] [ ] •‎side book with Athanius Pryor, leader of the House of Magic. Weaknesses of the Malefik  
+- [ ] [ ] •‎research more types of mortal monsters, not just orcs  
+- [ ] [ ] •‎describe more characters  
+- [ ] [ ] •add a character who's missing an eye and has a cool eye patch  
+- [ ] [ ] •take out the numbers so those who read can have their imaginations take hold and flourish  
+- [ ] [ ] •add a massive dragon later in the series from the north. Have it cause mass destruction. It's 50 ft long. It's unnaturally large.  
+- [ ] [ ] •Add in more help from the House of Prophecy. They don't do much currently.  
+- [ ] [ ] •Have a normal lion on our side and have him be powerful and stand at the gates to protect us  
+- [ ] [ ] •"Sometimes you just have to go into the unknown. Take a step into the darkness."  
+- [ ] [ ] •Ulysses is a leader, Morthadim is a manager  
+- [ ] [ ] •figure out both the insignia and flag of Aramuania, also a separate insignia for Pridurlas  
+- [ ] [ ] •alex asks oracle about why Daivara (new house) is the name of the planet. Answer, I do not know the origins of our civilization  
+- [ ] [ ] •figure out what will happen in the spirit side  
+- [ ] [ ] •When Morthadim dies he becomes the Supreme Malefic (Maxunium)  
+- [ ] [ ] •Cyril, the seer, was born in Anius 800, which means he's 3425 at the beginning of the series. He was 85 when Nindurlas was founded and he became the Oracle. He was heavily involved in the 1st battles with the Army of Death  
+- [ ] [ ] •add a volcano erupting in the everlasting mountains. They're very volcanic and destructive. Monticus is the most at risk  
+- [ ] [ ] •add scene later in series where Cyril reveals the Necromancer of Wraithmoor to be named Morthadim. "Do you want to know his name? His name is Morthadim, the same creature that led this Army 3300 years ago when Pridurlas was founded." "How do I know? I'm 3425 years old; I was there. I've been the only oracle for Pridurlas. I've known his name since the 1st battles. Why didn't I tell you? You never asked and his name isn't that important. It just means death. Sure that's creepy, but what else can you expect from a spawn of Malefic?" "What do you mean he's a spawn of Malefic?" "Well, did you think he was always this way? No. He was an elf just like me. He was a dark elf, but he's not even that now. There's an ancient power in the Depths of Wraithmoor called Malefic Aldun. That's where he became Morthadim, a spawn of the Malefic. I say spawn, except he controls them. Morthadim is much older than I am, but he once went by another name. His old name is hid from me."  
+- [ ] •Cyril, the oracle, was born in Anius 800, which means he's 3425 at the beginning of the series. He was 85 when Nindurlas was founded and he became the Oracle. He was heavily involved in the 1st battles with the Army of Death  
+- [ ] [ ] •add in parasite monsters  
+- [ ] [ ] •maybe a direwolf  
+- [ ] [ ] •medusa  
+- [ ] [ ] •before Earth peoples, they fought dragons. On Daivara while they journey from planet to planet, journey through earth to find historical documents that knights kept from their wars and such. Keep it. Previous life forms had battles with dragons and monsters in Aramuania. They discover the books and then run into the monsters.  
+- [ ] [ ] •wood splitting scene  
+- [ ] [ ] •add in rain  
+- [ ] [ ] •exception - eximp (exceptis)  
+- [ ] [ ] •exceptional - eximpis (eximia)  
+- [ ] [ ] •normal - eornis (normalem) (inenormis)  
+- [ ] [ ] •abnormal - ineornis (abnormis)  
+- [ ] [ ] •exceptional abnormal - exiornis  
+- [ ] [ ] •all daiflans are descendants of a race of people called the "Praevaltus" meaning the "enhanced" who were created on Daivara many years ago via some magical event they went through. All elves are praevaltus in the sense of they started in the same way, but it was more serious of a change  
+- [ ] [ ] •Morthadim is an ancient praevaltus dark-elf. His original name is Lunisian (Son of the moon). Lunisian bathed in the waters of enhancement (Praeveros) in the Eternal (Aedais) Mountains near Mathoni. It's where all Praevaltus Elves were originally created. He became a dark-elf soon after when he entered the Fires of Torbanum (Abisusolas) within Torbanum. Even after that, he entered Malefik Aldun (Devil Deep) in Wraithmoor and became Morthadim (Death), Niduxan te Torbanum (General of Hell)  
+- [ ] [ ] •Praevaltus Humans were originally created at the Wilddeep Acropolis by the Ancient Stream (Veteri Anvium).  
+- [ ] [ ] •The Creation of Praevaltus:  
+- [ ] [ ] Praevaltus Elari - Praeveros near Mathoni in the Everlasting Mountains  
+- [ ] [ ] -increased wisdom and power over nature; fair complexion  
+- [ ] [ ] Praevaltus Fausor - Veterisolas within Ninaldun  
+- [ ] [ ] -increased strength and decreased height  
+- [ ] [ ] Praevaltus Adaigaeva - Veteri Anvium within Wilddeep Acropolis  
+- [ ] [ ] -increased abilities over nature in a capacity related to the person  
+- [ ] [ ] Praevaltus Malac - Abisusolas within Torbanum  
+- [ ] [ ] -makes anything evil  
+- [ ] [ ] Praevalin - Aurusluxen near Phoenix Bay  
+- [ ] [ ] -makes anything good  
+- [ ] [ ] Malefic Aldun - Devil Deep. Where Lunisian went and became Morthadim and took control of all Malefik. He guards it heavily.  
+- [ ] [ ] Veteri Praevaltus - Ancient Enhanced that's lived for over two centuries  
+- [ ] [ ] •Daniel becomes a Praevaltus Malac in the 4th book. Before that, he becomes a monster and is given the ability to reform. He dies when he finds out about the Malefic and desires to become one. He willingly becomes one.  
+- [ ] [ ] •monsters were created from the Abisusolas within Torbanum. Lazera was the first, who took control of it. Next came Aveslio. Monsters are generated on a regular basis from Abisusolas  
+- [ ] [ ] •Fausors set up the Northern Fausor Kingdom due to the mountains there. They established a massive kingdom there but went into hiding due to the dragons' attacks on them. They created an underground farm to sustain them  
+- [ ] [ ] •Alex tries to trap Morthadim in Aurusluxen near Phoenix Bay to make him good again. He is not redeemed, but another major antagonist is.  
+- [ ] [ ] •Gradismara-to welcome  
+- [ ] [ ] •Welcome-Gradisum  
+- [ ] [ ] •Morthadim is bald  
+- [ ] [ ] •add giant shark  
+- [ ] [ ] Limit number of dragons  
+- [ ] Daivara has small and fierce beasts, and small creatures more than giant ones. Dragons are an exception.  
+- [ ] Esderrus is the opposite, giant beasts are common.  
+- [ ] add in a siege of Morram Durlas later in the series. It fails due to the mountainous terrain of the Elari fortress  
+- [ ] have Satilius carry Alex's sword to him in his mouth.  
+- [ ] Daivara has 70% Water, 30% Land  
+- [ ] Veraeus orbits Esderrus. Arcenta and Esderrus orbit Daivara  
+- [ ] The monsters represent the monsters of the mind and fear. The Praevaltus represent hope and love.  
+- [ ] When Morthadim kills people he can also make them his minions on the battlefield. He ends up corrupting an army of people. Over time, they began to look more like gorcins. Their skin turns gray and leathery.  
+- [ ] The tenimesors or dark reapers are an elite group of corrupted creatures controlled by Morthadim that are able to kill and grant the ability to reform. One of these is what corrupted Daniel. There are 17 of them based of the Roman unlucky number of XVII which can be rearranged to VIXI, translated as "I have lived" meaning "My life is over" in Latin.  
+- [ ] Everyone has a dark side, even Alex.  
+- [ ] Villain Motivations  
+- [ ] Loyalty (truly loyal or ideologically)  
+- [ ] Money  
+- [ ] Common/Personal goals  
+- [ ] Fear (for grunts)  
+- [ ] Love  
+- [ ] Coercion (blackmail, brainwashing, other leverage. Highly volatile and unstable minion. Only for valuable minions.)  
+- [ ] Assassination attempts on the Chancellor after the events of book 1. He survives all of them. One managed to take him months to recover from. This attempt is how Voralis finds out about the previous attempts.  
+- [ ] “You see, I have all this power but I don’t know how to use it. I can’t see the future and so even with all this power, I have no control. -Verithinus (Vitruvius) on his godly powers  
+- [ ] Have a winter where it snows a lot. There is a lot of flooding during spring the next year.  
+- [ ] Add a series of crimes in a city (Pridurlas, Havuda-Shalar, or elsewhere) Perhaps multiple cities.  
+- [x] [ ] •‎Make it just one series. Instead of a 6 book series and a 5 book series, have it just be one 7 book series.  
+- [ ] [ ] •rename all the cities to mean something, just rename it all. Probably will end up keeping some names just because I've grown fond of them  
+- [x] [ ] •take out the veil, people have just made the wars of the monsters 300 years ago into myths. Praevalins are more aware than a normal human. Praevalins tend to see past any false stories.  
+- [x] [ ] •Alex and Emily become full elves in the 3rd book by bathing in Praveros. Jason does as well.  
+- [x] [ ] •add more elven fortresses. Also the ruins of Nebris Durlas  
+- [x] [ ] •The moons of Daivara: Arkanus, a silver moon similar to ours; Esderrus (Land Above), a beautiful and green moon that hosts life, it's similar to Earth in size; and finally Veraeus, a small bronze moon.  
+- [x] change Tartarus to Torbanum (Hell). Abyssus Abisus (Abyss) Fovea Tafea (PIT) Vorago Vonogo (chasm) Infernum Infeum (Hell)  
+- [x] Sais  
+- [x] In describing fausors, if you tilted your head down slightly, you'd kiss their forehead.

@@ -1,0 +1,9 @@
+1. **Vizoium (Mushroom that Cures Morthadium)**:
+    - **Appearance**: Vizoium is a vibrant, bioluminescent mushroom with a striking, iridescent glow. It has a broad cap that is usually a mix of bright colors, such as green and blue, with a smooth, slightly translucent texture.
+    - **Properties**: Vizoium is highly valued for its medicinal properties, specifically its ability to counteract the effects of Morthadium. When consumed or applied, it neutralizes the poison, effectively curing its effects and sustaining life. Its healing properties make it crucial for antidotes and emergency medical treatments.
+2. **Morthadium (Deadly Mushroom)**:
+    - **Appearance**: Morthadium is a dark, ominous mushroom with a cap that is deep black or dark purple. Its surface is rough and slightly mottled, giving it a menacing appearance.
+    - **Properties**: Morthadium is extremely toxic. When ingested, it causes death within a minute due to its potent and fast-acting poison. It is a lethal substance used in extreme cases of poisoning or as a tool of sabotage and assassination. Its deadly effects are potent and swift, making it highly dangerous.
+3. **Seravium (Mushroom that Stores Life)**:
+    - **Appearance**: Seravium is a distinctive mushroom with a soft, pale golden color. It has a smooth, slightly reflective cap and a gentle, soothing glow.
+    - **Properties**: Seravium has the unique ability to store life energy. It can absorb and retain vitality from living beings, making it a valuable resource for curing poisons like Morthadium. When enough life energy is stored, it can be used to counteract the effects of toxins or restore health. Its storage capacity and restorative properties make it a crucial element in life-preserving treatments.

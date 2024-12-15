@@ -1,1 +1,25 @@
-- 
+- Caerwyn
+	- **King Edryc Lathorne IV**, a wise yet aging monarch beloved by the common folk but mistrusted by the ambitious nobles. His failing health has emboldened potential successors to position themselves for the throne.
+	- **Lady Yselda Dauren**, the head of the Council of Ministers, is a pragmatic yet secretive politician, suspected of consolidating power for her own ends.
+	- **Lord Varrin Ardyn** – The charismatic leader of the Ardyn faction, known for his oratory and ambition to modernize Stagalla.
+	- **Maelis of the Gilded Quill** – A celebrated playwright and bard whose works often carry veiled critiques of the nobility.
+	- **Thorne Fleetblade** – A former mercenary turned adventurer, now a captain in the city guard, tasked with keeping peace amid political turmoil.
+	- **Sister Elenna Vyral** – A healer and high priestess of the Temple of Luminara, revered for her wisdom and calming influence during times of crisis.
+- Drakemere
+	-  **Lord-Merchant Aedric Solryn**, the shrewd and pragmatic head of the Drakemere Merchant’s Guild, who rules the city like a business.
+	- **Captain Vyressa Stormborn**, the commander of the city’s naval defense and a respected hero of the Icelorn Strait. She is outspoken about the rising threat to the harbor.
+	- **Master Corrath Velstrin** – The chief shipwright, a grizzled artisan who claims to have crafted a ship that once sailed into a storm and returned unscathed.
+	- **Ilaem the Salvager** – A mysterious diver who recovers treasures from shipwrecks in the Icelorn Strait and sells them in the black market.
+	- **Arlen Duskwake** – A scholar and historian studying ancient ruins found along the coast, believed to be linked to the harbor’s curse.
+	- **Mara Hollowstream** – The owner of the **Siren’s Call Tavern**, known for her sharp wit and extensive network of information.
+- Irsum
+	- **High Marshal Hadrik Alonsar** – a former general who rose to power during a period of chaos after the last ruler died unexpectedly. He is a disciplined and pragmatic leader, though his rule has been challenged by rival factions within the city who seek to take advantage of the current instability.
+	- **Elyra Stoneheart** – A renowned master blacksmith known for her work with mithril. She’s one of the wealthiest and most influential people in the city, and her work is sought after by nobles and warriors alike.
+    - **Korin Drakeshield** – The head of the city’s guards, Korin is known for his unyielding loyalty to the people of Irsum and his effectiveness in maintaining order in the city during times of crisis.
+    - **Darius Falknor** – A charismatic merchant who deals in rare ores and gems. His connections with the Dwarven clans of the Iresdi Mountains have made him a powerful figure in Irsum’s economy.
+    - **Vereen Coldstone** – A wandering scholar with a mysterious past, he’s come to Irsum seeking ancient relics and knowledge hidden in the mountains.
+- Rivermont
+	- **Governor Lysara Wrenhold** – a stern but charismatic leader who was appointed by Stagalla. However, the city’s previous leaders, exiled Veterian nobles, maintain a covert underground network that opposes the Stagallan presence, creating a divided leadership with secret alliances and rival factions.
+	- **Senric Orosk** – A former Veterian general now turned mercenary, Senric is a force to be reckoned with in the city's lower districts, commanding a group of loyal followers.
+    - **Aelia Valear** – A local silk merchant who has managed to navigate the political upheaval and become one of the richest individuals in the city. She is rumored to have connections to both Stagallan officials and former Veterian nobles.
+    - **Chandra Wyrsbane** – A charismatic street preacher who speaks of an impending revolution and calls for the unification of Rivermont under the Veterian flag.

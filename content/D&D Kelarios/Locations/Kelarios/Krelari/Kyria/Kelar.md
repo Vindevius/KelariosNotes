@@ -1,3 +1,55 @@
+1. **Settlement Name:**  
+    Kelar
+2. **Settlement Type:**  
+    City (population 5,001+)
+3. **Defining Trait:**  
+    The **Cloudkey Grove**, a sacred grove that houses the only living androsphinx, Eradas, and the entrance to the Void Forge beneath it.
+4. **Claim to Fame:**  
+    Kelar is the **oldest city in the world**, renowned for its rich history, and as the capital of Kyria, it serves as a center of power and culture.
+5. **Current Calamity:**  
+    Unease persists as **Veterian agents and cultists** have begun infiltrating Kelar, seeking remnants of Domexius's power, and the **Void Forge** is rumored to be stirring with activity, attracting opportunists and scholars alike.
+6. **Local Leaders:**  
+    The **Council of the Stars**, a respected and fair council of ten members. Current council members include:
+    - Nexus Sparrow, warforged bard (leader).
+    - Myrtle Gamwich, female halfling warlock.
+    - Akhabelle Lightbane, female dwarf rogue.
+    - Nabeora Panala, female elf ranger.
+    - Iloridan Pervyre, male half-elf bard.
+    - Saldrak Deepwell, male dwarf cleric (new).
+    - Fienna Torsen, female human fighter (new).
+    - Varlen Swift, male gnome wizard (new).
+    - Elyria Astorn, female elf sorcerer (new).
+    - Kix Zodrak, retired but replaced by Tharok Runeshield, male half-orc druid.
+7. **Noteworthy People:**
+    - **Varian Darwin Ravensilence:** Runs "Thingamabobs" in Skylight Market.
+    - **Captain Eris (formerly Ardella Sephiran):** Known as the avatar of Diana, she commands the ship _Shadows' Revenge_.
+    - **Jacob:** Proprietor of _The Weary Pirate_ tavern in Dock Ward, known for his invisible shotgun.
+    - **Charadraak Quipclaw:** An ancient copper dragon who lives in seclusion near Kelar but is revered as a hero.
+8. **Noteworthy Places:**
+    - **The Weary Pirate (Dock Ward):** A lively tavern catering to sailors and adventurers.
+    - **Thingamabobs (Skylight Market):** A shop selling magical trinkets, run by Varian Darwin Ravensilence.
+    - **Temple of the Seven-Pointed Star (White Hill):** Dedicated to Verithinus, the creator god.
+    - **Cloudkey Grove:** Sacred grove with Eradas, the androsphinx.
+    - **Skylight Market:** Bustling trade district dedicated to Sovenia, goddess of wisdom.
+9. **GP Value of Most Expensive Item for Sale:**  
+    200,000 GP
+10. **Historical Importance:**  
+    Kelar was the **site of the last battle in the War of the Vile Ones**, where Domexius, the god of dominion, was defeated by the Slayers of the Vile Ones.
+11. **Magical Elements:**
+- The **Void Forge**, hidden beneath the Cloudkey Grove, can forge god-killing soul spikes.
+- The **Temple of the Seven-Pointed Star** acts as a leyline convergence.
+- Magical markets in Skylight Market offer rare items and artifacts.
+12. **Community Atmosphere:**  
+    **Wary but resilient.** The scars of the War of the Vile Ones linger, but the people are proud of their city's history and their role in shaping the world.
+13. **Iconic Landmarks:**
+- **Cloudkey Grove:** Center of the city and home to Eradas.
+- **Temple of the Seven-Pointed Star:** Overlooks the city from White Hill.
+- **Statue of Diana Moonstone:** Located in Old Kelar, commemorating her heroic deeds.
+- **The Great Wall of Kelar:** Fortifications rebuilt after the war, symbolizing resilience.
+14. **Geographical Surroundings:**  
+    Kelar lies on the **western coast of the continent of Krelari**, with a deep harbor fostering trade. The Valmere river empties into the harbor. Fertile plains to the east provide food, while nearby forests supply timber. The city's coastal position has made it a strategic hub for both commerce and defense.
+
+
 ## Districts
 1. Old Kelar
 	1. Aeontas

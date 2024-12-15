@@ -1,0 +1,28 @@
+- [ ] The fausors of Alduncus are the guardians of Vetanisolas. Ryan joins them at the end of the book as an ambassador. It feels like Alex lost another friend.  
+- [ ] Reactivate Vetanvium at Wilddeep Acropolis  
+- [ ] Alex sees Chris in vision  
+- [ ] Emily's Birthday is in the fall or winter of this book. Perhaps while on the quest.  
+- [ ] The fausors drink glacier water.  
+- [ ] Alex has a depressive, mental breakdown. He blames himself for Amacus becoming a werewolf and still feels despair over Chris' death. It leads up to a scene where he breaks down with Emily, who tries to comfort him. They're at the Wilddeep Acropolis at the time. The entirety of the book is focused on his depression. The winter of his soul.  
+- [ ] Winterfall Forest is still burnt. They travel through it to get to Winterfall Watch. They've replanted trees.  
+- [ ] Aurusoren armor  
+- [ ] Jack finds out about Chris' death towards the end  
+- [ ] Corinth the ice dragon at Nebrisruim  
+- [ ] Xurex with his Khegra forces at Nebrisruim and the Wilddeep Acropolis  
+- [ ] The rebuilt Winterfall Watch has a new wall outside the moat and ramp, with another moat around that. It is much more secure. How did they rebuild it so quickly?  
+- [ ] Introduce the title, "Necromancer of Wraithmoor"  
+- [ ] Add a scene where Alex wakes up and remembers Chris. He still misses him. Alex never forgets about Chris.  
+- [ ] Alex meets and talks with his birth doctor in Morram Durlas at the beginning of the book while waiting for Amacus.  
+- [ ] Jason Newman has a frost dragon with a name that means "witty."  
+- [ ] The Fausor tell Alex that Alduncus is in a volcano that they made dormant. When asked how, they simply say it was complicated and took a lot of work, but they forced the volcano to be still. If they hadn't of done this, the volcano would have erupted hundreds of years ago and threatened the lives of everyone from the land of Detymis, Midium, Prisuvia, Sulicus, and even Monticus.  
+- [ ] When Amacus becomes a werewolf, he doesn't know how to control it at first. It takes him a little while to figure it out.  
+- [ ] After Crasio's demise, Satilius flies down and picks him up.  
+- [ ] The Fausor were created on Donovus deep in Alduncus. The process left them short but gave them brute strength. It was partially caused by the gravitational forces within the volcano. They are a type of Praevaltus created from the fires of the ancients (Vetanisolas) located in Alduncus. The original Fausor were miners that fell into Vetanisolas, which then transformed them into Praevaltus Fausors.  
+- [ ] Add more screen time to the three moons.  
+- [ ] Add a scene with Crasio and Alex shooting targets.  
+- [ ] They ride dragons on their quest. Alex & Ryan on Satilius, Emily and Nerissa on Armaramus, Sam, Michael, & Crasio on Sam's dragon.  
+- [ ] Amacus, among others, arrive to help at the Wilddeep Acropolis and together they attack Nebrisruim (Nightmare Base). Make sure to mention the nightmares and delusions they see.  
+- [ ] Aurusoren armor after killing the Aurusoren. Why do the Aurusoren's scales stay when all other creatures only leave behind their skeleton?  
+- [ ] add scene in book 2 where Alex wakes up and remembers and misses Chris, Alex never forgets about Chris  
+- [ ] The only reason Amacus comes to Wilddeep is because of someone at Shatterfalls he is close to. His being part werewolf creates a source of conflict  
+- [ ] Include mention of Alex's scar on his back.

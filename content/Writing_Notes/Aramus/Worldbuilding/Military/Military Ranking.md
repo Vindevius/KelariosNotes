@@ -1,0 +1,63 @@
+### [[Aramian Military]]:
+- Ranking:
+	- Tiro/Recruit
+		- Not a fully trained soldier yet.
+	- Field Marshall/Gregralis/gregarius/Dragarius
+		- Takes care of the drakes
+	- Munifex/Soldier
+		- Average Soldier
+	- Evocati
+		- Retired Soldiers
+	- Sergeant
+		- Servant
+	- Major
+		- Greater Servant
+	- Private Soldiers/Miles
+		- Private Soldiers hired by nobles.
+	- Lieutenants/Vigiltio
+		- The watchman. He is the third in command under the Vesentrion.
+	- Commander/Verendus
+		- He is second in command under the Vesentrion.
+	- Colonel/Centurion/Vesentrion
+		- Leader of 98 Men. 1 per vesentria.
+		- Different ranks within.
+			- Primus, Verendus, Tirtius, Cartus, Ceitus, Zetus, Ultremus
+			- Officers of the 1st Tusuria were the highest ranking. Officers of the 7th Tusuria were the lowest ranking.
+			- 1st Tusuria’s officers were the Priordi, the most senior was the Priastus, the first spear.
+	- Corporal/Tusurion
+	- Legion General/Legionarion
+	- Captain (Head)/Tribunes
+		- 2nd highest rank. There are seven for each general.
+	- General (Captain General)/Legates/Legorus
+		- Highest rank in the general army. There are seven of them.
+
+### [[Leazdern Military]]:
+- Ranking:
+	- Tiro/Recruit
+		- Not a fully trained soldier yet.
+	- Field Marshall/Gregralis/gregarius/Dragarius
+		- Takes care of the drakes
+	- Munifex/Soldier
+		- Average Soldier
+	- Evocati
+		- Retired Soldiers
+	- Sergeant
+		- Servant
+	- Major
+		- Greater Servant
+	- Private Soldiers/Miles
+		- Private Soldiers hired by nobles.
+	- Lieutenants
+		- Commander
+	- Battalion Lord/Kaltivara
+		- Leader of 98 Men. 1 per vesentria.
+		- Different ranks within.
+			- Primus, Verendus, Tirtius, Cartus, Ceitus, Zetus, Ultremus
+			- Officers of the 1st Tusuria were the highest ranking. Officers of the 7th Tusuria were the lowest ranking.
+			- 1st Tusuria’s officers were the Priordi, the most senior was the Priastus, the first spear.
+	- Division Commander/Shuasm Qayidaskar
+	- Corps General/Fayal
+	- Captain (Head)/Tribunes
+		- 2nd highest rank. There are seven for each general.
+	- General (Captain General)/
+		- Highest rank in the general army. There are seven of them.

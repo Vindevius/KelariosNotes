@@ -1,0 +1,7 @@
+**Canguls** are menacing, serpent-like reptiles with several distinctive features:
+- **Appearance**: Canguls have elongated, snake-like bodies covered in dark, rough scales that are primarily black and brown. Their scales provide a natural camouflage, blending into their surroundings.
+- **Head**: They possess hound-like faces, which give them a fierce and predatory look. Their heads are slightly broader than those of typical serpents, with pronounced, sharp features.
+- **Venom**: Canguls are highly venomous. Their venom is extremely potent and can cause death within half an hour of exposure. The venom is delivered through sharp fangs that inject the toxin deep into their prey.
+- **Size and Movement**: They are similar in shape to vipers, with a sinuous, agile movement that allows them to strike quickly and efficiently. Their bodies are built for stealth and swift attacks.
+- **Behavior**: Canguls are aggressive and territorial, using their venom to subdue prey and defend their territory. They rely on their venomous bite for both hunting and protection.
+- **Habitat**: They are typically found in dense, shadowy environments where their dark scales offer effective camouflage. Their preference for such environments makes them elusive and difficult to spot.

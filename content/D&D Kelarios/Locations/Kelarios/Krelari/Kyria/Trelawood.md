@@ -1,0 +1,31 @@
+1. **Settlement Name:** Trelawood
+2. **Settlement Type:** City (population 8,500)
+3. **Defining Trait:** Trelawood is known for its sprawling docks, with ships constantly coming and going. The city is a hub of maritime trade, and the sounds of cargo being unloaded and ships’ bells ringing are always in the air.
+4. **Claim to Fame:** Trelawood is famed for its highly skilled shipbuilders and the legendary Trelas Festival, a week-long event celebrating the city’s maritime culture, featuring boat races, seafood feasts, and impressive ship displays.
+5. **Current Calamity:** A mysterious disease has begun to spread among the city's dockworkers and sailors. The plague seems to be tied to the waters of the Bay of Trelas, and the city fears it might disrupt its vital trade routes.
+6. **Local Leaders:** The city is governed by a council of five influential families, known as the Trelawood Syndicate. Each family has control over different aspects of the city’s commerce, from shipbuilding to trade to fishing. There is a current power struggle within the council, with one family trying to seize control of the others' territories.
+7. **Noteworthy People:**
+    - **Captain Lysandra Alveris:** A renowned ship captain known for her daring voyages across the sea. She is one of the few people with the knowledge of navigating through dangerous waters beyond the Bay of Trelas.
+    - **Ivar Kerdan:** A grizzled veteran of the last war, now working as a mercenary commander and often hired by the Syndicate to settle disputes.
+    - **Fiona Rooke:** A brilliant scientist and healer who is studying the mysterious disease affecting the city, searching for a cure.
+    - **Olrik Swaith:** A young and charismatic merchant with ambitions of becoming the new leader of the Trelawood Syndicate.
+8. **Noteworthy Places:**
+    - **The Dockside Tavern:** A popular watering hole for sailors, fishermen, and travelers. It serves the freshest seafood and is known for hosting impromptu sea shanty sing-alongs.
+    - **The Shipwright’s Forge:** A large workshop where some of the finest ships in the region are built. It’s an impressive structure full of wood, iron, and sawdust, with several ship designs displayed on the walls.
+    - **Bay of Trelas Market:** A sprawling outdoor market next to the docks, filled with merchants selling exotic goods, seafood, and wares from across the sea.
+    - **The Syndicate Hall:** A grand building where the council of families meet. It is guarded heavily, and its interior is filled with luxury, ornate tapestries, and large stained-glass windows depicting the city’s history.
+    - **The Sea Shrine:** A small temple located at the water’s edge, dedicated to the deities of the sea. Pilgrims come to offer prayers for safe voyages and protection from storms.
+9. **Most Expensive Item for Sale:** A fully decorated, seaworthy vessel known as the _Golden Wave_, valued at 250,000 GP. It is one of the most beautiful ships in existence, with intricate carvings, enchanted sails, and a rich history of successful expeditions.
+10. **Historical Importance:** Trelawood was founded as a trading post during the early days of the Kyria Kingdom. Over the centuries, it has grown into a strategic port city and one of the kingdom’s most vital sources of naval power and trade. The city played a pivotal role in the naval campaigns against pirates and enemy forces during the last war.
+11. **Magical Elements:** The Bay of Trelas is rumored to have ancient magical energies, particularly near the Sea Shrine. Some sailors believe that the waters have healing properties, while others think that powerful sea spirits guard the waters. There are also occasional sightings of strange, glowing fish and underwater creatures.
+12. **Community Atmosphere:** Trelawood is bustling and energetic, especially during the day. While the people are generally warm and welcoming to visitors, there is a palpable tension in the air due to the current political instability among the Syndicate families. Most people are focused on their trade, but there is an underlying current of suspicion surrounding the recent illness.
+13. **Iconic Landmarks:**
+	- **The Grand Docks:** A massive dock system that stretches across the entire southern edge of Trelawood. It’s where ships from all over the world come to dock and where much of the city's commerce takes place.
+	- **The Lighthouse of Trelas:** An imposing, ancient lighthouse at the mouth of the Bay of Trelas. It has stood for centuries and is said to be the beacon that has saved countless ships from wrecking during storms.
+	- **The Trelas Fountain:** A large marble fountain in the center of the market square, fed by water from the Bay of Trelas. It is beautifully designed and often serves as a meeting point for people in the city.
+1. **Geographical Surroundings:** The city sits on the southern edge of Kyria, where the Arius River converges with the Bay of Trelas. The fertile riverbanks support agriculture, particularly fishing and seaweed farming. The waters of the bay teem with marine life, and the coastline is often a site for shipwrecks due to sudden storms. The city’s strategic location as a maritime hub makes it a target for pirates and foreign powers.
+2. **City Districts:**
+	- **The Docks District:** The bustling heart of the city, home to the marketplace, shipyards, and the majority of Trelawood’s working-class population. The area is noisy and full of activity.
+	- **The Merchant’s Quarter:** A wealthy district where the elite of Trelawood live, close to the Syndicate Hall and filled with high-end shops, restaurants, and luxurious homes.
+	- **The Old Town:** The oldest part of the city, where many of the original buildings still stand. It’s filled with narrow alleys, ancient inns, and the Sea Shrine.
+	- **The Ward:** A district under strict control by the Trelawood Syndicate, where political machinations take place behind closed doors. It is full of government buildings, meeting halls, and guarded residences.
